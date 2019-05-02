@@ -354,6 +354,7 @@
             this.MarkUpButton.Name = "MarkUpButton";
             this.MarkUpButton.Size = new System.Drawing.Size(71, 22);
             this.MarkUpButton.Text = "Mark up";
+            this.MarkUpButton.Visible = false;
             this.MarkUpButton.Click += new System.EventHandler(this.MarkUpButton_Click);
             // 
             // panel7
