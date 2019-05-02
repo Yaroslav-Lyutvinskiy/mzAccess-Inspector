@@ -1,9 +1,9 @@
-<FilePair Name="Labeled 1" FileNeg="DeepLabeling_Neg_L1" FilePos="DeepLabeling_Pos_L1" Order="0" Reported="True" Color="FFF76135"/>
-<FilePair Name="Labeled 2" FileNeg="DeepLabeling_Neg_L2" FilePos="DeepLabeling_Pos_L2" Order="1" Reported="True" Color="FFE0400A"/>
-<FilePair Name="Labeled 3" FileNeg="DeepLabeling_Neg_L3" FilePos="DeepLabeling_Pos_L3" Order="2" Reported="True" Color="FFCA3409"/>
-<FilePair Name="Unlabeled 1" FileNeg="DeepLabeling_Neg_U1" FilePos="DeepLabeling_Pos_U1" Order="3" Reported="True" Color="FF00A8F9"/>
-<FilePair Name="Unlabeled 2" FileNeg="DeepLabeling_Neg_U2" FilePos="DeepLabeling_Pos_U2" Order="4" Reported="True" Color="FF0080C0"/>
-<FilePair Name="Unlabeled 3" FileNeg="DeepLabeling_Neg_U3" FilePos="DeepLabeling_Pos_U3" Order="5" Reported="True" Color="FF005F8C"/>
+<FilePair Name="Labeled-1" FileNeg="DeepLabeling_Neg_L1" FilePos="DeepLabeling_Pos_L1" Order="0" Reported="True" Color="FFFF3737"/>
+<FilePair Name="Labeled-2" FileNeg="DeepLabeling_Neg_L2" FilePos="DeepLabeling_Pos_L2" Order="1" Reported="True" Color="FFEC0000"/>
+<FilePair Name="Labeled-3" FileNeg="DeepLabeling_Neg_L3" FilePos="DeepLabeling_Pos_L3" Order="2" Reported="True" Color="FFD70000"/>
+<FilePair Name="Unlabeled-1" FileNeg="DeepLabeling_Neg_U1" FilePos="DeepLabeling_Pos_U1" Order="3" Reported="True" Color="FF3E3EFF"/>
+<FilePair Name="Unlabeled-2" FileNeg="DeepLabeling_Neg_U2" FilePos="DeepLabeling_Pos_U2" Order="4" Reported="True" Color="FF0000E8"/>
+<FilePair Name="Unlabeled-3" FileNeg="DeepLabeling_Neg_U3" FilePos="DeepLabeling_Pos_U3" Order="5" Reported="True" Color="FF0000A0"/>
 <FilePair Name="Blank" FileNeg="DeepLabeling_Neg_Blank" FilePos="DeepLabeling_Pos_Blank" Order="6" Reported="True" Color="FF000000"/>
 
 NAME	ADDUCT	MODE	DESC	MZ	RTMIN	RTMAX	C13TOCHECK

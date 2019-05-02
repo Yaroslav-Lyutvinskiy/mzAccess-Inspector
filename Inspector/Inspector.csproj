@@ -146,6 +146,7 @@
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="CodeArtEng\ToolStripMruListUserGuide.pdf" />
+    <None Include="Inspector User Manual 2019-05-02.docx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
