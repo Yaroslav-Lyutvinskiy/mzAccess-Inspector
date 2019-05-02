@@ -1,0 +1,1118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeArtEng.Controls</name>
+    </assembly>
+    <members>
+        <member name="F:CodeArtEng.Controls.CommandLineBuilderDialog.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineBuilderDialog.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineBuilderDialog.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.CommandLineArgument">
+            <summary>
+            Command Line Argument
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineArgument.Name">
+            <summary>
+            Argument Name
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineArgument.Description">
+            <summary>
+            Short description
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineArgument.Value">
+            <summary>
+            Argument value parsed from command line.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.CommandLineSwitch">
+            <summary>
+            Optional Switches and Arguments
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineSwitch.Description">
+            <summary>
+            Short description
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineSwitch.VariableName">
+            <summary>
+            Optional variable for switch.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineSwitch.Enabled">
+            <summary>
+            Set to true if switch defined in command line.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineSwitch.Value">
+            <summary>
+            Switch value parsed from command line.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.CommandLineHelper">
+            <summary>
+            Utility Class to define and parse Command Line Arguments
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.CommandLineHelper.Description">
+            <summary>
+            Description of Application.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetArguments">
+            <summary>
+            Return list of registered command line arguments.
+            </summary>
+            <remarks>For CommandLineHelperDialog only</remarks>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetSwitches">
+            <summary>
+            Return list of registered switches
+            </summary>
+            <remarks>For CommandLineHelperDialog only</remarks>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetArgumentsName">
+            <summary>
+            Get registered arguments name as array
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetSwitchesName">
+            <summary>
+            Get registered switches name as array
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="description"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.AddArgument(System.String,System.String)">
+            <summary>
+            Register a mandatory argument to command line.
+            </summary>
+            <param name="name">Argument name</param>
+            <param name="description">Short description</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.AddSwitch(System.String,System.String,System.String)">
+            <summary>
+            Register an optional switch or argument to command line which prefix with '/'.
+            </summary>
+            <param name="name">Optional argument / switch name. Case insensitive</param>
+            <param name="description">Short description for key</param>
+            <param name="variableName">Optional variable name</param>
+            <exception cref="T:System.FormatException">Switch name does not prefix with '/'</exception>
+            <exception cref="T:System.ArgumentException">Switch already defined.</exception>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.PrintHelp">
+            <summary>
+            Print usage screen
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.Reset">
+            <summary>
+            Reset all Argument and Switches Value and reset all Switches flag.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.SetArgument(System.String,System.String)">
+            <summary>
+            Update value for selected argument
+            </summary>
+            <param name="name">Argument Name</param>
+            <param name="value">Value</param>
+            <exception cref="T:System.ArgumentException">Argument not found.</exception>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.ClearSwitch(System.String)">
+            <summary>
+            Clear Switch Flag
+            </summary>
+            <param name="switchName">Switch Name</param>
+            <exception cref="T:System.ArgumentException">Invalid switch</exception>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.SetSwitch(System.String,System.String)">
+            <summary>
+            Set Switch Flag and update switch value if valid.
+            </summary>
+            <param name="switchName">Switch Name</param>
+            <param name="value">Value for switch (Optional)</param>
+            <exception cref="T:System.ArgumentException">Invalid switch</exception>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.ParseCommandLine">
+            <summary>
+            Parse command line input from environment arguments
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.ParseCommandLine(System.String[])">
+            <summary>
+            Parse command line from arguments array
+            </summary>
+            <param name="arguments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetArgumentValue(System.String)">
+            <summary>
+            Retreive value for defined argument
+            </summary>
+            <param name="name">Argument name, non case sensitive</param>
+            <returns>Value in string</returns>
+            <exception cref="T:System.ArgumentNullException">Argument not defined.</exception>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.IsSwitchSet(System.String)">
+            <summary>
+            Check if an optional switch is set
+            </summary>
+            <param name="name">Switch name, non case sensitive</param>
+            <returns>true / false. Retun false if key is not defined.</returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.GetSwitchValue(System.String,System.String)">
+            <summary>
+            Retrieve value associated with defined switch.
+            </summary>
+            <param name="name">Switch name, non case sensitive</param>
+            <param name="defaultValue"> (OPTIONAL) Default value if switch is not defined, empty string by default.</param>
+            <returns>value</returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.BuildCommandLine">
+            <summary>
+            Generate command line string using value and switches state set.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.CommandLineHelper.ShowDialog">
+            <summary>
+            Show Command Line Builder Dialog (WinForm)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CodeArtEng.Controls.LabeledTextBox">
+            <summary>
+            File and folder selection panel base.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.LabeledTextBox.TextChanged">
+            <summary>
+            Event raised when text changed.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.LabeledTextBox.CheckedChanged">
+            <summary>
+            Event raised when check box is checked / unchecked.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.LabeledTextBox.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.Hint">
+            <summary>
+            Hint to text box
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.Text">
+            <summary>
+            Text associated with the control.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.LabelText">
+            <summary>
+            Label Text
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.LabelAutoSize">
+            <summary>
+            Auto Resize Label 
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.LabelWidth">
+            <summary>
+            Width of label control
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.ShowCheckBox">
+            <summary>
+            Show or hide check box
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.LabeledTextBox.Checked">
+            <summary>
+            Set state for check box. Always true if ShowCheckBox set to false.
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.LabeledTextBox.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.LabeledTextBox.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.LabeledTextBox.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.SaveFilePanel">
+            <summary>
+            Panel which associate with <see cref="T:System.Windows.Forms.TextBox"/> and <see cref="T:System.Windows.Forms.SaveFileDialog"/> for file selection.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.SaveFilePanel.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.SaveFilePanel.SelectedFile">
+            <summary>
+            Get or set file name for selected file.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.SaveFilePanel.FileFilter">
+            <summary>
+            Get or set filter for file selection dialog
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.SaveFilePanel.VerifyPath">
+            <summary>
+            Verify selected path in open file dialog.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.SaveFilePanel.VerifyFileName">
+            <summary>
+            Verify selected file in open file dialog.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.HintedTextBox">
+            <summary>
+            TextBox control with hint.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.HintedTextBox.BeginInit">
+            <summary>
+            Signal the object that initialization is starting.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.HintedTextBox.EndInit">
+            <summary>
+            Signal the object that initialization is completed.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.HintedTextBox.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.HintedTextBox.Hint">
+            <summary>
+            Hint Text
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.HintedTextBox.Text">
+            <summary>
+            Input Text for TextBox
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.HintedTextBox.PasswordChar">
+            <summary>
+            Define character to mask a password text.
+            Property is overridable by UseSystemPassword.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.HintedTextBox.ForeColor">
+            <summary>
+            Text Color.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.HintedTextBox.OnTextChanged(System.EventArgs)">
+            <summary>
+            Update text box when text changed.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="T:CodeArtEng.Controls.MultiLineButtonStyle">
+            <summary>
+            Multiline Button display style
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.MultiLineButtonStyle.RoundedRectangle">
+            <summary>
+            Rounded Rectangle Button
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.MultiLineButtonStyle.Square">
+            <summary>
+            Square Button
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.MultiLineButton">
+            <summary>
+            Button with Main Title and SubTitle
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.FillColor">
+            <summary>
+            Button's Color
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.FillColorMouseHover">
+            <summary>
+            Button's Color when mouse moved over.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.Image">
+            <summary>
+            Button's Image
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.ImageMargin">
+            <summary>
+            Space between image, border and text.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BorderStyle">
+            <summary>
+            Border line style
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BorderWidth">
+            <summary>
+            Border line width
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BorderColor">
+            <summary>
+            Border's color
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BorderColorActive">
+            <summary>
+            Border's color when clicked or focused.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.ButtonStyle">
+            <summary>
+            Button style, <see cref="T:CodeArtEng.Controls.MultiLineButtonStyle"/> 
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.MainTitle">
+            <summary>
+            Main Title Text
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.Subtitle">
+            <summary>
+            Subtitle Text
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.SubtitleVisible">
+            <summary>
+            Show or Hide Subtitle
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.MainTitleFont">
+            <summary>
+            Configure Font for Main Title
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.SubTitleFont">
+            <summary>
+            Configure Font for Subtitle
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.SpacingBetweenTitles">
+            <summary>
+            Define spacing between Main Title and Subtitle in pixels.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.Font">
+            <summary>
+            Not Implemented.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.Text">
+            <summary>
+            Not Implemented.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BackgroundImage">
+            <summary>
+            Not Implemented.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.MultiLineButton.BackgroundImageLayout">
+            <summary>
+            Not Implemented.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.#ctor">
+            <summary>
+            Create an instance of <see cref="T:CodeArtEng.Controls.MultiLineButton"/> 
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.Paint event.
+            Draw implementation.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnPaddingChanged(System.EventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.PaddingChanged event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnMouseEnter(System.EventArgs)">
+            <summary>
+             Raises the System.Windows.Forms.Control.MouseEnter event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnMouseLeave(System.EventArgs)">
+            <summary>
+             Raises the System.Windows.Forms.Control.MouseLeave event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnEnabledChanged(System.EventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.EnabledChanged event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.MouseDown event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.MouseUp event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.OnLostFocus(System.EventArgs)">
+            <summary>
+            Raises the System.Windows.Forms.Control.LostFocus event.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="F:CodeArtEng.Controls.MultiLineButton.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.MultiLineButton.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FileExplorer">
+            <summary>
+            File explorer control. Capable to explore local and remote path.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorer.SelectedFolder">
+            <summary>
+            Return folder selected in folder tree view.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorer.HideSystemFolder">
+            <summary>
+            Show / hide system folder
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorer.FileView">
+            <summary>
+            Configure file window's view.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorer.SplitterDistance">
+            <summary>
+            Determines pixel distance of the splitter from the left of top edge.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.AttachToMyComputer">
+            <summary>
+            Attach control to local.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.AttachSource(CodeArtEng.Controls.IFileExplorer)">
+            <summary>
+            Attach control to object which implement IFileExplorer interface.
+            </summary>
+            <param name="source"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.DetachSource">
+            <summary>
+            Unsubscribe control from current source
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.SelectedFiles">
+            <summary>
+            Get list of selected file.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.Refresh">
+            <summary>
+            Refresh control.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.FileExplorer.FolderSelected">
+            <summary>
+            Event raised when folder in folder tree view is selected
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.FileExplorer.SourceChanged">
+            <summary>
+            Event raised when file source had changed.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.FileExplorer.FileDoubleClicked">
+            <summary>
+            Event raised when user double clicked file with mouse
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.FileExplorer.KeyDown">
+            <summary>
+            Event raised when key is pressed.
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FileExplorer.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param caption="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorer.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FileExplorerEventArgs">
+            <summary>
+            File explorer event arguments.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorerEventArgs.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FolderBrowsePanel">
+            <summary>
+            Panel which associated with <see cref="T:System.Windows.Forms.TextBox"/> and <see cref="T:System.Windows.Forms.FolderBrowserDialog"/> for path selection.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FolderBrowsePanel.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FolderBrowsePanel.SelectedPath">
+            <summary>
+            Get or set selected directory
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FileExplorerItemInfo">
+            <summary>
+            File explorer item
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorerItemInfo.#ctor(System.String,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="name"></param>
+            <param name="isDirectory"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorerItemInfo.#ctor(System.String,System.String,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="name"></param>
+            <param name="fullName"></param>
+            <param name="isDirectory"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorerItemInfo.#ctor(System.IO.DirectoryInfo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="directory"></param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FileExplorerItemInfo.#ctor(System.IO.FileInfo)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="file"></param>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.Name">
+            <summary>
+            Display name
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.FullName">
+            <summary>
+            Item's full path.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.Attributes">
+            <summary>
+            Items attributes.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.Exists">
+            <summary>
+            True if item exists
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.Length">
+            <summary>
+            Item size in length.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.CreationTime">
+            <summary>
+            Creation time
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.CreationTimeUtc">
+            <summary>
+            Creation time in UTC format
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.LastAccessTime">
+            <summary>
+            Last access time
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.LastAccessTimeUtc">
+            <summary>
+            Last access time in UTC format
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.LastWriteTime">
+            <summary>
+            Last modified time
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FileExplorerItemInfo.LastWriteTimeUtc">
+            <summary>
+            Last modified time in UTC format.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FileExplorerType">
+            <summary>
+            File explorer type
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FileExplorerType.Local">
+            <summary>
+            Local drive
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FileExplorerType.Ftp">
+            <summary>
+            Ftp Server
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.IFileExplorer">
+            <summary>
+            File explorer interface.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.IFileExplorer.Name">
+            <summary>
+            Instance name
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.IFileExplorer.Root">
+            <summary>
+            Root path / server name.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.IFileExplorer.GetDirectories(System.String)">
+            <summary>
+            Get subdirectoy list from selected path.
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.IFileExplorer.GetFiles(System.String)">
+            <summary>
+            Get file list from selected path
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="P:CodeArtEng.Controls.IFileExplorer.HostType">
+            <summary>
+            Get host type. <see cref="T:CodeArtEng.Controls.FileExplorerType"/>
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.IFileExplorer.PathSeparator">
+            <summary>
+            Get path separator.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.IFileExplorer.IsConnected">
+            <summary>
+            Check if  source still connected.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.FilePanelBase">
+            <summary>
+            File and folder selection panel base.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.FilePanelBase.TextChanged">
+            <summary>
+            Event raised when text changed.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FilePanelBase.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FilePanelBase.Text">
+            <summary>
+            Text associated with the control.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FilePanelBase.LabelAutoSize">
+            <summary>
+            Auto Resize Label
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.FilePanelBase.LabelWidth">
+            <summary>
+            Width of label control
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FilePanelBase.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.FilePanelBase.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.FilePanelBase.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FilePanelBase.btBrowse">
+            <summary>
+            File Panel Browse button
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.FilePanelBase.textbox">
+            <summary>
+            File Panel path text box.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.OpenFilePanel">
+            <summary>
+            Panel which associate with <see cref="T:System.Windows.Forms.TextBox"/> and <see cref="T:System.Windows.Forms.OpenFileDialog"/> for file selection.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.OpenFilePanel.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.OpenFilePanel.SelectedFile">
+            <summary>
+            Get or set file name for selected file.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.OpenFilePanel.FileFilter">
+            <summary>
+            Get or set filter for file selection dialog
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.OpenFilePanel.VerifyPath">
+            <summary>
+            Verify selected path in open file dialog.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.OpenFilePanel.VerifyFileName">
+            <summary>
+            Verify selected file in open file dialog.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.GreenDot">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.GreyDot">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.OrangeDot">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.RedDot">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.Properties.Resources.YellowDot">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.StatusLabelState">
+            <summary>
+            Supported state for <see cref="T:CodeArtEng.Controls.StatusLabel"/>
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.StatusLabelState.Green">
+            <summary>
+            State with Green Color
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.StatusLabelState.Yellow">
+            <summary>
+            State with Yellow Color
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.StatusLabelState.Red">
+            <summary>
+            State with Red Color
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.StatusLabelState.Grey">
+            <summary>
+            State with Grey Color
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.StatusLabel">
+            <summary>
+            Label with status indicator/
+            <seealso cref="T:CodeArtEng.Controls.StatusLabelState"/>
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.StatusLabel.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.StatusLabel.Text">
+            <summary>
+            The text associated with the control.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.StatusLabel.State">
+            <summary>
+            Get or set the status image.
+            </summary>
+        </member>
+        <member name="F:CodeArtEng.Controls.StatusLabel.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.StatusLabel.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CodeArtEng.Controls.StatusLabel.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.TimePickerEditor">
+            <summary>
+            <para>Time Picker Editor for <see cref="T:System.Windows.Forms.PropertyGrid"/></para> 
+            <para>Usage: Add attributes [Editor(typeof(TimePickerEditor), typeof(UITypeEditor))] object's property to activate this control.</para>
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.#ctor">
+            <summary>
+            Create TimePicker Editor Control.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.EditValue(System.ComponentModel.ITypeDescriptorContext,System.IServiceProvider,System.Object)">
+            <summary>
+            Edit value
+            </summary>
+            <param name="context"></param>
+            <param name="provider"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.GetEditStyle(System.ComponentModel.ITypeDescriptorContext)">
+            <summary>
+            Override <see cref="T:System.Drawing.Design.UITypeEditorEditStyle"/> as <see cref="F:System.Drawing.Design.UITypeEditorEditStyle.DropDown"/>.
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.Dispose">
+            <summary>
+            Manually dispose instance.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.ReleaseManagedResources">
+            <summary>
+            Dispose function. Release manage resources.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.TimePickerEditor.ReleaseUnmanagedResources">
+            <summary>
+            Dispose function. Release unmanaged resources.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.ToolStripMruList">
+            <summary>
+            Toolstrip Most Recently Used (MRU) List
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.ToolStripMruList.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.ToolStripMruList.MruListSize">
+            <summary>
+            Number of items in MRU List.
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.ToolStripMruList.MaxPathLength">
+            <summary>
+            File path display length.
+            Long file path will be truncated. 
+            Set to -1 to show full path.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.ToolStripMruList.AddRecentFileToMruList(System.String)">
+            <summary>
+            Add recently used file to MRU list
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="P:CodeArtEng.Controls.ToolStripMruList.RecentFileList">
+            <summary>
+            Get or set Recent file list items.
+            </summary>
+        </member>
+        <member name="E:CodeArtEng.Controls.ToolStripMruList.RecentFileClicked">
+            <summary>
+            Event raised when item in recent file list clicked.
+            </summary>
+        </member>
+        <member name="T:CodeArtEng.Controls.RecentFileClickedEventArgs">
+            <summary>
+            Recent File List Clicked Event Arguments
+            </summary>
+        </member>
+        <member name="P:CodeArtEng.Controls.RecentFileClickedEventArgs.FileName">
+            <summary>
+            Selected file path.
+            </summary>
+        </member>
+        <member name="M:CodeArtEng.Controls.RecentFileClickedEventArgs.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="fileName">Selected file path.</param>
+        </member>
+        <member name="T:System.ComponentModel.DateTimeConverter2">
+            <summary>
+            Improved implementation of <see cref="T:System.ComponentModel.DateTimeConverter"/> with intention to fix issue where 
+            where time at 12:00 AM is not display.
+            </summary>
+        </member>
+        <member name="M:System.ComponentModel.DateTimeConverter2.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:System.ComponentModel.DateTimeConverter2.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <summary>
+            Convert from <see cref="T:System.DateTime"/> to <see cref="T:System.String"/>
+            </summary>
+            <param name="context"></param>
+            <param name="culture"></param>
+            <param name="value"></param>
+            <param name="destinationType"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

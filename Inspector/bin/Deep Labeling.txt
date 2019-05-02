@@ -1,0 +1,1308 @@
+<FilePair Name="Labeled 1" FileNeg="DeepLabeling_Neg_L1" FilePos="DeepLabeling_Pos_L1" Order="0" Reported="True" Color="FFF76135"/>
+<FilePair Name="Labeled 2" FileNeg="DeepLabeling_Neg_L2" FilePos="DeepLabeling_Pos_L2" Order="1" Reported="True" Color="FFE0400A"/>
+<FilePair Name="Labeled 3" FileNeg="DeepLabeling_Neg_L3" FilePos="DeepLabeling_Pos_L3" Order="2" Reported="True" Color="FFCA3409"/>
+<FilePair Name="Unlabeled 1" FileNeg="DeepLabeling_Neg_U1" FilePos="DeepLabeling_Pos_U1" Order="3" Reported="True" Color="FF00A8F9"/>
+<FilePair Name="Unlabeled 2" FileNeg="DeepLabeling_Neg_U2" FilePos="DeepLabeling_Pos_U2" Order="4" Reported="True" Color="FF0080C0"/>
+<FilePair Name="Unlabeled 3" FileNeg="DeepLabeling_Neg_U3" FilePos="DeepLabeling_Pos_U3" Order="5" Reported="True" Color="FF005F8C"/>
+<FilePair Name="Blank" FileNeg="DeepLabeling_Neg_Blank" FilePos="DeepLabeling_Pos_Blank" Order="6" Reported="True" Color="FF000000"/>
+
+NAME	ADDUCT	MODE	DESC	MZ	RTMIN	RTMAX	C13TOCHECK
+1anpthl	H+	+	"6-Methylquinoline|2-Aminonaphthalene|Quinaldine Formula: C10H9N"	144.08077	7.40	7.90	10
+1madn	H+	+	"2'-O-Methyladenosine|3'-O-Methyladenosine|N6-Methyladenosine|1-Methyladenosine Formula: C11H15N5O4"	282.11968	7.50	8.00	11
+2kmb	H+	+	"2-Oxo-4-methylthiobutanoic acid Formula: C5H8O3S"	149.02669	9.00	9.30	5
+3mob	H-	-	"3-Methyl-2-oxobutanoate Formula: C5H8O3"	115.04007	2.00	2.50	5
+3mop|4mop	H-	-	"Acetoin acetate|Ethyl 3-oxobutanoate|(4S,6S)-3,4,5,6-Tetrahydro-4-hydroxy-6-methyl-2H-pyran-2-one|2-Methyl-3-ketovaleric acid|Mevalonolactone|Ketoleucine|4-Acetylbutyrate|Pantolactone|3-Methyl-2-oxovaleric acid|5-Ethoxy-4,5-dihydro-2(3H)furanone|Adipate semialdehyde|2-Ketohexanoic acid|Sherry lactone|Methyl levulinate|3-Oxohexanoic acid|Ethyl acetoacetate Formula: C6H10O3"	129.05571	0.90	1.50	6
+4abut	H+	+	"4-Aminobutanoate Formula: C4H9NO2"	104.07060	10.40	10.90	4
+4gudbutn	H+	+	"4-Guanidinobutanoic acid Formula: C5H11N3O2"	146.09240	10.20	10.70	5
+4tmeabutn	H+	+	"3-Dehydroxycarnitine Formula: C7H15NO2"	146.11755	9.00	9.40	7
+5oxpro	H-	-	"Pyrroline hydroxycarboxylic acid|5-Oxoprolinate|Pyrrolidonecarboxylic acid|dimethadione|N-Acryloylglycine|Pyroglutamic acid|(3R,5S)-1-pyrroline-3-hydroxy-5-carboxylic Acid|1-Pyrroline-4-hydroxy-2-carboxylate Formula: C5H7NO3"	128.03531	7.10	7.70	5
+5oxpro	H+	+	"Pyrroline hydroxycarboxylic acid|5-Oxoprolinate|Pyrrolidonecarboxylic acid|dimethadione|N-Acryloylglycine|Pyroglutamic acid|(3R,5S)-1-pyrroline-3-hydroxy-5-carboxylic Acid|1-Pyrroline-4-hydroxy-2-carboxylate Formula: C5H7NO3"	130.04987	6.80	8.20	5
+abt	H-	-	"L-Arabinitol Formula: C7H12N2S2"	187.03691	7.30	7.90	5
+acala-L	H-	-	"N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	130.05096	1.20	1.80	5
+acasn-L	H-	-	"Formiminoglutamic acid|N-Acetylasparagine Formula: C6H10N2O4"	173.05678	5.70	8.20	6
+acasn-L	H+	+	"Formiminoglutamic acid|N-Acetylasparagine Formula: C6H10N2O4"	175.07133	7.60	8.20	6
+accys-L	H-	-	"Acetylcysteine Formula: C5H9NO3S"	162.02304	2.40	3.10	5
+acglu	H-	-	"Glutarylglycine|N-Acetylglutamic acid Formula: C7H11NO5"	188.05644	10.80	11.30	7
+acglu	H+	+	"Glutarylglycine|N-Acetylglutamic acid Formula: C7H11NO5"	190.07100	10.80	11.20	7
+acmet-L	H-	-	"N-Acetyl-L-methionine Formula: C7H13NO3S"	190.05433	2.30	2.60	7
+acmet-L	H+	+	"N-Acetyl-L-methionine Formula: C7H13NO3S"	192.06889	2.30	2.50	7
+acnam	H+	+	"N-Acetyl-a-neuraminic acid|N-Acetylneuraminic acid Formula: C11H19NO9"	310.11325	9.40	9.90	11
+acnt	H-	-	"cis-Aconitic acid|Dehydroascorbic acid|trans-Aconitic acid Formula: C6H6O6"	173.00916	13.40	13.80	6
+acrn	H+	+	"L-Acetylcarnitine|N-lactoyl-Leucine Formula: C9H17NO4"	204.12303	6.50	7.70	10
+ade	H-	-	"Adenine Formula: C5H5N5"	134.04722	4.00	4.70	5
+adma	H+	+	"Asymmetric dimethylarginine|Symmetric dimethylarginine Formula: C8H18N4O2"	203.15025	13.00	13.60	8
+adn	H+	+	"N-(1-Deoxy-1-fructosyl)serine|Neuraminic acid|Adenosine|Deoxyguanosine|Zidovudine|Vidarabine Formula: C10H13N5O4"	268.10403	3.90	5.00	10
+adp	H-	-	"dGDP|ADP|Adenosine 3',5'-diphosphate Formula: C10H15N5O10P2"	426.02214	11.90	12.70	10
+adp	Na+	+	"dGDP|ADP|Adenosine 3',5'-diphosphate Formula: C10H15N5O10P2"	450.01864	12.00	12.40	10
+adp|dgdp	H+	+	"dGDP|ADP|Adenosine 3',5'-diphosphate Formula: C10H15N5O10P2"	428.03669	11.90	14.10	10
+akg	H-	-	"3-Oxoglutaric acid|Oxoglutaric acid Formula: C5H6O5"	145.01425	11.40	11.90	5
+ala-L	H-	-	"D-Alanine|Ethyl carbamate|Sarcosine|(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform A (protein)|Beta-Alanine|L-Alanine Formula: C3H7NO2"	88.04040	9.00	10.90	3
+ala-L	H+	+	"D-Alanine|Ethyl carbamate|Sarcosine|(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform A (protein)|Beta-Alanine|L-Alanine Formula: C3H7NO2"	90.05495	9.70	10.00	3
+amet	H+	+	"S-adenosyl-L-methioninate|Dulxanthone E|5'-Methoxycurcumin Formula: C15H22N6O5S"	399.14451	11.70	12.10	15
+amp	H+	+	"2'-Deoxyguanosine 5'-monophosphate|Adenosine monophosphate|2-hydroxy-dAMP|Adenosine 2'-phosphate|3'-AMP Formula: C10H14N5O7P"	348.07036	11.90	12.50	10
+aprut	H+	+	"N-Acetylputrescine|N-Acetylputrescinium Formula: C6H14N2O"	131.11788	11.00	11.60	6
+arg-L	H-	-	"D-Arginine|L-Arginine Formula: C6H14N4O2"	173.10439	15.40	16.10	6
+arg-L	Na+	+	"D-Arginine|L-Arginine Formula: C6H14N4O2"	197.10089	15.40	16.10	6
+asn-L	H-	-	"N-Carbamoylsarcosine|Glycyl-glycine|Ureidopropionic acid|L-Asparagine|D-Asparagine Formula: C4H8N2O3"	131.04621	10.30	10.70	4
+asn-L	H+	+	"N-Carbamoylsarcosine|Glycyl-glycine|Ureidopropionic acid|L-Asparagine|D-Asparagine Formula: C4H8N2O3"	133.06077	10.30	10.70	4
+asn-L	Na+	+	"N-Carbamoylsarcosine|Glycyl-glycine|Ureidopropionic acid|L-Asparagine|D-Asparagine Formula: C4H8N2O3"	155.04271	10.20	11.10	4
+asp-L	H-	-	"D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	132.03023	11.00	11.50	4
+asp-L	H+	+	"D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	134.04478	11.10	11.40	4
+atp	H-	-	"dGTP|Adenosine triphosphate|2-hydroxy-dATP Formula: C10H16N5O13P3"	505.98847	12.80	15.60	10
+atp	H+	+	"dGTP|Adenosine triphosphate|2-hydroxy-dATP Formula: C10H16N5O13P3"	508.00302	12.70	13.40	10
+cholp	H+	+	"Choline phosphate Formula: C5H14NO4P"	184.07332	11.10	12.40	5
+cit|icit	H-	-	"D-threo-Isocitric acid|Citric acid|Diketogulonic acid|D-Glucaro-1,4-lactone|Isocitric acid|2,3-Diketo-L-gulonate|(1R,2R)-Isocitric acid Formula: C6H8O7"	191.01973	13.30	14.70	6
+citmal	H-	-	"Ribonolactone|D-Xylono-1,5-lactone|L-2-Hydroxyglutaric acid|D-2-Hydroxyglutaric acid|3-Hydroxyglutaric acid|2-Hydroxyglutarate|Citramalic acid Formula: C5H8O5"	147.02990	5.60	12.10	5
+citr-L	H+	+	"Citrulline|Argininic acid Formula: C6H13N3O3"	176.10296	11.10	11.40	6
+cmp	H+	+	"CMP Formula: C9H14N3O8P"	324.05913	12.40	12.70	9
+creat	H-	-	"Creatine|Beta-Guanidinopropionic acid Formula: C4H9N3O2"	130.06220	9.90	10.20	4
+creat	H+	+	"Creatine|Beta-Guanidinopropionic acid Formula: C4H9N3O2"	132.07675	9.80	10.20	4
+crn	H+	+	"L-Carnitine|Malonyl-Carnitin Formula: C7H15NO3"	162.11246	8.70	9.30	7
+crtn	H-	-	"Creatinine Formula: C4H7N3O"	112.05163	4.00	4.90	4
+crtn	H+	+	"Creatinine Formula: C4H7N3O"	114.06619	3.20	5.50	4
+ctp	H+	+	"Cytidine triphosphate Formula: C9H16N3O14P3"	483.99179	14.10	14.70	9
+cyst-L	H+	+	"L-Cystathionine Formula: C7H14N2O4S"	223.07470	12.30	12.80	7
+dgdp	H-	-	"dGDP|ADP|Adenosine 3',5'-diphosphate Formula: C10H15N5O10P2"	426.02214	12.80	13.20	10
+dhap	H-	-	"Dihydroxyacetone phosphate|D-Glyceraldehyde 3-phosphate Formula: C3H7O6P"	168.99075	11.80	12.20	3
+fgam	H+	+	"5'-Phosphoribosyl-N-formylglycinamide Formula: C8H15N2O9P"	315.05879	11.90	12.20	8
+formet-L	H-	-	"N-Formyl-L-methionine|(R)C(S)S-Alliin|Isoalliin|Cycloalliin Formula: C6H11NO3S"	176.03869	2.30	2.90	6
+g3p	H-	-	"Dihydroxyacetone phosphate|D-Glyceraldehyde 3-phosphate|Has [7123] on isotope 1 Formula: C3H7O6P"	168.99075	12.50	12.80	3
+g3pc	H+	+	"Glycerophosphocholine Formula: C8H20NO6P"	258.11010	10.20	10.70	8
+g3pc	Na+	+	"Glycerophosphocholine Formula: C8H20NO6P"	280.09204	10.20	10.70	8
+g3pc	K+	+	"Glycerophosphocholine Formula: C8H20NO6P"	296.06598	10.20	10.60	8
+g6p	H-	-	"Glucose 6-phosphate|Beta-D-Glucose 6-phosphate|Beta-D-Fructose 2-phosphate|D-Mannose 1-phosphate|D-fructose 1-phosphate|1D-myo-Inositol 3-phosphate|Fructose 6-phosphate|Galactose 1-phosphate|Mannose 6-phosphate|D-Myo-inositol 4-phosphate|Sorbose 1-phosphate|Myo-inositol 1-phosphate|Glucose 1-phosphate|Inositol phosphate|Fructose 1-phosphate|Dolichyl phosphate D-mannose|D-Tagatose 1-phosphate|D-galactopyranose 1-phosphate|D-Tagatose 6-phosphate|Beta-D-Fructose 6-phosphate Formula: C6H13O9P"	259.02244	13.00	13.30	6
+g6p	H+	+	"Glucose 6-phosphate|Beta-D-Glucose 6-phosphate|Beta-D-Fructose 2-phosphate|D-Mannose 1-phosphate|D-fructose 1-phosphate|1D-myo-Inositol 3-phosphate|Fructose 6-phosphate|Galactose 1-phosphate|Mannose 6-phosphate|D-Myo-inositol 4-phosphate|Sorbose 1-phosphate|Myo-inositol 1-phosphate|Glucose 1-phosphate|Inositol phosphate|Fructose 1-phosphate|Dolichyl phosphate D-mannose|D-Tagatose 1-phosphate|D-galactopyranose 1-phosphate|D-Tagatose 6-phosphate|Beta-D-Fructose 6-phosphate Formula: C6H13O9P"	261.03699	13.00	13.40	6
+gam6p	H+	+	"D-Glucosamine 6-phosphate Formula: C6H14NO8P"	260.05298	12.40	12.70	6
+gdp	H-	-	"8-oxo-dGDP|Guanosine diphosphate Formula: C10H15N5O11P2"	442.01705	13.80	14.20	10
+gdp	H+	+	"8-oxo-dGDP|Guanosine diphosphate Formula: C10H15N5O11P2"	444.03161	13.80	14.20	10
+glc-D	H-	-	"3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA|Alpha-D-Glucose|Scyllitol|D-Galactose|L-Gulose|Levoinositol|Dihydroxyacetone (dimer)|Fructose-1P|Glycoprotein-phospho-D-mannose|Myoinositol|Alpha-D-Glucopyranoside|Beta-D-Galactose|D-Tagatose|D-Glucopyranoside|L-Galactose|Allose|D-Fructose|Beta-D-Glucose|D-Glucose|D-Mannose|L-Sorbose|3-Deoxyarabinohexonic acid Formula: C6H12O6"	179.05611	8.80	9.90	7
+gln-L	H-	-	"Ureidoisobutyric acid|Alanylglycine|L-Glutamine|Alanyl-Glycine|D-Glutamine Formula: C5H10N2O3"	145.06186	10.30	10.60	5
+gln-L	H+	+	"Ureidoisobutyric acid|Alanylglycine|L-Glutamine|Alanyl-Glycine|D-Glutamine Formula: C5H10N2O3"	147.07642	10.20	10.70	5
+gln-L	Na+	+	"Ureidoisobutyric acid|Alanylglycine|L-Glutamine|Alanyl-Glycine|D-Glutamine Formula: C5H10N2O3"	169.05836	10.10	10.80	5
+gln-L	K+	+	"Ureidoisobutyric acid|Alanylglycine|L-Glutamine|Alanyl-Glycine|D-Glutamine Formula: C5H10N2O3"	185.03274	10.17	10.84	5
+glu-L	H-	-	"L-Glutamic acid|DL-Glutamate|O-Acetylserine|N-Methyl-D-aspartic acid|N-lactoyl-Glycine|3-(Carboxymethylamino)propanoic acid|N-Acetylserine|D-Glutamic acid|L-4-Hydroxyglutamate semialdehyde Formula: C5H9NO4"	146.04588	10.20	11.90	5
+glu-L	H+	+	"L-Glutamic acid|DL-Glutamate|O-Acetylserine|N-Methyl-D-aspartic acid|N-lactoyl-Glycine|3-(Carboxymethylamino)propanoic acid|N-Acetylserine|D-Glutamic acid|L-4-Hydroxyglutamate semialdehyde Formula: C5H9NO4"	148.06043	10.30	11.80	5
+gly	H-	-	"Glycine Formula: C2H5NO2"	74.02475	10.40	10.90	2
+gly	H+	+	"Glycine Formula: C2H5NO2"	76.03930	10.30	10.90	2
+glyc3p	H-	-	"Beta-Glycerophosphoric acid|Glycerol 3-phosphate Formula: C3H9O6P"	171.00640	11.60	11.90	3
+glyc3p	H+	+	"Beta-Glycerophosphoric acid|Glycerol 3-phosphate Formula: C3H9O6P"	173.02095	11.60	12.00	5
+gmp	H+	+	"8-Oxo-dGMP|Guanosine monophosphate|Cyclic pyranopterin monophosphate Formula: C10H14N5O8P"	364.06527	12.90	13.20	10
+gsn	H+	+	"Guanosine Formula: C10H13N5O5"	284.09894	7.90	8.40	10
+gthox	H-	-	"Oxidized glutathione Formula: C20H32N6O12S2"	611.14468	14.00	14.40	20
+gthox	H+	+	"Oxidized glutathione Formula: C20H32N6O12S2"	613.15923	13.90	14.50	20
+gthrd	H-	-	"Glutathione|Aristolodione|Hallacridone Formula: C10H17N3O6S"	306.07653	10.40	12.00	10
+gthrd	H+	+	"Glutathione|Aristolodione|Hallacridone Formula: C10H17N3O6S"	308.09108	11.00	11.40	10
+gtp	H+	+	"GTP Formula: C10H16N5O14P3"	523.99794	14.70	14.90	10
+guln	H-	-	"Gulonic acid|Gluconic acid|Galactonic acid Formula: C6H12O7"	195.05102	8.90	9.40	6
+his-L	H-	-	"L-Histidine|L-2-Amino-3-(1-pyrazolyl)propanoic acid Formula: C6H9N3O2"	154.06220	9.70	10.20	6
+his-L	H+	+	"L-Histidine|L-2-Amino-3-(1-pyrazolyl)propanoic acid Formula: C6H9N3O2"	156.07675	9.70	10.20	6
+hxan	H+	+	"1-Pentanesulfenothioic acid|Ethyl propyl disulfide|Ethyl isopropyl disulfide|Hypoxanthine|Allopurinol Formula: C5H4N4O"	137.04579	4.80	5.50	5
+ipade	H-	-	"L-Acetylcarnitine|N-lactoyl-Leucine Formula: C9H17NO4"	202.10848	2.30	2.50	10
+Lcystin	H+	+	"L-Cystine Formula: C6H12N2O4S2"	241.03112	9.60	9.80	6
+leu-L|ile-L	H-	-	"3,3,5-triiodo-L-thyronine-beta-D-glucuronoside|(�\[PlusMinus])-erythro-Isoleucine|L-Leucine|N-methylvaline|L-Isoleucine|D-Leucine|L-Norleucine|Beta-Leucine|Aminocaproic acid|N-(2-Hydroxyethyl)-morpholine|6-Deoxyfagomine|3-Aminocaproic acid|L-Alloisoleucine Formula: C6H13NO2"	130.08735	5.80	7.90	6
+leu-L|ile-L	H+	+	"3,3,5-triiodo-L-thyronine-beta-D-glucuronoside|(�\[PlusMinus])-erythro-Isoleucine|L-Leucine|N-methylvaline|L-Isoleucine|D-Leucine|L-Norleucine|Beta-Leucine|Aminocaproic acid|N-(2-Hydroxyethyl)-morpholine|6-Deoxyfagomine|3-Aminocaproic acid|L-Alloisoleucine Formula: C6H13NO2"	132.10190	5.80	8.30	6
+lgt-S	H+	+	"(R)-S-Lactoylglutathione Formula: C13H21N3O8S"	380.11221	10.50	10.90	13
+Lkynr	H+	+	"L-Kynurenine|Formyl-5-hydroxykynurenamine|4-Aminobenzoyl-(beta)-alanine Formula: C10H12N2O3"	209.09206	6.70	7.30	10
+lys-L	H-	-	"(3S,5S)-3,5-Diaminohexanoate|(3S)-3,6-Diaminohexanoate|D-Lysine|L-Lysine Formula: C6H14N2O2"	145.09825	15.20	15.80	6
+lys-L	H+	+	"(3S,5S)-3,5-Diaminohexanoate|(3S)-3,6-Diaminohexanoate|D-Lysine|L-Lysine Formula: C6H14N2O2"	147.11280	15.20	15.80	6
+mal-L	H-	-	"D-Malic acid|L-Malic acid|Velcorin|Malic acid Formula: C4H6O5"	133.01425	11.40	13.20	4
+met-L	H-	-	"L-Methionine|Penicillamine|Racemethionine Formula: C5H11NO2S"	148.04377	7.00	7.90	5
+met-L	H+	+	"L-Methionine|Penicillamine|Racemethionine Formula: C5H11NO2S"	150.05832	6.50	8.10	5
+nad	H-	-	"Fenugreekine Formula: C21H27N7O14P2"	662.10184	11.20	11.50	21
+nadh	H+	+	"NADH Formula: C21H29N7O14P2"	666.13204	10.70	11.00	21
+nadp	H-	-	"NADPH Formula: C21H30N7O17P3"	744.08382	13.50	14.00	21
+nadph	H+	+	"NADPH Formula: C21H30N7O17P3"	746.09838	13.70	14.00	21
+orn	H+	+	"Ornithine|D-Ornithine|L-Ornithine monochlorohydrate/ornithine Formula: C5H12N2O2"	133.09715	13.90	14.90	5
+pcreat	H-	-	"Phosphocreatine Formula: C4H10N3O5P"	210.02853	11.90	12.20	4
+pcreat	H+	+	"Phosphocreatine Formula: C4H10N3O5P"	212.04308	11.90	12.30	4
+pep	H-	-	"Phosphoenolpyruvic acid Formula: C3H5O6P"	166.97510	13.40	13.80	3
+phe-L	H-	-	"Benzocaine|Benzyl glycinate|Gentiatibetine|4-Hydroxy-1-(3-pyridinyl)-1-butanone|Ethyl 2-aminobenzoate|L-Phenylalanine|5-(3-Pyridyl)-2-hydroxytetrahydrofuran|3-Pyridinebutanoic acid|Norsalsolinol|Methyl N-methylanthranilate Formula: C9H11NO2"	164.07170	5.70	6.60	9
+phe-L	H+	+	"Benzocaine|Benzyl glycinate|Gentiatibetine|4-Hydroxy-1-(3-pyridinyl)-1-butanone|Ethyl 2-aminobenzoate|L-Phenylalanine|5-(3-Pyridyl)-2-hydroxytetrahydrofuran|3-Pyridinebutanoic acid|Norsalsolinol|Methyl N-methylanthranilate Formula: C9H11NO2"	166.08625	5.30	7.20	9
+pro-L	H-	-	"L-Proline|Acetamidopropanal|Pterolactam|D-Proline|4-Amino-2-methylenebutanoic acid Formula: C5H9NO2"	114.05605	7.50	8.80	5
+pro-L	H+	+	"L-Proline|Acetamidopropanal|Pterolactam|D-Proline|4-Amino-2-methylenebutanoic acid Formula: C5H9NO2"	116.07060	7.50	8.70	5
+pyr	H-	-	"Malonic semialdehyde|Glucosereductone|2-hydroxyacrylic Acid|Pyruvic acid Formula: C3H4O3"	87.00877	2.20	2.70	3
+ser-L	H-	-	"L-Serine|D-Serine|Protein serine Formula: C3H7NO3"	104.03531	10.60	10.90	3
+ser-L	H+	+	"L-Serine|D-Serine|Protein serine Formula: C3H7NO3"	106.04987	10.50	10.90	3
+taur	H-	-	"Taurine Formula: C2H7NO3S"	124.00739	9.00	9.80	2
+taur	H+	+	"Taurine Formula: C2H7NO3S"	126.02194	9.10	9.80	2
+thr-L	H-	-	"L-Allothreonine|Hydroxyethyl glycine|4-Amino-3-hydroxybutyrate|L-Homoserine|L-Threonine Formula: C4H9NO3"	118.05096	9.30	9.80	4
+thr-L	H+	+	"L-Allothreonine|Hydroxyethyl glycine|4-Amino-3-hydroxybutyrate|L-Homoserine|L-Threonine Formula: C4H9NO3"	120.06552	9.30	9.70	4
+thym	H-	-	"Thymine|1H-Imidazole-1-acetic acid|Imidazoleacetic acid Formula: C5H6N2O2"	125.03565	2.30	2.90	5
+tmlys	H+	+	"N6,N6,N6-Trimethyl-L-lysine Formula: C9H20N2O2"	189.15975	13.70	14.50	9
+trp-L	H-	-	"L-Tryptophan|D-Tryptophan|3-Hydroxymethylantipyrine|4-Hydroxyantipyrine|S-nirvanol|(�\[PlusMinus])-Tryptophan|Nirvanol|Ethotoin Formula: C11H12N2O2"	203.08260	7.40	7.90	11
+trp-L	H+	+	"L-Tryptophan|D-Tryptophan|3-Hydroxymethylantipyrine|4-Hydroxyantipyrine|S-nirvanol|(�\[PlusMinus])-Tryptophan|Nirvanol|Ethotoin Formula: C11H12N2O2"	205.09715	7.40	7.80	11
+tyr-L	H-	-	"Meta-Tyrosine|4,6,7-Trihydroxy-1,2,3,4-tetrahydroisoquinoline|Beta-Tyrosine|o-Tyrosine|L-Threo-3-Phenylserine|L-Tyrosine|4-Hydroxy-4-(3-pyridyl)-butanoic acid Formula: C9H11NO3"	180.06661	8.40	8.70	9
+tyr-L	H+	+	"Meta-Tyrosine|4,6,7-Trihydroxy-1,2,3,4-tetrahydroisoquinoline|Beta-Tyrosine|o-Tyrosine|L-Threo-3-Phenylserine|L-Tyrosine|4-Hydroxy-4-(3-pyridyl)-butanoic acid Formula: C9H11NO3"	182.08117	8.30	8.70	9
+ump	H+	+	"Uridine 5'-monophosphate|3'-UMP|Pseudouridine 5'-phosphate|Uridine 2'-phosphate Formula: C9H13N2O9P"	325.04314	11.80	12.00	9
+val-L	H-	-	"N-Methyl-a-aminoisobutyric acid|L-Valine|Vaporole|Betaine|5-Aminopentanoic acid|Amyl Nitrite|Norvaline Formula: C5H11NO2"	116.07170	7.90	8.30	5
+Unk#1	H-	-	"Formula: C2H3NO2"	72.00910	9.40	9.70	2
+Unk#2	H-	-	"Formula: C2H3NO2"	72.00910	10.20	10.80	2
+Unk#3	H-	-	"By mass: Glyoxylic acid Formula: C2H2O3"	72.99312	11.10	13.30	2
+Unk#4	H+	+	"Formula: C3H7NO"	74.06004	8.60	11.70	3
+Unk#5	H-	-	"By mass: 4-Hydroxy-2-butenoic acid gamma-lactone Formula: C4H4O2"	83.01385	9.00	9.70	4
+Unk#6	H-	-	"By mass: 2-Pyrrolidinone|Acetone cyanohydrin Formula: C4H7NO"	84.04548	7.50	7.90	4
+Unk#7	H+	+	"Formula: C4H7N2"	84.06820	10.00	10.30	4
+Unk#8	H-	-	"By mass: 3-Isoxazolidinone|2-Aminoacrylic acid Formula: C3H5NO2"	86.02475	7.20	12.00	3
+Unk#9	H-	-	"By mass: Malonic semialdehyde|Glucosereductone|2-hydroxyacrylic Acid|Pyruvic acid Formula: C3H4O3"	87.00877	1.00	1.40	3
+Unk#10	H-	-	"Formula: C2H3NO3"	88.00402	6.60	9.10	2
+Unk#11	H+	+	"Formula: C4H12N2"	89.10732	2.40	7.40	4
+Unk#12	H+	+	"Formula: C3H7NO2"	90.05495	10.40	10.70	3
+Unk#13	H-	-	"By mass: Glycerol Formula: C3H8O3"	91.04007	3.70	4.30	3
+Unk#14	H-	-	"By mass: 2-Furancarboxaldehyde|Protoanemonin Formula: C5H4O2"	95.01385	9.50	9.70	5
+Unk#15	H-	-	"Formula: C4H4N2O"	95.02508	10.10	10.90	4
+Unk#16	H-	-	"By mass: Succinic anhydride Formula: C4H4O3"	99.00877	11.50	11.90	4
+Unk#17	H-	-	"By mass: Isopropenyl acetate|2,3-Pentanedione|Tiglic acid|Angelic acid|Dihydro-2-methyl-3(2H)-furanone|2-Pentenoic acid|Senecioic acid|2-Ethylacrylic acid|Dihydro-3-methyl-2(3H)-furanone|2,4-Pentanedione|Glutaral|Methyl methacrylate|Dihydro-5-methyl-2(3H)-furanone|4-Pentenoic acid|3-Methylbutyrolactone|Ethyl acrylate Formula: C5H8O2"	99.04515	10.70	10.90	5
+Unk#18	H-	-	"By mass: Isopropenyl acetate|2,3-Pentanedione|Tiglic acid|Angelic acid|Dihydro-2-methyl-3(2H)-furanone|2-Pentenoic acid|Senecioic acid|2-Ethylacrylic acid|Dihydro-3-methyl-2(3H)-furanone|2,4-Pentanedione|Glutaral|Methyl methacrylate|Dihydro-5-methyl-2(3H)-furanone|4-Pentenoic acid|3-Methylbutyrolactone|Ethyl acrylate Formula: C5H8O2"	99.04515	4.30	10.00	5
+Unk#19	H-	-	"By mass: 4-Hydroxycrotonic acid|2-Methyl-3-oxopropanoic acid|Succinic acid semialdehyde|Acetic anhydride|Acetoacetic acid|2-Ketobutyric acid|(S)-Methylmalonic acid semialdehyde Formula: C4H6O3"	101.02442	11.10	12.00	4
+Unk#20	H-	-	"Formula: C4H6O3"	101.02442	9.40	9.90	4
+Unk#21	H+	+	"By mass: Isopropenyl acetate|2,3-Pentanedione|Tiglic acid|Angelic acid|Dihydro-2-methyl-3(2H)-furanone|2-Pentenoic acid|Senecioic acid|2-Ethylacrylic acid|Dihydro-3-methyl-2(3H)-furanone|2,4-Pentanedione|Glutaral|Methyl methacrylate|Dihydro-5-methyl-2(3H)-furanone|4-Pentenoic acid|3-Methylbutyrolactone|Ethyl acrylate Formula: C5H8O2"	101.05970	10.70	11.00	5
+Unk#22	H-	-	"Formula: C4H10N2O"	101.07203	10.30	10.60	4
+Unk#23	H-	-	"By mass: 3-Oxoalanine|Pyruvatoxime Formula: C3H5NO3"	102.01967	6.30	8.90	3
+Unk#24	H+	+	"By mass: 4,5-Dihydro-2-methylthiazole Formula: C4H7NS"	102.03719	7.10	7.90	4
+Unk#25	H+	+	"Formula: C4H7NO2"	102.05495	9.30	9.70	4
+Unk#26	H+	+	"Formula: C4H7NO2"	102.05495	10.20	10.70	4
+Unk#27	H+	+	"Formula: C4H7NO2"	102.05495	10.80	11.40	4
+Unk#28	H-	-	"By mass: Malonic acid|Hydroxypyruvic acid|Tartronate semialdehyde Formula: C3H4O4"	103.00368	11.70	12.00	3
+Unk#29	H-	-	"By mass: L-Serine|D-Serine|Protein serine Formula: C3H7NO3"	104.03531	7.40	7.90	3
+Unk#30	H+	+	"By mass: (�\[PlusMinus])-2-Methylthiazolidine Formula: C4H9NS"	104.05284	7.00	7.90	4
+Unk#31	H+	+	"By mass: Neurine Formula: C5H13NO"	104.10699	10.00	11.40	5
+Unk#32	H-	-	"By mass: L-Glyceric acid|D-2,3-Dihydroxypropanoic acid|Glyceric acid Formula: C3H6O4"	105.01933	7.40	8.60	3
+Unk#33	H+	+	"By mass: L-Serine|D-Serine|Protein serine Formula: C3H7NO3"	106.04987	7.60	7.90	3
+Unk#34	H+	+	"By mass: Benzaldehyde|Stays on isotope 1 of [3266] Formula: C7H6O"	107.04914	8.40	8.80	7
+Unk#35	H+	+	"By mass: Benzaldehyde Formula: C7H6O"	107.04914	5.80	6.50	7
+Unk#36	H+	+	"Formula: C6H6N2"	107.06037	10.00	10.30	6
+Unk#37	H+	+	"By mass: o-Xylene|Ethylbenzene|p-Xylene|m-Xylene Formula: C8H10"	107.08552	2.60	3.00	8
+Unk#38	H-	-	"By mass: Hypotaurine|Stays on isotope 4 of [7963] Formula: C2H7NO2S"	108.01247	9.90	10.20	2
+Unk#39	H-	-	"By mass: Methoxypyrazine|3-Hydroxy-4-aminopyridine|Imidazole-4-acetaldehyde Formula: C5H6N2O"	109.04073	7.50	12.10	5
+Unk#40	H+	+	"By mass: Hypotaurine Formula: C2H7NO2S"	110.02702	9.90	10.20	2
+Unk#41	H+	+	"Formula: C5H7N3"	110.07127	9.70	10.30	5
+Unk#42	H-	-	"By mass: Methylphosphate Formula: CH5O4P"	110.98527	11.20	11.50	1
+Unk#43	H-	-	"By mass: 2,3-Dihydroxy-2,4-cyclopentadien-1-one|3-Hydroxy-2H-pyran-2-one|2-Furoic acid|3-Furoic acid Formula: C5H4O3"	111.00877	13.10	14.80	5
+Unk#44	H-	-	"By mass: 2,3-Dihydroxy-2,4-cyclopentadien-1-one|3-Hydroxy-2H-pyran-2-one|2-Furoic acid|3-Furoic acid|Stays on isotope 0 of [7901] Formula: C5H4O3"	111.00877	10.40	12.10	5
+Unk#45	H-	-	"By mass: 4-Carboxypyrazole|Uracil Formula: C4H4N2O2"	111.02000	7.70	8.50	4
+Unk#46	H+	+	"By mass: 2-Acetylfuran|5-Methyl-2-furancarboxaldehyde|Hydroquinone|1,3-Benzenediol|(E,E)-2,4-Hexadienedial|Pyrocatechol Formula: C6H6O2"	111.04405	7.20	7.70	6
+Unk#47	H+	+	"By mass: 2-Acetyloxazole|Pyrrole-2-carboxylic acid Formula: C5H5NO2"	112.03930	2.70	3.00	5
+Unk#48	H+	+	"By mass: 2-Acetyloxazole|Pyrrole-2-carboxylic acid Formula: C5H5NO2"	112.03930	10.30	10.70	5
+Unk#49	H-	-	"By mass: 1-Pyrroline-5-carboxylic acid|1-Pyrroline-2-carboxylic acid Formula: C5H7NO2"	112.04040	10.10	12.20	5
+Unk#50	H-	-	"By mass: Norfuraneol|cis-Acetylacrylate Formula: C5H6O3"	113.02442	8.40	10.40	5
+Unk#51	H-	-	"By mass: L-3-Cyanoalanine|N-Methylhydantoin|Dihydrouracil Formula: C4H6N2O2"	113.03565	11.10	12.10	4
+Unk#52	H-	-	"By mass: 2-Methyl-3-hexanone|5-Methyl-2-hexanone|2,4-Dimethyl-3-pentanone|3-Methylcyclohexanol|1-Methylcyclohexanol|(�\[PlusMinus])-2-Methylhexanal|(2R,4Z)-4-Hepten-2-ol|1-Ethoxy-3-methyl-2-butene|(Z)-4-Hepten-1-ol|3-Methylhexanal|4-Heptanone|Ethyl isobutyl ketone|Heptanal|2-Heptanone|3-Heptanone Formula: C7H14O"	113.09718	0.90	1.00	7
+Unk#53	H+	+	"By mass: 1-Octene|4-Methyl-3-heptene|3-Methyleneheptane|(Z)-3-Octene|3-Methyl-3-heptene|(Z)-2-Octene|(E)-4-Methyl-2-heptene|(E)-3-Octene|(E)-2-Octene|3-Methyl-1-heptene Formula: C8H16"	113.13247	1.00	1.10	8
+Unk#54	H-	-	"Formula: C4H5NO3"	114.01967	4.20	12.10	4
+Unk#55	H+	+	"By mass: 1-Pyrroline-5-carboxylic acid|1-Pyrroline-2-carboxylic acid Formula: C5H7NO2"	114.05495	15.40	16.10	5
+Unk#56	H+	+	"By mass: 1-Pyrroline-5-carboxylic acid|1-Pyrroline-2-carboxylic acid Formula: C5H7NO2"	114.05495	8.70	9.30	5
+Unk#57	H+	+	"By mass: 1-Pyrroline-5-carboxylic acid|1-Pyrroline-2-carboxylic acid Formula: C5H7NO2"	114.05495	9.60	10.10	5
+Unk#58	H+	+	"By mass: 1-Pyrroline-5-carboxylic acid|1-Pyrroline-2-carboxylic acid Formula: C5H7NO2"	114.05495	7.80	8.60	5
+Unk#59	H+	+	"By mass: Creatinine Formula: C4H7N3O"	114.06619	11.00	13.20	4
+Unk#60	H+	+	"Formula: C4H7N3O"	114.06619	9.80	10.10	4
+Unk#61	H+	+	"By mass: L-3-Cyanoalanine|N-Methylhydantoin|Dihydrouracil Formula: C4H6N2O2"	115.05020	9.80	10.20	4
+Unk#62	H-	-	"Formula: C4H7NO3"	116.03531	3.40	4.10	4
+Unk#63	H-	-	"Formula: C4H7NO3"	116.03531	7.50	8.00	4
+Unk#64	H+	+	"Formula: C4H8N2S"	117.04809	7.30	7.70	4
+Unk#65	H-	-	"By mass: 3-Hydroxy-2-methyl-[R-(R,S)]-butanoic acid|Diethyl carbonate|2-Hydroxy-2-methylbutyric acid|2-Hydroxy-3-methylbutyric acid|4-Hydroxyisovaleric acid|Methyl 3-hydroxybutyrate|2-Methyl-3-hydroxybutyric acid|Ethyl lactate|3-Hydroxy-2-methyl-[S-(R,R)]-butanoic acid|3-Hydroxyvaleric acid|Erythronilic acid|5-Hydroxypentanoic acid|2-Hydroxyvaleric acid|(S)-2-hydroxy-3-methylbutyric Acid|3-Hydroxyisovaleric acid|2-Ethylhydracrylic acid Formula: C5H10O3"	117.05571	2.30	2.60	5
+Unk#66	H+	+	"By mass: Ethyl 2-methylpropanoate|2-Methylpropyl acetate|2,4,5-Trimethyl-1,3-dioxolane|Isopropyl propionate|Methyl (S)-2-Methylbutanoate|2,2,4-Trimethyl-1,3-dioxolane|3-Methylpentanoic acid|Diacetone alcohol|Methyl pentanoate|Propyl propionate|Caproic acid|2-Ethylbutanoic acid|Pentyl formate|Isocaproic acid|(�\[PlusMinus])-2-Methylpentanoic acid|3-Methylbutyl formate|n-Butyl acetate|Ethyl butyrate|Methyl 3-methylbutanoate Formula: C6H12O2"	117.09100	1.10	1.40	6
+Unk#67	H+	+	"Formula: C6H16N2"	117.13862	4.80	5.30	6
+Unk#68	H-	-	"Formula: C3H5NO2S"	117.99682	2.20	2.50	3
+Unk#69	H+	+	"By mass: Guanidoacetic acid Formula: C3H7N3O2"	118.06110	10.50	10.80	3
+Unk#70	H-	-	"By mass: Hydroxypropanedioic acid Formula: C3H4O5"	118.99860	12.50	12.80	3
+Unk#71	H+	+	"By mass: 3,5,7-Octatriyn-1-ol|Benzofuran|xi-2,3-Octadiene-5,7-diyn-1-ol|2,4,6-Octatriyn-1-ol Formula: C8H6O"	119.04914	8.30	8.70	8
+Unk#72	H+	+	"Formula: C5H14N2O"	119.11788	11.60	12.10	5
+Unk#73	H+	+	"By mass: 1,2-Diacylglycerol-LD-PI-pool Formula: C7H5NO"	120.04439	10.70	11.00	7
+Unk#74	H+	+	"Formula: C4H9NOS"	120.04776	1.20	2.30	4
+Unk#75	H+	+	"Formula: C8H9N"	120.08077	5.80	6.60	7
+Unk#76	H+	+	"Formula: C5H13NO2"	120.10190	2.00	2.60	5
+Unk#77	H+	+	"Formula: C5H13NO2"	120.10190	4.20	4.80	5
+Unk#78	H+	+	"Formula: C5H13NO2"	120.10190	11.50	12.10	5
+Unk#79	H-	-	"By mass: 2-Acetylpyrazine|Niacinamide Formula: C6H6N2O"	121.04073	11.20	16.40	6
+Unk#80	H-	-	"By mass: Erythritol|D-Threitol Formula: C4H10O4"	121.05063	5.90	6.20	4
+Unk#81	H+	+	"By mass: Acetophenone|Styrene Oxide|Lentialexin|3-Methylbenzaldehyde|2-Methylbenzaldehyde|4-Hydroxystyrene|4-Methylbenzaldehyde|Phenylacetaldehyde|2,3-Dihydrobenzofuran Formula: C8H8O"	121.06479	8.40	8.70	8
+Unk#82	H+	+	"Formula: C6H7N3"	122.07127	10.70	11.50	6
+Unk#83	H-	-	"Formula: C6H9N3"	122.07237	9.40	9.50	6
+Unk#84	H+	+	"Formula: C4H11NO3"	122.08117	7.90	8.50	4
+Unk#85	H+	+	"By mass: Benzoic acid|4-Hydroxybenzaldehyde|2-Hydroxybenzaldehyde|3-(2-Furanyl)-2-propenal Formula: C7H6O2"	123.04405	8.30	8.70	7
+Unk#86	H+	+	"By mass: 2-Acetylpyrazine|Niacinamide Formula: C6H6N2O"	123.05529	1.20	2.70	6
+Unk#87	H+	+	"By mass: 2-Acetylpyrazine|Niacinamide Formula: C6H6N2O"	123.05529	2.20	2.60	6
+Unk#88	H+	+	"By mass: 2-Acetylpyrazine|Niacinamide Formula: C6H6N2O"	123.05529	0.00	1.00	6
+Unk#89	H+	+	"By mass: p-Anisidine|4-Hydroxybenzylamine|1-Ethyl-1H-pyrrole-2-carboxaldehyde|2-Acetyl-1-methylpyrrole|2-Propionylpyrrole Formula: C7H9NO"	124.07569	2.50	2.70	7
+Unk#90	H+	+	"By mass: 2-(1-Propenyl)-delta1-piperideine Formula: C8H13N"	124.11207	2.60	3.00	8
+Unk#91	H+	+	"By mass: 2-(1-Propenyl)-delta1-piperideine Formula: C8H13N"	124.11207	1.20	1.50	8
+Unk#92	H-	-	"By mass: 2-Hydroxyethanesulfonate|Ethyl hydrogen sulfate Formula: C2H6O4S"	124.99140	4.20	5.30	2
+Unk#93	H-	-	"By mass: 3-Acetylthiophene|2-Acetylthiophene|5-Methyl-2-thiophenecarboxaldehyde Formula: C6H6OS"	125.00666	9.10	9.40	6
+Unk#94	H-	-	"By mass: 5-Hydroxymethyl-2-furancarboxaldehyde|1,3,5-Trihydroxybenzene|5-Methylfuran-2-carboxylic acid|4-Hydroxy-2H-pyran-3-carboxaldehyde|Methyl 2-furoate|Maltol|(Z)-Tamarindienal|1,2,3-Trihydroxybenzene Formula: C6H6O3"	125.02442	1.80	2.20	6
+Unk#95	H-	-	"Formula: C5H6N2O2"	125.03565	10.00	10.90	5
+Unk#96	H-	-	"By mass: Thymine|1H-Imidazole-1-acetic acid|Imidazoleacetic acid Formula: C5H6N2O2"	125.03565	3.30	3.50	5
+Unk#97	H-	-	"By mass: Thymine|1H-Imidazole-1-acetic acid|Imidazoleacetic acid Formula: C5H6N2O2"	125.03565	1.10	1.70	5
+Unk#98	H+	+	"Formula: C5H8N4"	125.08217	15.40	16.10	5
+Unk#99	H+	+	"By mass: 2-Butylfuran|trans, trans-3,5-Octadien-2-one|2-Isopropyl-5-methylfuran|Methyl-1-cyclopenten-1-yl)-ethanone|3,5,5-Trimethyl-2-cyclopenten-1-one|1,5-Octadien-3-one|2,3-Dimethyl-2-cyclohexen-1-one|6-Methyl-3,5-heptadien-2-one|(E,E)-2,4-Octadienal|(E,E)-2,6-Octadienal Formula: C8H12O"	125.09609	2.60	3.00	8
+Unk#100	H-	-	"By mass: 6-Octenal|2-Ethyl-2-hexenal|(S,E)-Filbertone|(3xi,5Z)-1,5-Octadien-3-ol|(3E,5Z)-3,5-Octadien-1-ol|3-Octen-2-one|2,4,4-Trimethylcyclopentanone|2,5-Octadien-1-ol|3-Methyl-3-hepten-2-one|5-Methyl-5-hepten-2-one|glutathionyl-3-hydroxykynurenine glucoside|2-Octenal|(2E,4E)-2,4-Octadien-1-ol|2-Octen-4-one|4-Octen-3-one|Sialyl-3-paragloboside|1-Octen-3-one|5-Octen-2-one|trans-3-cis-8,11,14-eicosatetraenoyl-CoA|Sulcatone|6-Methyl-3-hepten-2-one, trans-|(Z)-5-Octenal|(E)-2-octenal|2-Ethylidenehexanal Formula: C8H14O"	125.09718	1.00	1.30	8
+Unk#101	H-	-	"By mass: Hydroxyminaline Formula: C5H5NO3"	126.01967	4.50	8.60	5
+Unk#102	H+	+	"By mass: Taurine Formula: C2H7NO3S"	126.02194	10.00	10.30	2
+Unk#103	H-	-	"By mass: 1-Methyl-4-nitroimidazole Formula: C4H5N3O2"	126.03090	5.50	8.30	4
+Unk#104	H-	-	"By mass: 5-Hydroxy-2-furoic acid Formula: C5H4O4"	127.00368	2.00	2.20	5
+Unk#105	H-	-	"By mass: Barbituric acid Formula: C4H4N2O3"	127.01491	5.90	8.90	4
+Unk#106	H+	+	"By mass: 3-Acetylthiophene|2-Acetylthiophene|5-Methyl-2-thiophenecarboxaldehyde Formula: C6H6OS"	127.02121	9.10	9.40	6
+Unk#107	H+	+	"By mass: 5-Hydroxymethyl-2-furancarboxaldehyde|1,3,5-Trihydroxybenzene|5-Methylfuran-2-carboxylic acid|4-Hydroxy-2H-pyran-3-carboxaldehyde|Methyl 2-furoate|Maltol|(Z)-Tamarindienal|1,2,3-Trihydroxybenzene Formula: C6H6O3"	127.03897	13.00	13.30	6
+Unk#108	H+	+	"By mass: 5-Hydroxymethyl-2-furancarboxaldehyde|1,3,5-Trihydroxybenzene|5-Methylfuran-2-carboxylic acid|4-Hydroxy-2H-pyran-3-carboxaldehyde|Methyl 2-furoate|Maltol|(Z)-Tamarindienal|1,2,3-Trihydroxybenzene Formula: C6H6O3"	127.03897	1.80	2.20	6
+Unk#109	H+	+	"By mass: Thymine|1H-Imidazole-1-acetic acid|Imidazoleacetic acid Formula: C5H6N2O2"	127.05020	8.00	8.20	5
+Unk#110	H-	-	"By mass: L-Cyclo(alanylglycyl)|Squamolone|Dihydrothymine|pyroglutamine Formula: C5H8N2O2"	127.05130	4.60	12.10	5
+Unk#111	H-	-	"By mass: Methyl (Z)-3-hexenoate|Ethyl tiglate|2-Hexenyl formate|Isopentenyl acetate|3-Methyl-3-butenyl acetate|4-Pentenyl acetate|Dihydro-5-propyl-2(3H)-furanone|2,4-Dimethyl-2-pentenoic acid|cis-3-Hexenyl formate|Ethyl 4-pentenoate|1-Methoxy-3-methylene-2-pentanone|1,3-Diacetylpropane|Cyclohexanecarboxylic acid|5-Methyl-2,3-hexanedione|2,3-Heptanedione|2-Heptenoic acid|Allyl butyrate|4-Methyl-5-hexanolide|4-Heptenoic acid|3,4-Heptanedione|Methyl 2E-hexenoate|Cyclohexyl formate Formula: C7H12O2"	127.07645	6.80	8.90	7
+Unk#112	H-	-	"Formula: C5H7NO3"	128.03531	1.20	1.50	5
+Unk#113	H-	-	"By mass: 1-Isothiocyanatopentane|2,5-Dihydro-2,4,5-trimethylthiazole|Isoamyl isothiocyanate Formula: C6H11NS"	128.05394	10.00	10.20	6
+Unk#114	H-	-	"By mass: 2,5-Dioxopentanoate|Mesaconic acid|Citraconic acid|Gamma-delta-Dioxovaleric acid|Itaconic acid|Glutaconic acid|Methyl hydrogen fumarate|2-Hydroxyglutaric acid lactone|2-Pentendioate Formula: C5H6O4"	129.01933	11.30	12.00	5
+Unk#115	H-	-	"By mass: 2,5-Dioxopentanoate|Mesaconic acid|Citraconic acid|Gamma-delta-Dioxovaleric acid|Itaconic acid|Glutaconic acid|Methyl hydrogen fumarate|2-Hydroxyglutaric acid lactone|2-Pentendioate Formula: C5H6O4"	129.01933	13.40	13.80	5
+Unk#116	H-	-	"Formula: C5H6O4"	129.01933	2.90	3.50	5
+Unk#117	H-	-	"By mass: S-2-Propenyl propanethioate|2-Ethyldihydro-3(2H)-thiophenone|2-[(Methylthio)methyl]-2-butenal Formula: C6H10OS"	129.03796	10.80	11.30	6
+Unk#118	H-	-	"Formula: C6H10O3"	129.05571	1.60	2.10	6
+Unk#119	H+	+	"By mass: L-Cyclo(alanylglycyl)|Squamolone|Dihydrothymine|pyroglutamine Formula: C5H8N2O2"	129.06585	10.00	10.30	5
+Unk#120	H+	+	"By mass: Naphthalene Formula: C10H8"	129.06987	0.80	1.20	10
+Unk#121	H+	+	"Formula: C5H12N4"	129.11347	15.40	16.10	5
+Unk#122	H+	+	"By mass: 2-Acetyl-4,5-dihydrothiazole|2-Ethoxythiazole|5-Methoxy-2-methylthiazole Formula: C5H7NOS"	130.03211	2.30	3.10	5
+Unk#123	H+	+	"By mass: Pyrroline hydroxycarboxylic acid|5-Oxoprolinate|Pyrrolidonecarboxylic acid|dimethadione|N-Acryloylglycine|Pyroglutamic acid|(3R,5S)-1-pyrroline-3-hydroxy-5-carboxylic Acid|1-Pyrroline-4-hydroxy-2-carboxylate Formula: C5H7NO3"	130.04987	10.80	11.40	5
+Unk#124	H+	+	"By mass: Pyrroline hydroxycarboxylic acid|5-Oxoprolinate|Pyrrolidonecarboxylic acid|dimethadione|N-Acryloylglycine|Pyroglutamic acid|(3R,5S)-1-pyrroline-3-hydroxy-5-carboxylic Acid|1-Pyrroline-4-hydroxy-2-carboxylate Formula: C5H7NO3"	130.04987	10.20	10.70	5
+Unk#125	H-	-	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	130.05096	3.00	4.90	5
+Unk#126	H-	-	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	130.05096	10.50	11.90	5
+Unk#127	H-	-	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	130.05096	9.20	10.50	5
+Unk#128	H-	-	"By mass: Creatine|Beta-Guanidinopropionic acid Formula: C4H9N3O2"	130.06220	12.00	12.20	4
+Unk#129	H+	+	"By mass: Quinoline|Isoquinoline|3-Methylene-indolenine Formula: C9H7N"	130.06512	7.40	7.80	9
+Unk#130	H+	+	"Formula: C5H11N3O"	130.09748	15.40	16.10	5
+Unk#131	H-	-	"By mass: Oxalacetic acid Formula: C4H4O5"	130.99860	11.50	11.70	4
+Unk#132	H+	+	"By mass: 4-Hydroxy-5-methyl-3(2H)-thiophenone Formula: C5H6O2S"	131.01613	2.30	2.50	5
+Unk#133	H+	+	"By mass: 2,5-Dioxopentanoate|Mesaconic acid|Citraconic acid|Gamma-delta-Dioxovaleric acid|Itaconic acid|Glutaconic acid|Methyl hydrogen fumarate|2-Hydroxyglutaric acid lactone|2-Pentendioate Formula: C5H6O4"	131.03388	10.80	11.30	5
+Unk#134	H-	-	"Formula: C5H10NO3"	131.05879	1.10	1.20	5
+Unk#135	H+	+	"By mass: Acetoin acetate|Ethyl 3-oxobutanoate|(4S,6S)-3,4,5,6-Tetrahydro-4-hydroxy-6-methyl-2H-pyran-2-one|2-Methyl-3-ketovaleric acid|Mevalonolactone|Ketoleucine|4-Acetylbutyrate|Pantolactone|3-Methyl-2-oxovaleric acid|5-Ethoxy-4,5-dihydro-2(3H)furanone|Adipate semialdehyde|2-Ketohexanoic acid|Sherry lactone|Methyl levulinate|3-Oxohexanoic acid|Ethyl acetoacetate Formula: C6H10O3"	131.07027	1.10	1.90	6
+Unk#136	H+	+	"By mass: Acetoin acetate|Ethyl 3-oxobutanoate|(4S,6S)-3,4,5,6-Tetrahydro-4-hydroxy-6-methyl-2H-pyran-2-one|2-Methyl-3-ketovaleric acid|Mevalonolactone|Ketoleucine|4-Acetylbutyrate|Pantolactone|3-Methyl-2-oxovaleric acid|5-Ethoxy-4,5-dihydro-2(3H)furanone|Adipate semialdehyde|2-Ketohexanoic acid|Sherry lactone|Methyl levulinate|3-Oxohexanoic acid|Ethyl acetoacetate Formula: C6H10O3"	131.07027	10.00	10.30	6
+Unk#137	H-	-	"By mass: Threo-3-Hydroxy-2-methylbutyric acid|Ethyl (�\[PlusMinus])-3-hydroxybutyrate|(5R)-5-Hydroxyhexanoic acid|6-Hydroxyhexanoic acid|2-Hydroxycaproic acid|2-Ethyl-2-Hydroxybutyric acid|4,4-Dimethoxy-2-butanone|(R)-3-Hydroxyhexanoic acid|(+/-)-1-Acetoxy-1-ethoxyethane|Hydroxyisocaproic acid|2-Methyl-3-hydroxyvaleric acid|Butoxyacetic acid|2-Hydroxy-3-methylpentanoic acid|3-hydroxyhexanoic acid|D-Leucic acid|5-Hydroxyhexanoic acid|Paraldehyde|Leucinic acid Formula: C6H12O3"	131.07136	2.20	2.50	6
+Unk#138	H-	-	"By mass: Threo-3-Hydroxy-2-methylbutyric acid|Ethyl (�\[PlusMinus])-3-hydroxybutyrate|(5R)-5-Hydroxyhexanoic acid|6-Hydroxyhexanoic acid|2-Hydroxycaproic acid|2-Ethyl-2-Hydroxybutyric acid|4,4-Dimethoxy-2-butanone|(R)-3-Hydroxyhexanoic acid|(+/-)-1-Acetoxy-1-ethoxyethane|Hydroxyisocaproic acid|2-Methyl-3-hydroxyvaleric acid|Butoxyacetic acid|2-Hydroxy-3-methylpentanoic acid|3-hydroxyhexanoic acid|D-Leucic acid|5-Hydroxyhexanoic acid|Paraldehyde|Leucinic acid Formula: C6H12O3"	131.07136	5.70	9.20	6
+Unk#139	H+	+	"By mass: D-1-Amino-2-pyrrolidinecarboxylic acid|L-cis-3-Amino-2-pyrrolidinecarboxylic acid Formula: C5H10N2O2"	131.08150	11.50	11.70	5
+Unk#140	H+	+	"By mass: D-1-Amino-2-pyrrolidinecarboxylic acid|L-cis-3-Amino-2-pyrrolidinecarboxylic acid Formula: C5H10N2O2"	131.08150	9.70	10.00	5
+Unk#141	H-	-	"By mass: Ornithine|D-Ornithine|L-Ornithine monochlorohydrate/ornithine Formula: C5H12N2O2"	131.08260	15.40	16.00	5
+Unk#142	H+	+	"Formula: C4H5NO2S"	132.01138	2.70	3.90	4
+Unk#143	H-	-	"Formula: C4H7NO2S"	132.01247	2.40	4.00	4
+Unk#144	H-	-	"Formula: C4H7NO2S"	132.01247	1.20	2.40	4
+Unk#145	H-	-	"By mass: D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	132.03023	7.30	8.20	4
+Unk#146	H-	-	"By mass: D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	132.03023	12.50	12.90	4
+Unk#147	H-	-	"By mass: D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	132.03023	11.60	11.90	4
+Unk#148	H+	+	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	132.06552	9.40	16.50	5
+Unk#149	H+	+	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	132.06552	9.40	10.10	5
+Unk#150	H+	+	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	132.06552	2.40	4.90	5
+Unk#151	H+	+	"By mass: N-Acetyl-L-alanine|Propionylglycine|4-Hydroxyproline|5-Aminolevulinic acid|N-Acetyl-beta-alanine|cis-4-Hydroxy-D-proline|3-Hydroxy-L-proline|4-Hydroxy-L-proline|L-Glutamic gamma-semialdehyde|Trans-3-hydroxy-L-proline|5-Amino-2-oxopentanoic acid|4-Hydroxy-2-pyrrolidinecarboxylic acid Formula: C5H9NO3"	132.06552	1.20	2.40	5
+Unk#152	H+	+	"By mass: Creatine|Beta-Guanidinopropionic acid Formula: C4H9N3O2"	132.07675	11.80	14.60	4
+Unk#153	H+	+	"By mass: 3-Methylindole|Benzenepropanenitrile Formula: C9H9N"	132.08077	7.40	7.90	9
+Unk#154	H+	+	"Formula: C6H13NO2"	132.10190	10.40	10.90	6
+Unk#155	H+	+	"By mass: 3-Methyl sulfolene Formula: C5H8O2S"	133.03178	7.10	7.80	5
+Unk#156	H-	-	"By mass: (R)-2,3-Dihydroxy-isovalerate|(R)-glycerol 1-acetate|Deoxyribose|2,3-Dihydroxy-2-methylbutanoic acid|1-Deoxy-D-xylulose|2,3-Dihydroxyvaleric acid Formula: C5H10O4"	133.05063	2.10	2.40	5
+Unk#157	H+	+	"By mass: 4-Mercapto-4-methyl-2-pentanone|S-Methyl 3-methylthiobutyrate|3-Mercapto-2-methylpentanal|4-(Methylthio)-2-pentanone|2,5-Dimethyl-3-mercaptotetrahydrofuran Formula: C6H12OS"	133.06816	8.70	9.30	6
+Unk#158	H+	+	"Formula: C5H10NO3"	133.07334	9.90	10.10	5
+Unk#159	H+	+	"Formula: C6H16N2O"	133.13353	9.30	9.80	6
+Unk#160	H+	+	"Formula: C6H16N2O"	133.13353	10.50	12.70	6
+Unk#161	H-	-	"Formula: C3H5NO3S"	133.99174	2.20	2.40	3
+Unk#162	H+	+	"Formula: C4H7NO2S"	134.02702	2.20	4.10	4
+Unk#163	H+	+	"By mass: D-Aspartic acid|Iminodiacetic acid|L-Aspartic acid|1-deoxy-1-(N6-lysino)-D-fructose Formula: C4H7NO4"	134.04478	12.50	12.90	4
+Unk#164	H+	+	"Formula: C4H7NO4"	134.04478	12.10	12.50	4
+Unk#165	H-	-	"By mass: Adenine Formula: C5H5N5"	134.04722	2.40	3.20	5
+Unk#166	H-	-	"By mass: Adenine Formula: C5H5N5"	134.04722	11.50	12.30	5
+Unk#167	H-	-	"By mass: Adenine Formula: C5H5N5"	134.04722	1.20	2.30	5
+Unk#168	H-	-	"Formula: C5H5N5"	134.04722	12.80	13.30	5
+Unk#169	H+	+	"By mass: Indoxyl|4-Hydroxybenzeneacetonitrile|2-Methyl-4,5-benzoxazole|5-Hydroxyindole|(�\[PlusMinus])-2-Hydroxy-2-phenylacetonitrile|Mandelonitrile|1,3-Dihydro-(2H)-indol-2-one Formula: C8H7NO"	134.06004	8.30	8.80	8
+Unk#170	H+	+	"By mass: Indoxyl|4-Hydroxybenzeneacetonitrile|2-Methyl-4,5-benzoxazole|5-Hydroxyindole|(�\[PlusMinus])-2-Hydroxy-2-phenylacetonitrile|Mandelonitrile|1,3-Dihydro-(2H)-indol-2-one Formula: C8H7NO"	134.06004	2.40	2.80	8
+Unk#171	H+	+	"By mass: L-2-Amino-5-hydroxypentanoic acid|N-Lactoyl ethanolamine|1,4-Dideoxy-1,4-imino-D-ribitol Formula: C5H11NO3"	134.08117	7.70	8.10	5
+Unk#172	H+	+	"By mass: L-2-Amino-5-hydroxypentanoic acid|N-Lactoyl ethanolamine|1,4-Dideoxy-1,4-imino-D-ribitol Formula: C5H11NO3"	134.08117	11.30	11.70	5
+Unk#173	H+	+	"Formula: C6H15NO2"	134.11755	3.60	4.50	6
+Unk#174	H-	-	"Formula: C4H8O3S"	135.01214	2.10	2.40	4
+Unk#175	H-	-	"By mass: Threonic acid|L-threonic Acid|Erythronic acid Formula: C4H8O5"	135.02990	6.80	9.00	5
+Unk#176	H-	-	"By mass: 2-Deoxy-D-ribitol|Acyl-CoA-LD-PE-pool|1,2-Diacylglycerol-LD-PE-pool|2-Methylerythritol|1-Deoxy-D-ribitol|3-Deoxy-D-arabinitol Formula: C5H12O4"	135.06628	4.20	4.80	5
+Unk#177	H+	+	"Formula: C8H8NO"	135.06786	8.40	8.70	8
+Unk#178	H+	+	"By mass: 4'-Methylacetophenone|3-Phenylpropanal|Cinnamyl alcohol|1-Phenyl-1-propanone|7-Nonene-3,5-diyn-1-ol|Indan-1-ol|m-Methylacetophenone|4-Ethylbenzaldehyde|(4-Methylphenyl)acetaldehyde|2-Phenylpropanal|Chavicol|(Z)-4-(1-Propenyl)phenol|o-Vinylanisole|trans-Cinnamyl alcohol|2,4-Dimethylbenzaldehyde Formula: C9H10O"	135.08044	2.60	3.00	9
+Unk#179	H+	+	"Formula: C3H7N2O4"	136.04786	4.40	4.60	4
+Unk#180	H+	+	"By mass: 2-Acetyl-4-methylpyridine|5-(2-Furanyl)-3,4-dihydro-2H-pyrrole|2,3-Dihydro-1H-pyrrolizine-5-carboxaldehyde|4-Acetyl-2-methylpyridine|2'-Aminoacetophenone|2-Aminoacetophenone|N-Acetylarylamine|2-Acetyl-6-methylpyridine|2-Phenylacetamide|4-Acetyl-3-methylpyridine|2-Acetyl-5-methylpyridine Formula: C8H9NO"	136.07569	8.30	8.90	8
+Unk#181	H+	+	"Formula: C5H13NO3"	136.09682	6.10	6.60	5
+Unk#182	H-	-	"By mass: Sesamol|3,4-Dihydroxybenzaldehyde|keratan sulfate II (core 2-linked), degradation product 1|Gentisate aldehyde|alpha-Furyl methyl diketone|4-Hydroxybenzoic acid|2-Methoxy-1,4-benzoquinone|Salicylic acid|3-Hydroxybenzoic acid Formula: C7H6O3"	137.02442	6.20	9.20	7
+Unk#183	H-	-	"By mass: Sesamol|3,4-Dihydroxybenzaldehyde|keratan sulfate II (core 2-linked), degradation product 1|Gentisate aldehyde|alpha-Furyl methyl diketone|4-Hydroxybenzoic acid|2-Methoxy-1,4-benzoquinone|Salicylic acid|3-Hydroxybenzoic acid Formula: C7H6O3"	137.02442	1.10	1.20	7
+Unk#184	H-	-	"By mass: 2-Aminonicotinic acid|Nicotinamide N-oxide|(E)-Urocanic acid|Urocanic acid|5-Oxo-2(5H)-isoxazolepropanenitrile Formula: C6H6N2O2"	137.03565	4.10	9.10	6
+Unk#185	H+	+	"By mass: 1-Pentanesulfenothioic acid|Ethyl propyl disulfide|Ethyl isopropyl disulfide|Hypoxanthine|Allopurinol Formula: C5H4N4O"	137.04579	6.40	6.80	5
+Unk#186	H+	+	"Formula: C6H6N3O"	137.05836	4.00	4.60	6
+Unk#187	H+	+	"By mass: 2-Methylbenzoic acid|4-Hydroxyphenylacetaldehyde|3-(3-Furanyl)-2-methyl-2-propenal|4-Methylbenzoic acid|2-Methoxybenzaldehyde|4-(2-Furanyl)-3-buten-2-one|2'-Hydroxyacetophenone|Methyl benzoate|Benzyl formate|2-Hydroxy-4-methylbenzaldehyde|3-Methoxybenzaldehyde|alpha-Methyl-2-furanacrolein|Phenyl acetate|Phenylacetic acid|3-(5-Methyl-2-furyl)prop-2-enal|M-toluic Acid|4-Methoxybenzaldehyde Formula: C8H8O2"	137.05970	8.40	8.70	8
+Unk#188	H+	+	"By mass: 2-Methylbenzoic acid|4-Hydroxyphenylacetaldehyde|3-(3-Furanyl)-2-methyl-2-propenal|4-Methylbenzoic acid|2-Methoxybenzaldehyde|4-(2-Furanyl)-3-buten-2-one|2'-Hydroxyacetophenone|Methyl benzoate|Benzyl formate|2-Hydroxy-4-methylbenzaldehyde|3-Methoxybenzaldehyde|alpha-Methyl-2-furanacrolein|Phenyl acetate|Phenylacetic acid|3-(5-Methyl-2-furyl)prop-2-enal|M-toluic Acid|4-Methoxybenzaldehyde Formula: C8H8O2"	137.05970	12.00	15.60	8
+Unk#189	H+	+	"By mass: p-Aminobenzoic acid|m-Aminobenzoic acid|2-Pyridylacetic acid|Salicylamide|3-Pyridylacetic acid|Methyl nicotinate|Trigonelline|2-Aminobenzoic acid Formula: C7H7NO2"	138.05495	8.30	9.80	7
+Unk#190	H+	+	"By mass: p-Aminobenzoic acid|m-Aminobenzoic acid|2-Pyridylacetic acid|Salicylamide|3-Pyridylacetic acid|Methyl nicotinate|Trigonelline|2-Aminobenzoic acid Formula: C7H7NO2"	138.05495	1.30	8.10	7
+Unk#191	H-	-	"By mass: 3,4-Dihydroxybenzylamine|Ethyl 2-pyrrolecarboxylate|5-Acetyl-2,4-dimethyloxazole Formula: C7H9NO2"	138.05605	2.60	2.80	7
+Unk#192	H+	+	"Formula: C4H10O3S"	139.04234	3.50	4.00	4
+Unk#193	H-	-	"By mass: 1,3-Dimethyluracil|Pi-Methylimidazoleacetic acid|Methylimidazoleacetic acid|Imidazolepropionic acid Formula: C6H8N2O2"	139.05130	7.30	8.10	6
+Unk#194	H+	+	"Formula: C6H10N4"	139.09782	4.90	5.60	6
+Unk#195	H-	-	"By mass: Carbamoyl phosphate Formula: CH4NO5P"	139.97543	16.00	18.40	1
+Unk#196	H+	+	"By mass: 2,4-Dimethyl-5-vinylthiazole Formula: C7H9NS"	140.05284	7.50	8.00	7
+Unk#197	H+	+	"By mass: 1,3-Dimethyluracil|Pi-Methylimidazoleacetic acid|Methylimidazoleacetic acid|Imidazolepropionic acid Formula: C6H8N2O2"	141.06585	1.30	10.40	6
+Unk#198	H+	+	"Formula: C5H8N4O"	141.07708	15.50	16.00	5
+Unk#199	H-	-	"By mass: N-Nitrosoproline Formula: C5H8N2O3"	143.04621	11.10	11.30	5
+Unk#200	H+	+	"Formula: C5H10N4O"	143.09273	15.50	16.00	5
+Unk#201	H+	+	"Formula: C7H14N2O"	143.11788	5.70	6.80	7
+Unk#202	H-	-	"By mass: 2-Keto-glutaramic acid Formula: C5H7NO4"	144.03023	6.20	7.60	5
+Unk#203	H-	-	"By mass: 2-Keto-glutaramic acid Formula: C5H7NO4"	144.03023	2.50	3.70	5
+Unk#204	H+	+	"By mass: Raphanusamide|(-)-5-(2-Propenyl)-2-oxazolidinethione|5-Acetyl-2,3-dihydro-1,4-thiazine|2-Propionyl-2-thiazoline|5-(2-Hydroxyethyl)-4-methylthiazole Formula: C6H9NOS"	144.04776	10.70	11.50	6
+Unk#205	H+	+	"By mass: Acrylamide-acrylic acid resin|6-Oxopiperidine-2-carboxylic acid|Trimethadione|Vinylacetylglycine|5-ethyl-5-methyl-2,4-oxazolidinedione Formula: C6H9NO3"	144.06552	2.20	2.50	6
+Unk#206	H-	-	"By mass: 4-Acetamidobutanoate|L-cis-4-(Hydroxymethyl)-2-pyrrolidinecarboxylic acid|(S)-5-Amino-3-oxohexanoate|N-(2-Carboxymethyl)-morpholine|(S)-2-amino-6-oxohexanoate|Isobutyrylglycine|L-trans-5-Hydroxy-2-piperidinecarboxylic acid|2-Keto-6-aminocaproate|N-Butyrylglycine|Methyl aminolevulinate|4-Acetamidobutanoic acid|Allysine Formula: C6H11NO3"	144.06661	10.90	11.20	6
+Unk#207	H-	-	"By mass: 4-Acetamidobutanoate|L-cis-4-(Hydroxymethyl)-2-pyrrolidinecarboxylic acid|(S)-5-Amino-3-oxohexanoate|N-(2-Carboxymethyl)-morpholine|(S)-2-amino-6-oxohexanoate|Isobutyrylglycine|L-trans-5-Hydroxy-2-piperidinecarboxylic acid|2-Keto-6-aminocaproate|N-Butyrylglycine|Methyl aminolevulinate|4-Acetamidobutanoic acid|Allysine Formula: C6H11NO3"	144.06661	2.30	2.70	6
+Unk#208	H+	+	"By mass: Maleic acid homopolymer|Ethyl hydrogen fumarate|3-Hexenedioic acid|trans-2-Hexenedioic acid|3-Hydroxyadipic acid 3,6-lactone|3-Methylglutaconic acid|(E)-2-Methylglutaconic acid|Dimethyl fumarate Formula: C6H8O4"	145.04953	6.80	7.30	6
+Unk#209	H-	-	"By mass: Dimethyl succinate|4-Ethoxy-4-oxobutanoic acid|Adipic acid|2-Methylglutaric acid|Monomethyl glutaric acid|Methylglutaric acid|(S)-2-Aceto-2-hydroxybutanoic acid|Solerol|2,2-Dimethylsuccinic acid Formula: C6H10O4"	145.05063	4.00	10.30	6
+Unk#210	H+	+	"By mass: N-Nitrosoproline Formula: C5H8N2O3"	145.06077	10.20	10.70	5
+Unk#211	H-	-	"By mass: Ureidoisobutyric acid|Alanylglycine|L-Glutamine|Alanyl-Glycine|D-Glutamine Formula: C5H10N2O3"	145.06186	8.30	8.80	5
+Unk#212	H+	+	"By mass: 1-(3-Aminopropyl)-4-aminobutanal|N-Acetylcadaverine Formula: C7H16N2O"	145.13353	10.50	11.10	7
+Unk#213	H+	+	"By mass: 1-(3-Aminopropyl)-4-aminobutanal|N-Acetylcadaverine Formula: C7H16N2O"	145.13353	9.70	10.30	7
+Unk#214	H+	+	"Formula: C5H7NO2S"	146.02702	1.20	1.50	5
+Unk#215	H+	+	"Formula: C5H7NO2S"	146.02702	2.30	3.30	5
+Unk#216	H+	+	"Formula: C5H7NO2S"	146.02702	5.20	6.80	5
+Unk#217	H-	-	"By mass: L-Glutamic acid|DL-Glutamate|O-Acetylserine|N-Methyl-D-aspartic acid|N-lactoyl-Glycine|3-(Carboxymethylamino)propanoic acid|N-Acetylserine|D-Glutamic acid|L-4-Hydroxyglutamate semialdehyde Formula: C5H9NO4"	146.04588	7.30	7.90	5
+Unk#218	H-	-	"Formula: C5H9NO4"	146.04588	4.80	7.00	5
+Unk#219	H-	-	"Formula: C6H11O4"	146.05845	10.30	10.60	6
+Unk#220	H+	+	"By mass: 1H-Indole-3-carboxaldehyde|Has [2664] on isotope 7 Formula: C9H7NO"	146.06004	7.40	7.80	9
+Unk#221	H+	+	"By mass: 4-Guanidinobutanoic acid Formula: C5H11N3O2"	146.09240	15.50	16.10	5
+Unk#222	H+	+	"By mass: 3-Dehydroxycarnitine Formula: C7H15NO2"	146.11755	7.70	8.10	7
+Unk#223	H+	+	"Formula: C4H6N2O2S"	147.02227	8.50	8.90	4
+Unk#224	H+	+	"Formula: C5H6O5"	147.02880	2.60	2.90	5
+Unk#225	H-	-	"By mass: Ribonolactone|D-Xylono-1,5-lactone|L-2-Hydroxyglutaric acid|D-2-Hydroxyglutaric acid|3-Hydroxyglutaric acid|2-Hydroxyglutarate|Citramalic acid Formula: C5H8O5"	147.02990	1.20	1.60	5
+Unk#226	H+	+	"By mass: Coumarin|2-Benzofurancarboxaldehyde|Phenylpropiolic acid|Chromone Formula: C9H6O2"	147.04405	8.40	8.70	9
+Unk#227	H-	-	"By mass: Ethyl 3-(methylthio)propanoate|3-(Methylthio)propyl acetate|Methyl 3-(methylthio)butanoate|Methyl 2-(methylthio)butyrate|3-Mercapto-3-methylbutyl formate|2,4,6-Trimethyl-1,3,5-dioxathiane|Methyl 4-(methylthio)butyrate|Methylthiomethyl butyrate|Ethyl 3-mercaptobutyrate|Propyl 2-mercaptopropionate Formula: C6H12O2S"	147.04852	11.70	11.90	6
+Unk#228	H-	-	"By mass: Glycerol 1-propanoate|(R) 2,3-Dihydroxy-3-methylvalerate|Mevalonic acid|(2-Methoxyethoxy)propanoic acid|(R)-mevalonate Formula: C6H12O4"	147.06628	10.30	10.60	6
+Unk#229	H+	+	"Formula: C5H10N2O3"	147.07642	0.00	1.00	5
+Unk#230	H+	+	"Formula: C5H10N2O3"	147.07642	2.30	2.60	5
+Unk#231	H+	+	"By mass: 2,3-Dimethylbenzofuran|3-(4-Methylphenyl)-2-propenal|2-Methyl-3-phenyl-2-propenal|Benzofuran, 4,7-dimethyl-|2-Phenyl-2-butenal|Benzylideneacetone|4-(1-Methylethenyl)benzaldehyde|4-Phenyl-2-butenal Formula: C10H10O"	147.08044	1.00	1.20	10
+Unk#232	H+	+	"By mass: Acetylcholine|4-Trimethylammoniobutanoic acid|1-Nitroheptane Formula: C7H16NO2"	147.12537	10.30	10.70	7
+Unk#233	H+	+	"By mass: Agrocybin|Indole-5,6-quinone|1H-Indole-2,3-dione Formula: C8H5NO2"	148.03930	8.40	8.70	8
+Unk#234	H+	+	"By mass: Thiomorpholine 3-carboxylate Formula: C5H9NO2S"	148.04267	9.50	9.80	5
+Unk#235	H+	+	"By mass: Thiomorpholine 3-carboxylate Formula: C5H9NO2S"	148.04267	1.20	1.50	5
+Unk#236	H+	+	"By mass: Thiomorpholine 3-carboxylate Formula: C5H9NO2S"	148.04267	2.30	5.30	5
+Unk#237	H+	+	"By mass: Thiomorpholine 3-carboxylate Formula: C5H9NO2S"	148.04267	7.10	7.90	5
+Unk#238	H+	+	"By mass: L-Glutamic acid|DL-Glutamate|O-Acetylserine|N-Methyl-D-aspartic acid|N-lactoyl-Glycine|3-(Carboxymethylamino)propanoic acid|N-Acetylserine|D-Glutamic acid|L-4-Hydroxyglutamate semialdehyde Formula: C5H9NO4"	148.06043	1.20	1.70	5
+Unk#239	H+	+	"By mass: L-Glutamic acid|DL-Glutamate|O-Acetylserine|N-Methyl-D-aspartic acid|N-lactoyl-Glycine|3-(Carboxymethylamino)propanoic acid|N-Acetylserine|D-Glutamic acid|L-4-Hydroxyglutamate semialdehyde Formula: C5H9NO4"	148.06043	7.60	7.90	5
+Unk#240	H+	+	"Formula: C5H9NO4"	148.06043	8.00	8.60	5
+Unk#241	H+	+	"Formula: C6H11O4"	148.07301	10.20	10.70	6
+Unk#242	H+	+	"Formula: C6H13NOS"	148.07906	11.30	11.50	6
+Unk#243	H+	+	"By mass: Fagomine|(2R,3R,4R)-2-Amino-4-hydroxy-3-methylpentanoic acid|N-(2-Hydroxyethyl)-morpholine N-oxide Formula: C6H13NO3"	148.09682	11.30	11.70	6
+Unk#244	H+	+	"Formula: C5H13N3O2"	148.10805	15.60	16.00	5
+Unk#245	H-	-	"By mass: Trifluoromethanesulfonic acid Formula: CHF3O3S"	148.95257	0.90	1.00	1
+Unk#246	H-	-	"By mass: Tartaric acid|2,3-Dihydroxybutanedioic acid|D-Tartaric acid Formula: C4H6O6"	149.00916	12.40	13.00	4
+Unk#247	H-	-	"By mass: Tartaric acid|2,3-Dihydroxybutanedioic acid|D-Tartaric acid Formula: C4H6O6"	149.00916	12.10	12.30	4
+Unk#248	H-	-	"By mass: 3,4-Methylenedioxybenzaldehyde|4-Hydroxyphthalide|(E)-8-Hydroxy-2-octene-4,6-diynoic acid|1,4-Benzodioxin-2(3H)-one|Phenylglyoxylic acid Formula: C8H6O3"	149.02442	2.00	2.20	8
+Unk#249	H-	-	"Formula: C5H12NS2"	149.03384	11.50	11.80	5
+Unk#250	H-	-	"By mass: L-Threo-2-pentulose|Arabinose|2-Deoxyribonic acid|L-Arabinose|D-Apiose|2-Deoxypentonic acid|Beta-D-ribopyranose|D-Ribulose|D-Xylose|L-Ribulose|Arabinofuranose|Aldehydo-D-xylose|D-Ribose|D-Xylulose Formula: C5H10O5"	149.04554	9.30	9.70	5
+Unk#251	H-	-	"By mass: L-Threo-2-pentulose|Arabinose|2-Deoxyribonic acid|L-Arabinose|D-Apiose|2-Deoxypentonic acid|Beta-D-ribopyranose|D-Ribulose|D-Xylose|L-Ribulose|Arabinofuranose|Aldehydo-D-xylose|D-Ribose|D-Xylulose Formula: C5H10O5"	149.04554	8.60	8.80	5
+Unk#252	H+	+	"By mass: Cinnamic acid|(E)-3-(2-Hydroxyphenyl)-2-propenal|(E)-3-(4-Hydroxyphenyl)-2-propenal|trans-Cinnamic acid|Di-2-furanylmethane|1-Phenyl-1,2-propanedione|3,4-Dihydro-2H-1-benzopyran-2-one Formula: C9H8O2"	149.05970	5.80	6.60	9
+Unk#253	H+	+	"By mass: Glycerol 1-propanoate|(R) 2,3-Dihydroxy-3-methylvalerate|Mevalonic acid|(2-Methoxyethoxy)propanoic acid|(R)-mevalonate Formula: C6H12O4"	149.08083	10.20	10.70	6
+Unk#254	H+	+	"Formula: C6H16N2O2"	149.12845	9.50	9.80	6
+Unk#255	H-	-	"Formula: C4H7O6"	150.01699	9.70	9.90	4
+Unk#256	H+	+	"By mass: NAPQI|(S)-4-Hydroxymandelonitrile|5,6-Dihydroxyindole Formula: C8H7NO2"	150.05495	2.40	2.60	8
+Unk#257	H+	+	"By mass: NAPQI|(S)-4-Hydroxymandelonitrile|5,6-Dihydroxyindole Formula: C8H7NO2"	150.05495	1.20	2.30	8
+Unk#258	H-	-	"By mass: Methyl 2-aminobenzoate|Ethyl nicotinate|2'-Hydroxyacetanilide|Acetaminophen|3alpha,4,7,7alpha-Tetrahydro-1H-isoindole-1,3(2H)-dione|2-Phenylglycine|2-Amino-3-methylbenzoate|Leukoaminochrome|2-(Methylamino)benzoic acid|Dopamine quinone Formula: C8H9NO2"	150.05605	2.50	2.80	8
+Unk#259	H+	+	"By mass: L-Methionine|Penicillamine|Racemethionine Formula: C5H11NO2S"	150.05832	8.10	9.50	5
+Unk#260	H+	+	"By mass: Triethanolamine Formula: C6H15NO3"	150.11246	2.70	3.40	6
+Unk#261	H-	-	"By mass: 6,8-Dihydroxypurine|Oxypurinol|Xanthine Formula: C5H4N4O2"	151.02615	6.60	7.10	5
+Unk#262	H+	+	"Formula: C4H8NO5"	151.04752	10.10	10.80	4
+Unk#263	H+	+	"Formula: C9H10S"	151.05759	7.20	7.70	9
+Unk#264	H-	-	"Formula: C5H12O5"	151.06119	7.30	8.10	5
+Unk#265	H+	+	"By mass: 4-Coumaryl alcohol|2'-Methoxyacetophenone|Ethyl benzoate|Benzyl acetate|p-Tolyl acetate|Hydrocinnamic acid|4-Ethoxybenzaldehyde|1-Phenylethyl formate|2'-Hydroxy-5'-methylacetophenone|o-Tolyl acetate|4-Hydroxy-3-methylacetophenone|4'-Methoxyacetophenone|2-(2-Furanyl)-3-methyl-2-butenal|2-Phenylethyl formate|3,4-Dimethylbenzoic acid|Methyl phenylacetate|2-Methoxy-4-vinylphenol|2-Phenylpropionate|3'-carboxy-alpha-chromanol|4-Ethylbenzoic acid|2-Ethyl-4-(2-furanyl)-2-propenal|3-Methylphenylacetic acid Formula: C9H10O2"	151.07535	0.90	1.20	9
+Unk#266	H+	+	"By mass: 4-Coumaryl alcohol|2'-Methoxyacetophenone|Ethyl benzoate|Benzyl acetate|p-Tolyl acetate|Hydrocinnamic acid|4-Ethoxybenzaldehyde|1-Phenylethyl formate|2'-Hydroxy-5'-methylacetophenone|o-Tolyl acetate|4-Hydroxy-3-methylacetophenone|4'-Methoxyacetophenone|2-(2-Furanyl)-3-methyl-2-butenal|2-Phenylethyl formate|3,4-Dimethylbenzoic acid|Methyl phenylacetate|2-Methoxy-4-vinylphenol|2-Phenylpropionate|3'-carboxy-alpha-chromanol|4-Ethylbenzoic acid|2-Ethyl-4-(2-furanyl)-2-propenal|3-Methylphenylacetic acid Formula: C9H10O2"	151.07535	0.80	0.90	9
+Unk#267	H-	-	"By mass: 2,6,6-Trimethyl-2-cyclohexene-1,4-dione|4-(Ethoxymethyl)phenol|2-Isopropoxyphenol|3-(4-Hydroxyphenyl)-1-propanol|2-Propenyl 2,4-hexadienoate|1-(2-Furanyl)-1-pentanone|(Dimethoxymethyl)benzene|3,5-Dimethoxytoluene|4-Ethyl-2-methoxyphenol|3-(5-Methyl-2-furanyl)butanal|2-(Ethoxymethyl)phenol|2-Isopropyl-1,4-benzenediol Formula: C9H12O2"	151.07645	1.00	1.10	9
+Unk#268	H+	+	"Formula: C8H12N3"	151.11039	2.90	3.20	8
+Unk#269	H-	-	"By mass: 3-Sulfinato-L-alaninate|3-Sulfinoalanine Formula: C3H7NO4S"	152.00230	3.40	4.50	3
+Unk#270	H-	-	"Formula: C3H8NO4P"	152.01182	11.60	11.90	3
+Unk#271	H+	+	"Formula: C4H7O6"	152.03154	10.20	10.80	5
+Unk#272	H-	-	"Formula: C8H9O3"	152.04789	6.10	6.90	8
+Unk#273	H+	+	"By mass: 8-Hydroxyadenine|Guanine|2-Hydroxyadenine Formula: C5H5N5O"	152.05668	5.20	5.80	5
+Unk#274	H-	-	"By mass: Diethyl trisulfide|Methyl propyl trisulfide|Ethyl (methylthio)methyl disulfide|1,1'-Thiobisethanethiol|2,4,6-Trithiaheptane Formula: C4H10S3"	152.98719	12.00	12.20	4
+Unk#275	H-	-	"Formula: C6H8N3S"	153.03661	11.00	11.40	6
+Unk#276	H-	-	"Formula: C7H10N2O2"	153.06695	11.20	11.30	7
+Unk#277	H+	+	"By mass: 2,6,6-Trimethyl-2-cyclohexene-1,4-dione|4-(Ethoxymethyl)phenol|2-Isopropoxyphenol|3-(4-Hydroxyphenyl)-1-propanol|2-Propenyl 2,4-hexadienoate|1-(2-Furanyl)-1-pentanone|(Dimethoxymethyl)benzene|3,5-Dimethoxytoluene|4-Ethyl-2-methoxyphenol|3-(5-Methyl-2-furanyl)butanal|2-(Ethoxymethyl)phenol|2-Isopropyl-1,4-benzenediol Formula: C9H12O2"	153.09100	0.00	1.20	9
+Unk#278	H+	+	"By mass: 2,6,6-Trimethyl-2-cyclohexene-1,4-dione|4-(Ethoxymethyl)phenol|2-Isopropoxyphenol|3-(4-Hydroxyphenyl)-1-propanol|2-Propenyl 2,4-hexadienoate|1-(2-Furanyl)-1-pentanone|(Dimethoxymethyl)benzene|3,5-Dimethoxytoluene|4-Ethyl-2-methoxyphenol|3-(5-Methyl-2-furanyl)butanal|2-(Ethoxymethyl)phenol|2-Isopropyl-1,4-benzenediol Formula: C9H12O2"	153.09100	2.50	3.70	9
+Unk#279	H+	+	"Formula: C9H16N2"	153.13862	7.00	7.50	9
+Unk#280	H-	-	"By mass: 2,4-Dihydroxy-nitrophenol|4-Nitrocatechol Formula: C6H5NO4"	154.01458	1.70	1.90	6
+Unk#281	H-	-	"Formula: C8H11OS"	154.04578	6.10	6.70	8
+Unk#282	H+	+	"Formula: C4H9O6"	154.04719	9.60	10.00	5
+Unk#283	H-	-	"By mass: L-Histidine|L-2-Amino-3-(1-pyrazolyl)propanoic acid Formula: C6H9N3O2"	154.06220	11.40	11.90	6
+Unk#284	H-	-	"By mass: 4-Imidazolone-5-propionic acid|5-Hydroxymethyl-4-methyluracil|Imidazolelactic acid Formula: C6H8N2O3"	155.04621	7.10	8.60	6
+Unk#285	H-	-	"By mass: 4-Imidazolone-5-propionic acid|5-Hydroxymethyl-4-methyluracil|Imidazolelactic acid Formula: C6H8N2O3"	155.04621	2.80	4.20	6
+Unk#286	H+	+	"Formula: C7H9NO3"	156.06552	1.20	1.60	7
+Unk#287	H-	-	"By mass: 3-Methylcrotonylglycine|Tiglylglycine|Paramethadione Formula: C7H11NO3"	156.06661	9.80	10.20	7
+Unk#288	H+	+	"By mass: L-Histidine|L-2-Amino-3-(1-pyrazolyl)propanoic acid Formula: C6H9N3O2"	156.07675	11.70	12.20	6
+Unk#289	H-	-	"Formula: C6H11N3O2"	156.07785	15.50	15.90	6
+Unk#290	H+	+	"By mass: 2-(1-Pyrrolidinyl)-3-pentanone|2,2,6,6-Tetramethyl-4-piperidinone|3-(1-Pyrrolidinyl)-2-pentanone|Methylisopelletierine Formula: C9H17NO"	156.13828	1.00	1.20	9
+Unk#291	H+	+	"By mass: 2-(1-Pyrrolidinyl)-3-pentanone|2,2,6,6-Tetramethyl-4-piperidinone|3-(1-Pyrrolidinyl)-2-pentanone|Methylisopelletierine Formula: C9H17NO"	156.13828	1.20	2.40	9
+Unk#292	H-	-	"By mass: L-Dihydroorotic acid|4,5-Dihydroorotic acid Formula: C5H6N2O4"	157.02548	7.60	8.20	5
+Unk#293	H-	-	"By mass: Allantoin Formula: C4H6N4O3"	157.03671	7.70	8.00	4
+Unk#294	H+	+	"By mass: 4-Imidazolone-5-propionic acid|5-Hydroxymethyl-4-methyluracil|Imidazolelactic acid Formula: C6H8N2O3"	157.06077	7.80	8.10	6
+Unk#295	H+	+	"By mass: 4-Imidazolone-5-propionic acid|5-Hydroxymethyl-4-methyluracil|Imidazolelactic acid Formula: C6H8N2O3"	157.06077	11.10	11.40	6
+Unk#296	H+	+	"Formula: C6H8N2O3"	157.06077	10.20	10.70	6
+Unk#297	H-	-	"By mass: 1-(Hydroxymethyl)-5,5-dimethyl-2,4-imidazolidinedione Formula: C6H10N2O3"	157.06186	7.40	8.70	6
+Unk#298	H+	+	"Formula: C7H10NO3"	157.07334	10.50	11.10	7
+Unk#299	H+	+	"Formula: C7H10NO3"	157.07334	9.80	10.40	7
+Unk#300	H+	+	"By mass: 3-Indoleacetonitrile|Has [2530] on isotope 9 Formula: C10H8N2"	157.07602	7.40	7.90	10
+Unk#301	H-	-	"By mass: trans-4-Hydroxycyclohexylacetic acid|Propyl levulinate|2-Methylpropyl 3-oxobutanoate|6-Ethyl-1-methyl-2,7,8-trioxabicyclo[3.2.1]octane|Tetrahydrofurfuryl propionate|Alpha-Ketooctanoic acid|3-Methylbutyl 2-oxopropanoate|2-n-Propyl-4-oxopentanoic acid|3-Oxovalproic acid|5-Butyl-1,4-dioxan-2-one|cis-4-Hydroxycyclohexylacetic acid|1-Methyl-2-oxopropyl butyrate|Isobutyric Acid Anhydride|Butyl acetoacetate|6-Butyl-1,4-dioxan-2-one|Ethyl 3-oxohexanoate|3-Oxooctanoic acid Formula: C8H14O3"	157.08701	4.30	16.40	8
+Unk#302	H+	+	"Formula: C7H12N2O2"	157.09715	1.20	10.00	7
+Unk#303	H+	+	"Formula: C9H20N2"	157.16992	11.80	13.40	9
+Unk#304	H-	-	"By mass: L-2-Amino-4-methylenepentanedioic acid|L-trans-alpha-Amino-2-carboxycyclopropaneacetic acid Formula: C6H9NO4"	158.04588	9.70	10.00	6
+Unk#305	H-	-	"By mass: 4-Hydroxystachydrine|N-Acetylvaline|Isovalerylglycine|5-Acetamidovalerate|Calystegine A7|Turicine|Calystegine A6|Betonicine|3-Dehydrocarnitine|Calystegin A3|Medicanine|Methyl 5-(hydroxymethyl)pyrrolidine-3-carboxylate|2-Methylbutyrylglycine|Valerylglycine Formula: C7H13NO3"	158.08226	2.30	2.50	7
+Unk#306	H-	-	"By mass: 4-Hydroxystachydrine|N-Acetylvaline|Isovalerylglycine|5-Acetamidovalerate|Calystegine A7|Turicine|Calystegine A6|Betonicine|3-Dehydrocarnitine|Calystegin A3|Medicanine|Methyl 5-(hydroxymethyl)pyrrolidine-3-carboxylate|2-Methylbutyrylglycine|Valerylglycine Formula: C7H13NO3"	158.08226	6.10	8.80	7
+Unk#307	H+	+	"Formula: C6H11N3O2"	158.09240	15.50	15.90	6
+Unk#308	H+	+	"Formula: C6H11N3O2"	158.09240	8.40	8.70	6
+Unk#309	H+	+	"Formula: C9H19NO"	158.15393	7.70	8.40	9
+Unk#310	H-	-	"By mass: 2-Methyl-4-oxopentanedioic acid|Oxoadipic acid|3-Oxoadipic acid|3-Methyl-3-hydroxypentanedioate Formula: C6H8O5"	159.02990	1.20	1.30	6
+Unk#311	H-	-	"By mass: Thymine glycol|Tricholomic acid Formula: C5H8N2O4"	159.04113	7.50	8.20	5
+Unk#312	H+	+	"By mass: 1-(Hydroxymethyl)-5,5-dimethyl-2,4-imidazolidinedione Formula: C6H10N2O3"	159.07642	11.80	13.10	6
+Unk#313	H+	+	"Formula: C10H10N2"	159.09167	7.40	7.90	10
+Unk#314	H-	-	"By mass: 4-Hydroxy-L-glutamic acid|N-Formyl-L-aspartate|A-Ketoglutaric acid oxime Formula: C5H7NO5"	160.02514	11.60	11.90	5
+Unk#315	H+	+	"Formula: C6H9NO2S"	160.04267	6.90	7.40	6
+Unk#316	H+	+	"Formula: C6H9NO2S"	160.04267	1.10	1.20	6
+Unk#317	H+	+	"Formula: C6H9NO2S"	160.04267	1.20	1.40	6
+Unk#318	H+	+	"Formula: C6H9NO2S"	160.04267	2.20	2.40	6
+Unk#319	H-	-	"By mass: Acetylhomoserine|N-acetylthreonine|N-methyl-L-glutamic Acid|Glutamate, gamma-methyl ester|Aminoadipic acid|(�\[PlusMinus])-2,2'-Iminobispropanoic acid Formula: C6H11NO4"	160.06153	1.20	2.30	6
+Unk#320	H-	-	"Formula: C6H11NO4"	160.06153	6.70	7.00	6
+Unk#321	H+	+	"By mass: Indoleacetaldehyde|N-Hydroxy-1-aminonaphthalene Formula: C10H9NO"	160.07569	1.20	1.60	10
+Unk#322	H+	+	"Formula: C6H13N3O2"	160.10805	7.50	7.80	6
+Unk#323	H+	+	"By mass: DL-2-Aminooctanoic acid|Pregabalin Formula: C8H17NO2"	160.13320	9.00	9.50	8
+Unk#324	H-	-	"By mass: D-4-Hydroxy-2-oxoglutarate|4-Hydroxy-2-oxoglutaric acid Formula: C5H6O6"	161.00916	14.10	14.40	5
+Unk#325	H-	-	"By mass: D-1-Deoxy-erythro-hexo-2,3-diulose|2-Hydroxy-2-ethylsuccinic acid|Levoglucosan|2(R)-Hydroxyadipic acid|2-Hydroxyadipic acid|Diethyl dicarbonate|3-Hydroxyadipic acid|3-Hydroxymethylglutaric acid|D-1,5-Anhydrofructose Formula: C6H10O5"	161.04554	1.10	1.80	6
+Unk#326	H+	+	"By mass: 4-Acetamido-2-aminobutanoic acid|Alanyl-Alanine|D-Alanyl-D-alanine Formula: C6H12N2O3"	161.09206	9.40	9.70	6
+Unk#327	H+	+	"Formula: C6H12N2O3"	161.09206	1.10	1.70	6
+Unk#328	H+	+	"Formula: C6H12N2O3"	161.09206	2.30	3.00	6
+Unk#329	H+	+	"Formula: C8H20N2O"	161.16483	8.20	9.80	8
+Unk#330	H+	+	"Formula: C8H20N2O"	161.16483	7.20	7.90	8
+Unk#331	H-	-	"By mass: Acetylcysteine Formula: C5H9NO3S"	162.02304	5.20	6.70	5
+Unk#332	H-	-	"By mass: Acetylcysteine Formula: C5H9NO3S"	162.02304	4.40	5.10	5
+Unk#333	H+	+	"By mass: trans-S-(1-Propenyl)-L-cysteine|S-Allylcysteine Formula: C6H11NO2S"	162.05832	2.30	3.00	6
+Unk#334	H+	+	"By mass: trans-S-(1-Propenyl)-L-cysteine|S-Allylcysteine Formula: C6H11NO2S"	162.05832	1.20	1.50	6
+Unk#335	H+	+	"By mass: Acetylhomoserine|N-acetylthreonine|N-methyl-L-glutamic Acid|Glutamate, gamma-methyl ester|Aminoadipic acid|(�\[PlusMinus])-2,2'-Iminobispropanoic acid Formula: C6H11NO4"	162.07608	11.10	11.70	6
+Unk#336	H+	+	"By mass: Acetylhomoserine|N-acetylthreonine|N-methyl-L-glutamic Acid|Glutamate, gamma-methyl ester|Aminoadipic acid|(�\[PlusMinus])-2,2'-Iminobispropanoic acid Formula: C6H11NO4"	162.07608	11.80	13.70	6
+Unk#337	H+	+	"By mass: Acetylhomoserine|N-acetylthreonine|N-methyl-L-glutamic Acid|Glutamate, gamma-methyl ester|Aminoadipic acid|(�\[PlusMinus])-2,2'-Iminobispropanoic acid Formula: C6H11NO4"	162.07608	1.10	2.30	6
+Unk#338	H+	+	"By mass: Acetylhomoserine|N-acetylthreonine|N-methyl-L-glutamic Acid|Glutamate, gamma-methyl ester|Aminoadipic acid|(�\[PlusMinus])-2,2'-Iminobispropanoic acid Formula: C6H11NO4"	162.07608	2.30	8.20	6
+Unk#339	H-	-	"Formula: C6H4N4O2"	163.02615	2.60	3.70	6
+Unk#340	H-	-	"By mass: Enol-phenylpyruvate|2-Hydroxycinnamic acid|cis-p-Coumaric acid|Phenylpyruvic acid|m-Coumaric acid|Methyl Phenylglyoxalate|4-Hydroxycinnamic acid|Coumaric acid Formula: C9H8O3"	163.04007	8.40	8.70	9
+Unk#341	H-	-	"By mass: (3-Methylphenyl)methyl acetate|p-Mentha-2,4(8)-dien-9,3-olide|2-Phenylethyl acetate|2-Phenylbutyric acid|beta-Thujaplicin|3-Phenylbutyric acid|Eugenol|3-Phenylpropyl formate|Isoegomaketone|Egomaketone|Ethyl phenylacetate|Phenyl butyrate|2-Methylbenzyl alcohol acetate|4-Isopropylbenzoic acid|Methyl 3-phenylpropanoate|3-Hydroxy-4-phenylbutan-2-one|Epoxyanethole|Thymoquinone|1-(4-Methoxyphenyl)-2-propanone|4-(4-Hydroxyphenyl)-2-butanone|1,2-Dimethoxy-4-vinylbenzene|Isoeugenol|1-Phenylethyl acetate|Propyl benzoate|4-Methylbenzyl alcohol acetate|Benzyl propionate|Benzenebutanoic acid|Lepalone|4-Methyl-2-phenyl-1,3-dioxolane|3-(4-Methoxyphenyl)-2-propen-1-ol|Isopropyl benzoate Formula: C10H12O2"	163.07645	1.10	1.30	10
+Unk#342	H+	+	"Formula: C9H12N3"	163.11039	8.80	9.10	9
+Unk#343	H-	-	"Formula: C4H8NO4P"	164.01182	7.10	7.60	4
+Unk#344	H-	-	"By mass: 5-Pyridoxolactone|4-Pyridoxolactone|(R)-2-Hydroxy-2H-1,4-benzoxazin-3(4H)-one|Noradrenochrome|Formylanthranilic acid|6-Methoxy-2(3H)-benzoxazolone Formula: C8H7NO3"	164.03531	2.00	2.40	8
+Unk#345	H-	-	"By mass: Ethiin|Methionine sulfoxide Formula: C5H11NO3S"	164.03869	9.00	9.30	5
+Unk#346	H+	+	"By mass: Thialdine|Pterin Formula: C6H5N5O"	164.05668	5.70	6.40	6
+Unk#347	H+	+	"By mass: Bicine|1-Deoxynojirimycin|2-Amino-4-ethoxy-3-hydroxybutanoic acid Formula: C6H13NO4"	164.09173	3.10	3.70	6
+Unk#348	H+	+	"By mass: Bicine|1-Deoxynojirimycin|2-Amino-4-ethoxy-3-hydroxybutanoic acid Formula: C6H13NO4"	164.09173	5.20	5.80	6
+Unk#349	H+	+	"By mass: Bicine|1-Deoxynojirimycin|2-Amino-4-ethoxy-3-hydroxybutanoic acid Formula: C6H13NO4"	164.09173	7.20	7.90	6
+Unk#350	H+	+	"Formula: C7H17NO3"	164.12811	11.50	12.10	7
+Unk#351	H-	-	"By mass: Ribonic acid|Arabinonic acid|2,3,4,5-Tetrahydroxypentanoic acid|L-Lyxonate|L-Xylonate Formula: C5H10O6"	165.04046	8.40	8.80	5
+Unk#352	H-	-	"Formula: C5H10O6"	165.04046	9.10	9.50	5
+Unk#353	H+	+	"By mass: Enol-phenylpyruvate|2-Hydroxycinnamic acid|cis-p-Coumaric acid|Phenylpyruvic acid|m-Coumaric acid|Methyl Phenylglyoxalate|4-Hydroxycinnamic acid|Coumaric acid Formula: C9H8O3"	165.05462	8.40	8.70	9
+Unk#354	H-	-	"Formula: C7H10N4O"	165.07818	2.40	2.60	7
+Unk#355	H-	-	"By mass: Homocysteinesulfinic acid Formula: C4H9NO4S"	166.01795	2.70	3.50	4
+Unk#356	H+	+	"Formula: C4H8NO4P"	166.02637	11.60	11.90	4
+Unk#357	H+	+	"By mass: Ethiin|Methionine sulfoxide Formula: C5H11NO3S"	166.05324	6.90	8.00	5
+Unk#358	H+	+	"By mass: Ethiin|Methionine sulfoxide Formula: C5H11NO3S"	166.05324	9.00	9.30	5
+Unk#359	H+	+	"By mass: N2-Methylguanine|1-Methylguanine|7-Methylguanine|3-Methylguanine Formula: C6H7N5O"	166.07233	4.80	5.30	6
+Unk#360	H+	+	"By mass: Benzocaine|Benzyl glycinate|Gentiatibetine|4-Hydroxy-1-(3-pyridinyl)-1-butanone|Ethyl 2-aminobenzoate|L-Phenylalanine|5-(3-Pyridyl)-2-hydroxytetrahydrofuran|3-Pyridinebutanoic acid|Norsalsolinol|Methyl N-methylanthranilate Formula: C9H11NO2"	166.08625	8.20	10.00	9
+Unk#361	H+	+	"Formula: C6H15NO4"	166.10738	6.30	7.00	6
+Unk#362	H+	+	"Formula: C6H15NO4"	166.10738	7.20	7.50	6
+Unk#363	H-	-	"Formula: C4H8O5S"	167.00197	2.20	2.30	4
+Unk#364	H+	+	"By mass: Terephthalic acid|3,4-Methylenedioxybenzoic acid|Benzoquinoneacetic acid|Phthalic acid Formula: C8H6O4"	167.03388	0.90	1.10	8
+Unk#365	H-	-	"By mass: p-Hydroxymandelic acid|5-Methoxysalicylic acid|3-Hydroxymandelic acid|Vanillic acid|3-Acetyl-4-hydroxy-6-methyl-2H-pyran-2-one|3,4-Dihydroxybenzeneacetic acid|3,4-Dihydroxymandelaldehyde|3-Methoxysalicylic acid|Isovanillic acid|2,6-Dimethoxy-1,4-benzoquinone|Thermophillin|Homogentisic acid|2',4',6'-Trihydroxyacetophenone Formula: C8H8O4"	167.03498	11.60	11.90	8
+Unk#366	H+	+	"Formula: C4H10N2O3S"	167.04849	9.10	9.50	4
+Unk#367	H+	+	"Formula: C6H15O3P"	167.08315	6.10	8.10	6
+Unk#368	H-	-	"By mass: (+/-)-2-(5-Methyl-5-vinyltetrahydrofuran-2-yl)propionaldehyde|(-)-(Z)-Tetrahydro-6-(2-pentenyl)-2H-pyran-2-one|Geranic acid|(xi)-(Z)-5-(3-Hexenyl)dihydro-2(3H)-furanone|Methyl octynecarboxylate|2,4-Hexadienyl isobutyrate|Dihydronepetalactone|Ethyl (4Z)-4,7-octadienoate|6-Hydroxy-2,6-dimethyl-2,7-octadien-4-one|Epoxycampholenic aldehyde|trans-4,5-epoxy-2(E)-decenal|xi-1,8,8-Trimethyl-2-oxabicyclo[3.2.1]octan-3-one|Epoxyartemisia ketone|cis-3-Hexenyl crotonate|4-Isopropyl-3-cyclohexene-1-carboxylic acid|gamma-Diosphenol|(+/-)-Dihydromintlactone|Ascaridole|2,4-Hexadienyl butyrate|5,6-Dihydro-6-pentyl-2H-pyran-2-one Formula: C10H16O2"	167.10775	1.10	1.30	10
+Unk#369	H-	-	"By mass: Cysteic acid Formula: C3H7NO5S"	167.99722	11.20	11.50	3
+Unk#370	H-	-	"By mass: Phosphodimethylethanolamine Formula: C4H12NO4P"	168.04312	11.50	12.10	4
+Unk#371	H-	-	"By mass: Phosphodimethylethanolamine Formula: C4H12NO4P"	168.04312	10.80	11.00	4
+Unk#372	H-	-	"Formula: C9H13OS"	168.06143	6.50	7.10	9
+Unk#373	H+	+	"By mass: 3alpha,4,7,7alpha-Tetrahydro-4-hydroxy-1H-isoindole-1,3(2H)-dione|Pyridoxal|3alpha,4,5,7alpha-Tetrahydro-5-hydroxy-1H-isoindole-1,3(2H)-dione|Isopyridoxal|3-Methoxyanthranilate Formula: C8H9NO3"	168.06552	11.90	12.30	8
+Unk#374	H+	+	"By mass: 3alpha,4,7,7alpha-Tetrahydro-4-hydroxy-1H-isoindole-1,3(2H)-dione|Pyridoxal|3alpha,4,5,7alpha-Tetrahydro-5-hydroxy-1H-isoindole-1,3(2H)-dione|Isopyridoxal|3-Methoxyanthranilate Formula: C8H9NO3"	168.06552	1.80	3.20	8
+Unk#375	H-	-	"By mass: xi-Norepinephrine|Norepinephrine|6-Acetyl-2,3-dihydro-2-(hydroxymethyl)-4(1H)-pyridinone|Pyridoxine|5-Hydroxydopamine|6-Hydroxydopamine Formula: C8H11NO3"	168.06661	2.30	3.00	8
+Unk#376	H+	+	"By mass: 2,4-Diamino-6-nitrotoluene|(S)-Spinacine Formula: C7H9N3O2"	168.07675	8.90	9.80	5
+Unk#377	H+	+	"By mass: 2,4-Diamino-6-nitrotoluene|(S)-Spinacine Formula: C7H9N3O2"	168.07675	7.30	7.80	7
+Unk#378	H-	-	"By mass: (S)-3-Sulfonatolactate Formula: C3H6O6S"	168.98123	12.40	12.70	3
+Unk#379	H+	+	"By mass: 2,3-Diaminosalicylic acid|2-Pyrroloylglycine Formula: C7H8N2O3"	169.06077	6.90	8.10	7
+Unk#380	H+	+	"Formula: C8H12N2O2"	169.09715	2.60	3.20	8
+Unk#381	H-	-	"Formula: C4H11O7"	170.04320	9.60	10.00	4
+Unk#382	H+	+	"By mass: Phosphodimethylethanolamine Formula: C4H12NO4P"	170.05767	10.70	11.10	4
+Unk#383	H-	-	"Formula: C8H11O4"	170.05845	6.00	6.60	8
+Unk#384	H+	+	"By mass: xi-Norepinephrine|Norepinephrine|6-Acetyl-2,3-dihydro-2-(hydroxymethyl)-4(1H)-pyridinone|Pyridoxine|5-Hydroxydopamine|6-Hydroxydopamine Formula: C8H11NO3"	170.08117	1.20	7.20	8
+Unk#385	H+	+	"By mass: 3-Methylhistidine|1-Methylhistidine Formula: C7H11N3O2"	170.09240	8.30	8.60	7
+Unk#386	H+	+	"Formula: C7H11N3O2"	170.09240	8.60	9.00	7
+Unk#387	H+	+	"By mass: Homoarecoline Formula: C9H15NO2"	170.11755	1.00	2.60	9
+Unk#388	H+	+	"By mass: Homoarecoline Formula: C9H15NO2"	170.11755	2.60	2.90	9
+Unk#389	H-	-	"By mass: Gabapentin Formula: C9H17NO2"	170.11865	1.10	1.30	9
+Unk#390	H-	-	"Formula: C5H5N2O3P"	170.99650	12.20	12.50	5
+Unk#391	H+	+	"Formula: C3H7O6P"	171.00530	12.40	12.80	3
+Unk#392	H-	-	"By mass: Beta-Glycerophosphoric acid|Glycerol 3-phosphate Formula: C3H9O6P"	171.00640	10.10	10.60	3
+Unk#393	H-	-	"By mass: L-alpha-Amino-5-oxo-2(5H)-isoxazolepropanoic acid|Hydantoin-5-propionic acid Formula: C6H8N2O4"	171.04113	7.90	8.30	6
+Unk#394	H+	+	"Formula: C7H10N2O3"	171.07642	10.20	10.70	7
+Unk#395	H+	+	"Formula: C7H10N2O3"	171.07642	10.80	11.40	7
+Unk#396	H-	-	"By mass: L-prolyl-L-glycine|Glycylproline Formula: C7H12N2O3"	171.07751	6.90	9.30	7
+Unk#397	H+	+	"Formula: C6H10N4O2"	171.08765	15.50	16.10	6
+Unk#398	H-	-	"Formula: C6H7NO5"	172.02514	10.60	11.10	6
+Unk#399	H-	-	"Formula: C6H11N3OS"	172.05500	6.00	6.60	6
+Unk#400	H+	+	"By mass: Tetrahydrodipicolinate Formula: C7H9NO4"	172.06043	10.80	11.20	7
+Unk#401	H+	+	"Formula: C8H15N2O2"	172.12062	9.60	9.80	8
+Unk#402	H-	-	"By mass: Phenol sulphate Formula: C6H6O4S"	172.99140	1.00	1.30	6
+Unk#403	H-	-	"By mass: cis-Aconitic acid|Dehydroascorbic acid|trans-Aconitic acid Formula: C6H6O6"	173.00916	10.90	11.10	6
+Unk#404	H-	-	"By mass: cis-Aconitic acid|Dehydroascorbic acid|trans-Aconitic acid Formula: C6H6O6"	173.00916	11.20	11.50	6
+Unk#405	H-	-	"By mass: cis-Aconitic acid|Dehydroascorbic acid|trans-Aconitic acid Formula: C6H6O6"	173.00916	14.00	14.40	6
+Unk#406	H+	+	"By mass: Beta-Glycerophosphoric acid|Glycerol 3-phosphate Formula: C3H9O6P"	173.02095	8.90	9.20	3
+Unk#407	H-	-	"By mass: 1-Oxo-1H-2-benzopyran-3-carboxaldehyde|Juglone Formula: C10H6O3"	173.02442	1.10	1.20	10
+Unk#408	H-	-	"By mass: 3-Methylpimelic acid|Diethyl succinate|Ethyladipic acid|2,4-Dimethyladipic acid|Dimethyl adipate|2-Propylglutaric acid|Suberic acid Formula: C8H14O4"	173.08193	6.00	9.50	8
+Unk#409	H+	+	"Formula: C8H16N2O2"	173.12845	5.90	8.00	8
+Unk#410	H-	-	"Formula: C6H9NO3S"	174.02304	2.30	3.00	6
+Unk#411	H+	+	"Formula: C5H7N3O2S"	174.03317	8.10	8.70	5
+Unk#412	H-	-	"By mass: N-Acetyl-L-aspartic acid|2-Amino-3-oxoadipate|D-N-(Carboxyacetyl)alanine|N-Formyl-L-glutamic acid Formula: C6H9NO5"	174.04079	10.90	11.60	6
+Unk#413	H+	+	"By mass: N-Acetyl-L-glutamate 5-semialdehyde Formula: C7H11NO4"	174.07608	1.20	1.80	7
+Unk#414	H+	+	"Formula: C7H11NO4"	174.07608	2.30	6.20	7
+Unk#415	H+	+	"By mass: 2-Oxoarginine Formula: C6H11N3O3"	174.08731	15.50	16.10	6
+Unk#416	H+	+	"By mass: 2-Oxoarginine Formula: C6H11N3O3"	174.08731	9.10	9.70	6
+Unk#417	H-	-	"Formula: C7H15N2O3"	174.10099	15.50	16.00	7
+Unk#418	H-	-	"By mass: 1,2,3-Propanetricarboxylic acid|Ascorbic acid|D-Glucurono-6,3-lactone Formula: C6H8O6"	175.02481	13.90	14.10	6
+Unk#419	H+	+	"Formula: C6H10N2O2S"	175.05357	2.40	3.90	6
+Unk#420	H+	+	"Formula: C6H10N2O2S"	175.05357	8.70	9.10	6
+Unk#421	H+	+	"By mass: Demethylated antipyrine|1H-Indole-3-acetamide Formula: C10H10N2O"	175.08659	7.40	7.80	10
+Unk#422	H+	+	"Formula: C7H14N2O3"	175.10771	3.50	4.10	7
+Unk#423	H+	+	"By mass: Ne,Ne dimethyllysine Formula: C8H18N2O2"	175.14410	12.90	13.30	8
+Unk#424	H+	+	"By mass: Ne,Ne dimethyllysine Formula: C8H18N2O2"	175.14410	8.30	9.20	8
+Unk#425	H+	+	"Formula: C4H5N3O5"	176.03020	9.60	10.00	4
+Unk#426	H+	+	"Formula: C6H9NO3S"	176.03759	2.30	6.80	6
+Unk#427	H+	+	"Formula: C6H9NO3S"	176.03759	1.20	2.30	6
+Unk#428	H+	+	"Formula: C6H9NO3S"	176.03759	7.50	7.90	6
+Unk#429	H-	-	"Formula: C6H13N2S2"	176.04474	11.00	11.50	6
+Unk#430	H-	-	"Formula: C6H11NO5"	176.05644	7.20	7.60	6
+Unk#431	H+	+	"Formula: C11H11S"	176.06542	7.00	7.40	11
+Unk#432	H+	+	"By mass: 5-Hydroxyindoleacetaldehyde|1-Methoxy-1H-indole-3-carboxaldehyde|Hydroxymethyl indol-3-yl ketone|Indoleacetic acid Formula: C10H9NO2"	176.07060	1.80	2.40	10
+Unk#433	H+	+	"By mass: Citrulline|Argininic acid Formula: C6H13N3O3"	176.10296	10.50	10.80	6
+Unk#434	H+	+	"Formula: C7H15N2O3"	176.11554	15.40	16.10	7
+Unk#435	H+	+	"Formula: C8H17NO3"	176.12811	2.70	3.00	8
+Unk#436	H-	-	"By mass: Glycyl-Cysteine|Cysteinyl-Glycine|Cysteinylglycine Formula: C5H10N2O3S"	177.03393	11.10	11.30	5
+Unk#437	H+	+	"Formula: C5H9N2O3P"	177.04235	6.90	8.20	5
+Unk#438	H+	+	"By mass: L-2-Amino-3-(oxalylamino)propanoic acid|Ureidosuccinic acid|L-3-Amino-2-(oxalylamino)propanoic acid Formula: C5H8N2O5"	177.05060	12.60	12.80	5
+Unk#439	H+	+	"Formula: C6H12N2O2S"	177.06922	9.50	9.80	6
+Unk#440	H+	+	"Formula: C7H16N2O3"	177.12336	15.40	16.00	7
+Unk#441	H-	-	"Formula: C5H10NO4P"	178.02747	5.70	6.10	5
+Unk#442	H-	-	"By mass: Adrenochrome|1-(4-Methoxyphenyl)-2-nitroethylene|Hippuric acid|Methyl n-formylanthranilate|3-Succinoylpyridine Formula: C9H9NO3"	178.05096	2.30	2.50	9
+Unk#443	H-	-	"By mass: Adrenochrome|1-(4-Methoxyphenyl)-2-nitroethylene|Hippuric acid|Methyl n-formylanthranilate|3-Succinoylpyridine Formula: C9H9NO3"	178.05096	2.80	4.40	9
+Unk#444	H-	-	"By mass: Adrenochrome|1-(4-Methoxyphenyl)-2-nitroethylene|Hippuric acid|Methyl n-formylanthranilate|3-Succinoylpyridine Formula: C9H9NO3"	178.05096	1.20	1.50	9
+Unk#445	H+	+	"By mass: N-Formyl-L-methionine|(R)C(S)S-Alliin|Isoalliin|Cycloalliin Formula: C6H11NO3S"	178.05324	2.40	5.60	6
+Unk#446	H+	+	"By mass: 5-Hydroxytryptophol|1,2-Dehydrosalsolinol|N,N-dimethylindoliumolate|5-[2H-Pyrrol-4-(3H)-ylidenemethyl]-2-furanmethanol|Plantagonine|2-Propenyl 2-aminobenzoate Formula: C10H11NO2"	178.08625	7.50	8.00	10
+Unk#447	H+	+	"By mass: 5-Hydroxytryptophol|1,2-Dehydrosalsolinol|N,N-dimethylindoliumolate|5-[2H-Pyrrol-4-(3H)-ylidenemethyl]-2-furanmethanol|Plantagonine|2-Propenyl 2-aminobenzoate Formula: C10H11NO2"	178.08625	4.60	6.70	10
+Unk#448	H+	+	"By mass: N-Methyl-1-deoxynojirimycin Formula: C7H15NO4"	178.10738	6.60	7.10	7
+Unk#449	H+	+	"By mass: Bethanidine Formula: C10H15N3"	178.13387	8.60	9.50	10
+Unk#450	H-	-	"By mass: 2,5-Dimethyl-1,4-dithiane-2,5-diol|Ethyl 2-(methyldithio)propionate Formula: C6H12O2S2"	179.02059	12.40	12.70	6
+Unk#451	H-	-	"By mass: 5-Methylthioribose Formula: C6H12O4S"	179.03835	0.90	1.10	6
+Unk#452	H+	+	"By mass: Glycyl-Cysteine|Cysteinyl-Glycine|Cysteinylglycine Formula: C5H10N2O3S"	179.04849	11.00	11.40	5
+Unk#453	H-	-	"By mass: 3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA|Alpha-D-Glucose|Scyllitol|D-Galactose|L-Gulose|Levoinositol|Dihydroxyacetone (dimer)|Fructose-1P|Glycoprotein-phospho-D-mannose|Myoinositol|Alpha-D-Glucopyranoside|Beta-D-Galactose|D-Tagatose|D-Glucopyranoside|L-Galactose|Allose|D-Fructose|Beta-D-Glucose|D-Glucose|D-Mannose|L-Sorbose|3-Deoxyarabinohexonic acid Formula: C6H12O6"	179.05611	11.30	11.90	7
+Unk#454	H+	+	"Formula: C5H12N3O4"	179.09005	15.50	16.00	6
+Unk#455	H+	+	"By mass: Fructosamine|Glucosamine|beta-D-Glucosamine Formula: C6H13NO5"	180.08665	8.80	9.30	7
+Unk#456	H+	+	"Formula: C4H7NO5P"	181.01346	12.00	12.60	4
+Unk#457	H+	+	"Formula: C4H9N2O4P"	181.03727	7.20	8.10	4
+Unk#458	H-	-	"By mass: Hydroxyphenyllactic acid|3-Hydroxyphenyllactate|(�\[PlusMinus])-2-Hydroxy-3-(2-hydroxyphenyl)propanoic acid|2',4'-Dihydroxy-6'-methoxyacetophenone|3-Methoxy-4-hydroxyphenylglycolaldehyde|Homovanillic acid|Maltol propionate|Meta-hydroxyphenylhydracrylic Acid|2',6'-Dihydroxy-4'-methoxyacetophenone|2,6-Dimethoxybenzoic acid|Isohomovanillic acid|3,4-Dihydroxyhydrocinnamic acid|3,4-Dimethoxybenzoic acid|3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid Formula: C9H10O4"	181.05063	3.10	5.00	9
+Unk#459	H-	-	"By mass: (�\[PlusMinus])-threo-Anethole glycol|4-Ethyl-2,6-dimethoxyphenol|Amyl 2-furoate|Verimol J|2-Ethoxy-4-(methoxymethyl)phenol|Furfuryl isovalerate|Peperinic acid|4-(Ethoxymethyl)-2-methoxyphenol|Isoamyl 2-furoate|Furfuryl pentanoate Formula: C10H14O3"	181.08701	1.00	1.30	10
+Unk#460	H+	+	"Formula: C8H12N4O"	181.10838	2.30	2.50	8
+Unk#461	H-	-	"By mass: Saccharin Formula: C7H5NO3S"	181.99174	1.50	1.90	7
+Unk#462	H+	+	"Formula: C7H7N3O3"	182.05602	3.60	4.80	7
+Unk#463	H-	-	"By mass: (4S,8R)-8,9-Dihydroxy-p-menth-1(6)-en-2-one|(1'R)-Nepetalic acid|(E)-10-Oxo-8-decenoic acid|(S)-Oleuropeic acid|1-Acetylcyclohexyl acetate Formula: C10H16O3"	183.10266	2.20	2.40	10
+Unk#464	H-	-	"Formula: C4H9O4S2"	183.98695	10.30	10.60	4
+Unk#465	H-	-	"Formula: C7H7NO3S"	184.00739	6.50	8.90	7
+Unk#466	H-	-	"Formula: C7H7NO3S"	184.00739	4.00	4.90	7
+Unk#467	H-	-	"Formula: C7H7NO3S"	184.00739	3.50	3.90	7
+Unk#468	H+	+	"By mass: L-Homocysteic acid Formula: C4H9NO5S"	184.02742	2.40	2.80	4
+Unk#469	H+	+	"Formula: C5H14NO4P"	184.07332	1.10	1.40	5
+Unk#470	H+	+	"By mass: Methyprylon Formula: C10H17NO2"	184.13320	2.20	3.00	10
+Unk#471	H-	-	"Formula: C8H10O3S"	185.02779	1.00	1.20	8
+Unk#472	H+	+	"Formula: C7H8N2O4"	185.05568	9.20	9.50	7
+Unk#473	H-	-	"By mass: Pyroglutamylglycine Formula: C7H10N2O4"	185.05678	2.40	2.50	7
+Unk#474	H-	-	"By mass: Pyroglutamylglycine Formula: C7H10N2O4"	185.05678	7.40	8.00	7
+Unk#475	H-	-	"By mass: Alanyl-Proline|Prolyl-Alanine Formula: C8H14N2O3"	185.09316	6.50	7.40	8
+Unk#476	H+	+	"Formula: C8H14N3O2"	185.11587	16.20	17.10	8
+Unk#477	H-	-	"By mass: 3-Hydroxy-5Z-octenyl acetate|(1beta,2beta,5beta)-p-Menth-3-ene-1,2,5-triol|5-Hexyl-1,4-dioxan-2-one|(E)-10-Hydroxy-8-decenoic acid|6-Methyl-2-methylene-6-octene-1,3,8-triol|exo,exo-1,8-Epoxy-p-menthane-2,6-diol|3-Methylbutyl 3-hydroxy-2-methylidenebutanoate|3-Oxodecanoic acid|2-Methylbutyl 3-hydroxy-2-methylidenebutanoate|(1R,2R,4R)-1,8-Epoxy-p-menthane-2,4-diol|6-Hexyl-1,4-dioxan-2-one|(1S,2S,4S,5R)-1,8-Epoxy-p-menthane-2,5-diol|Ethyl (3R,5Z)-3-hydroxy-5-octenoate Formula: C10H18O3"	185.11831	2.30	2.40	10
+Unk#478	H+	+	"Formula: C9H16N2O2"	185.12845	14.00	14.90	9
+Unk#479	H+	+	"Formula: C10H20N2O"	185.16483	6.10	7.00	10
+Unk#480	H-	-	"Formula: C6H7N2OS2"	185.99270	5.10	5.80	6
+Unk#481	H-	-	"Formula: C8H12O3P"	186.04513	2.40	4.40	8
+Unk#482	H+	+	"Formula: C8H11NO4"	186.07608	1.20	1.50	8
+Unk#483	H+	+	"Formula: C8H11NO4"	186.07608	6.70	7.70	8
+Unk#484	H-	-	"By mass: Polyethylene glycol|N-Heptanoylglycine Formula: C9H17NO3"	186.11356	1.10	1.30	9
+Unk#485	H-	-	"By mass: Polyethylene glycol|N-Heptanoylglycine Formula: C9H17NO3"	186.11356	2.60	3.00	9
+Unk#486	H+	+	"Formula: C7H8NO3S"	187.02976	10.50	10.70	7
+Unk#487	H+	+	"Formula: C7H8NO3S"	187.02976	10.30	10.50	7
+Unk#488	H-	-	"Formula: C6H10N3O2S"	187.04209	2.40	4.50	8
+Unk#489	H-	-	"By mass: Tetrahydro-2,5-furan-diacetic acid Formula: C8H12O5"	187.06119	5.50	7.80	8
+Unk#490	H-	-	"By mass: Tetrahydro-2,5-furan-diacetic acid Formula: C8H12O5"	187.06119	7.90	8.30	8
+Unk#491	H-	-	"By mass: Tetrahydro-2,5-furan-diacetic acid Formula: C8H12O5"	187.06119	8.40	8.80	8
+Unk#492	H-	-	"By mass: Tetrahydro-2,5-furan-diacetic acid Formula: C8H12O5"	187.06119	8.70	9.00	8
+Unk#493	H-	-	"By mass: Tetrahydro-2,5-furan-diacetic acid Formula: C8H12O5"	187.06119	10.10	10.40	8
+Unk#494	H-	-	"By mass: Glycyl-Hydroxyproline|L-glycyl-L-hydroxyproline|N-Acetylglutamine Formula: C7H12N2O4"	187.07243	7.50	8.00	7
+Unk#495	H-	-	"By mass: 2,4-Dimethylpimelic acid|Nonate|(+/-)-Ethyl 3-acetoxy-2-methylbutyrate|Azelaic acid|(+/-)-Methyl 5-acetoxyhexanoate|Diethyl methylsuccinate|Butyl ethyl malonate|Diethyl glutarate|cis- and trans-Ethyl 2,4-dimethyl-1,3-dioxolane-2-acetate|3-Methylsuberic acid Formula: C9H16O4"	187.09758	8.10	8.60	9
+Unk#496	H+	+	"By mass: 3-[(3-Methylbutyl)nitrosoamino]-2-butanone Formula: C9H18N2O2"	187.14410	2.20	2.40	9
+Unk#497	H+	+	"By mass: 3-[(3-Methylbutyl)nitrosoamino]-2-butanone Formula: C9H18N2O2"	187.14410	1.20	2.30	9
+Unk#498	H-	-	"Formula: C8H14O3P"	188.06078	3.80	4.20	8
+Unk#499	H-	-	"Formula: C6H10N2O3S"	189.03393	7.40	7.80	6
+Unk#500	H-	-	"Formula: C6H10N2O3S"	189.03393	2.70	4.60	6
+Unk#501	H-	-	"Formula: C6H12N3O2S"	189.05774	3.70	4.30	6
+Unk#502	H+	+	"By mass: Glycyl-Hydroxyproline|L-glycyl-L-hydroxyproline|N-Acetylglutamine Formula: C7H12N2O4"	189.08698	2.30	8.10	7
+Unk#503	H+	+	"By mass: Glycyl-Hydroxyproline|L-glycyl-L-hydroxyproline|N-Acetylglutamine Formula: C7H12N2O4"	189.08698	8.60	9.80	7
+Unk#504	H+	+	"By mass: Homo-L-arginine|L-Targinine Formula: C7H16N4O2"	189.13460	10.80	11.60	7
+Unk#505	H+	+	"By mass: Kynurenic acid|1-Nitronaphthalene-5,6-oxide|1-Nitronaphthalene-7,8-oxide Formula: C10H7NO3"	190.04987	0.90	1.10	10
+Unk#506	H+	+	"Formula: C7H11NO3S"	190.05324	1.20	1.70	7
+Unk#507	H+	+	"By mass: 3-Indolepropionic acid|Indole-3-methyl acetate|Phensuximide Formula: C11H11NO2"	190.08625	5.80	6.50	11
+Unk#508	H+	+	"By mass: S-Prenyl-L-cysteine Formula: C8H15NO2S"	190.08962	2.10	2.40	8
+Unk#509	H-	-	"By mass: D-threo-Isocitric acid|Citric acid|Diketogulonic acid|D-Glucaro-1,4-lactone|Isocitric acid|2,3-Diketo-L-gulonate|(1R,2R)-Isocitric acid Formula: C6H8O7"	191.01973	8.40	8.80	6
+Unk#510	H-	-	"By mass: D-threo-Isocitric acid|Citric acid|Diketogulonic acid|D-Glucaro-1,4-lactone|Isocitric acid|2,3-Diketo-L-gulonate|(1R,2R)-Isocitric acid Formula: C6H8O7"	191.01973	7.90	8.30	6
+Unk#511	H-	-	"By mass: D-threo-Isocitric acid|Citric acid|Diketogulonic acid|D-Glucaro-1,4-lactone|Isocitric acid|2,3-Diketo-L-gulonate|(1R,2R)-Isocitric acid Formula: C6H8O7"	191.01973	9.00	10.20	6
+Unk#512	H+	+	"Formula: C6H10N2O3S"	191.04849	1.20	1.60	6
+Unk#513	H+	+	"Formula: C6H10N2O3S"	191.04849	2.50	4.80	6
+Unk#514	H-	-	"By mass: Quinic acid Formula: C7H12O6"	191.05611	8.40	8.60	7
+Unk#515	H+	+	"Formula: C11H12NS"	191.07632	15.20	15.70	11
+Unk#516	H-	-	"By mass: 2-Benzyl-4,5-dimethyl-1,3-dioxolane|4-Methylphenyl 3-methylbutanoate|2-Methylpropyl phenylacetate|2-Ethoxy-1-methoxy-4-(1-propenyl)benzene|1-Ethoxy-2-methoxy-4-(1-propenyl)benzene|11,12,13-Trinor-1,3,5-bisabolatrien-10-oic acid|3-Methylbutyl benzoate|Butyl phenylacetate|1-Phenylethyl butyrate|4-Methyl-2-(1-phenylethyl)-1,3-dioxolane, 9CI|4-Phenyl-2-butyl acetate|5-Isopropyl-2-methylphenol acetate|2-Phenylethyl 2-methylpropanoate|2-Phenylethyl butanoate|2-Methyl-1-phenyl-2-propanyl acetate|1-Phenylethyl isobutyrate|2-(2-Hydroxy-4-methylphenyl)-3-pentanone|3-Phenylpropyl propanoate|Benzyl 3-methylbutanoate|11,12,13-Trinor-1(10)-spirovetivene-2,7-dione|Ethyl 4-phenylbutanoate Formula: C12H16O2"	191.10775	1.00	1.20	12
+Unk#517	H-	-	"By mass: Phosphocreatinine Formula: C4H8N3O4P"	192.01797	11.90	12.20	4
+Unk#518	H+	+	"Formula: C4H5N3O6"	192.02511	10.60	11.20	5
+Unk#519	H+	+	"Formula: C6H9NO4S"	192.03250	10.80	11.40	6
+Unk#520	H-	-	"Formula: C6H11NO4S"	192.03360	5.40	8.20	6
+Unk#521	H-	-	"Formula: C6H11NO4S"	192.03360	2.40	3.20	6
+Unk#522	H-	-	"Formula: C9H9N2OS"	192.03628	9.90	10.10	9
+Unk#523	H+	+	"By mass: 5-Hydroxyindoleacetic acid|xi-2,3-Dihydro-2-oxo-1H-indole-3-acetic acid|5-Phenyl-1,3-oxazinane-2,4-dione Formula: C10H9NO3"	192.06552	6.80	7.10	10
+Unk#524	H-	-	"By mass: 2-Methylhippuric acid|m-Methylhippuric acid|p-Methylhippuric acid|Betamipron|Phenylacetylglycine|4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one|4-Anilino-4-oxobutanoic acid|3-Carbamoyl-2-phenylpropionaldehyde|Methyl hippurate|Methyl n-acetylanthranilate Formula: C10H11NO3"	192.06661	1.20	1.30	10
+Unk#525	H+	+	"By mass: (E)-5-(3,4,5,6-Tetrahydro-3-pyridylidenemethyl)-2-furanmethanol|5-Methoxytryptophol Formula: C11H13NO2"	192.10190	4.70	5.60	11
+Unk#526	H-	-	"Formula: C6H12NO2S2"	193.02367	13.70	14.10	6
+Unk#527	H-	-	"By mass: D-Glucuronic acid|3-Dehydro-L-gulonate|L-Altruronic acid|Pectic acid|2-Keto-L-gluconate|Galacturonic acid|5-Keto-D-gluconate|Pectin|Iduronic acid Formula: C6H10O7"	193.03537	9.40	10.00	6
+Unk#528	H-	-	"By mass: D-Glucuronic acid|3-Dehydro-L-gulonate|L-Altruronic acid|Pectic acid|2-Keto-L-gluconate|Galacturonic acid|5-Keto-D-gluconate|Pectin|Iduronic acid Formula: C6H10O7"	193.03537	11.10	12.30	6
+Unk#529	H-	-	"By mass: Mytilitol|L-Pinitol|Methyl beta-D-glucopyranoside|Sequoyitol|L-Quebrachitol|1D-5-O-methyl-chiro-inositol|4-O-Methyl-myo-inositol|D-4-O-Methyl-myo-inositol|D-Pinitol|(-)-Bornesitol Formula: C7H14O6"	193.07176	5.20	5.60	7
+Unk#530	H-	-	"By mass: 2-(3-Methylphenyl)-1,3-dioxan-5-ol|Ethyl 4-ethoxybenzoate|5-Hydroxy-2-benzyl-1,3-dioxane|2-Benzyl-5-hydroxymethyl-1,3-dioxolane|4-Methoxybenzyl propanoate|[2-(3-Methylphenyl)-1,3-dioxolan-4-yl]methanol|Ethyl 4-methylphenoxyacetate|Zingerone|(R)-3-Hydroxy-5-phenylpentanoic acid|2,5-Dimethoxy-4-(2-propenyl)phenol|[2-(2-Methylphenyl)-1,3-dioxolan-4-yl]methanol|Butyl salicylate|2-(2-Methylphenyl)-1,3-dioxan-5-ol|3-Hydroxyphenyl-valeric acid|2,6-Dimethoxy-4-(1-propenyl)phenol|2-(4-Methylphenyl)-1,3-dioxan-5-ol|Butylparaben|Methoxyeugenol|[2-(4-Methylphenyl)-1,3-dioxolan-4-yl]methanol|Isobutyl salicylate Formula: C11H14O3"	193.08701	1.00	1.20	11
+Unk#531	H+	+	"Formula: C7H16N2O2S"	193.10052	1.00	1.20	7
+Unk#532	H+	+	"Formula: C9H20O4"	193.14343	1.10	1.40	9
+Unk#533	H+	+	"By mass: Phosphocreatinine Formula: C4H8N3O4P"	194.03252	9.80	10.00	6
+Unk#534	H+	+	"By mass: Phosphocreatinine Formula: C4H8N3O4P"	194.03252	12.00	12.30	4
+Unk#535	H-	-	"By mass: N-acetyl-5-aminosalicylic acid|Leucodopachrome|3-Hydroxyhippuric acid|Alpha-Hydroxyhippuric acid|4-Hydroxyhippuric acid|L-Dopaquinone|2-Hydroxy-6,7-dimethoxybenzoxazole|Dopaquinone|4-Carboxyphenylglycine|2-Hydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one|Salicyluric acid Formula: C9H9NO4"	194.04588	9.20	9.40	9
+Unk#536	H+	+	"Formula: C4H7N2O5P"	195.01653	12.00	12.20	4
+Unk#537	H-	-	"By mass: Gulonic acid|Gluconic acid|Galactonic acid Formula: C6H12O7"	195.05102	9.50	10.50	6
+Unk#538	H-	-	"By mass: Gulonic acid|Gluconic acid|Galactonic acid Formula: C6H12O7"	195.05102	9.50	10.00	6
+Unk#539	H-	-	"Formula: C8H11N3OS"	196.05500	9.60	9.90	8
+Unk#540	H-	-	"Formula: C6H15NO4S"	196.06490	5.10	8.20	6
+Unk#541	H+	+	"By mass: 2-Phenyl-1,3-propanediol monocarbamate|N-methyl-4,6,7-trihydroxy-1,2,3,4-tetrahydroisoquinoline|N-Acetyldopamine|Metyrosine|Tyrosine methylester Formula: C10H13NO3"	196.09682	1.20	2.60	10
+Unk#542	H-	-	"Formula: C4H7O3PS2"	196.95015	12.10	12.30	4
+Unk#543	H-	-	"Formula: C6H14O5S"	197.04891	1.00	1.20	6
+Unk#544	H-	-	"Formula: C4H8O3PS2"	197.95797	5.60	7.80	4
+Unk#545	H+	+	"By mass: N-Acetylhistidine Formula: C8H11N3O3"	198.08731	7.30	7.80	8
+Unk#546	H+	+	"By mass: N-Acetylhistidine Formula: C8H11N3O3"	198.08731	5.80	6.70	8
+Unk#547	H+	+	"Formula: C4H8NO6S"	199.01451	10.00	10.40	4
+Unk#548	H+	+	"Formula: C5H12NO3S2"	199.03313	12.60	12.80	5
+Unk#549	H-	-	"By mass: Potassium 2-(1'-ethoxy) ethoxypropanoate Formula: C7H13KO4"	199.03781	5.90	7.00	7
+Unk#550	H-	-	"Formula: C9H12O3S"	199.04344	0.90	1.10	9
+Unk#551	H+	+	"By mass: Mimosine Formula: C8H10N2O4"	199.07133	8.50	8.80	8
+Unk#552	H-	-	"By mass: (S)-9-Hydroxy-10-undecenoic acid|Clarycet|3-Nonanon-1-yl acetate Formula: C11H20O3"	199.13396	0.90	1.00	11
+Unk#553	H-	-	"By mass: (S)-9-Hydroxy-10-undecenoic acid|Clarycet|3-Nonanon-1-yl acetate Formula: C11H20O3"	199.13396	1.00	1.20	11
+Unk#554	H+	+	"Formula: C5H13NO3S2"	200.04096	9.90	10.20	6
+Unk#555	H-	-	"Formula: C8H12NO3P"	200.04820	5.70	6.60	8
+Unk#556	H-	-	"Formula: C6H9N4O4"	200.05510	10.90	11.10	6
+Unk#557	H-	-	"Formula: C10H17S2"	200.06989	6.10	6.80	10
+Unk#558	H-	-	"By mass: N-(5-Methyl-3-oxohexyl)alanine|N-Acetylaminooctanoic acid|Valproylglycine|Capryloylglycine Formula: C10H19NO3"	200.12921	2.40	2.50	10
+Unk#559	H-	-	"Formula: C6H6N2O4S"	200.99755	10.20	10.70	6
+Unk#560	H-	-	"Formula: C6H8N3O5"	201.03912	11.50	11.70	6
+Unk#561	H-	-	"By mass: Ethyl aconitate Formula: C8H10O6"	201.04046	2.30	2.40	8
+Unk#562	H+	+	"Formula: C8H12N2O4"	201.08698	7.40	7.70	8
+Unk#563	H+	+	"Formula: C8H12N2O4"	201.08698	1.20	1.60	8
+Unk#564	H-	-	"By mass: Hydroxyprolyl-Alanine|Prolyl-Serine|Serinyl-Proline|L-Coprine|Alanyl-Hydroxyproline Formula: C8H14N2O4"	201.08808	7.30	8.20	8
+Unk#565	H-	-	"By mass: 3-Methylazelaic acid|2-Ethylsuberic acid|Oxalic acid dibutyl ester|Sebacic acid|R-2-Hydroxy-3-methylbutanoic acid 3-Methylbutanoyl|N-lactoyl-Isoeucine|Heptylmalonic acid Formula: C10H18O4"	201.11323	7.70	8.00	10
+Unk#566	H+	+	"By mass: Ecgoninium Methyl Ester(1+) Formula: C10H18NO3"	201.13594	15.50	15.90	10
+Unk#567	H-	-	"By mass: 3-hydroxyundecanoic acid|3-Hydroxynonyl acetate Formula: C11H22O3"	201.14961	0.90	1.10	11
+Unk#568	H+	+	"Formula: C8H11NO5"	202.07100	7.20	7.70	8
+Unk#569	H+	+	"By mass: N-(5-Methyl-3-oxohexyl)alanine|N-Acetylaminooctanoic acid|Valproylglycine|Capryloylglycine Formula: C10H19NO3"	202.14376	2.40	2.50	10
+Unk#570	H+	+	"Formula: C11H23NO2"	202.18015	1.20	3.60	11
+Unk#571	H-	-	"By mass: Sinalexin Formula: C10H8N2OS"	203.02846	9.40	9.70	10
+Unk#572	H+	+	"Formula: C6H8N3O5"	203.05367	9.40	9.80	6
+Unk#573	H+	+	"Formula: C8H12NO3S"	203.06106	1.20	1.80	8
+Unk#574	H-	-	"By mass: L-beta-aspartyl-L-alanine|5-L-Glutamylglycine|Alanyl-Aspartate|Aspartyl-Alanine Formula: C7H12N2O5"	203.06734	7.70	8.20	7
+Unk#575	H+	+	"By mass: Hydroxyprolyl-Alanine|Prolyl-Serine|Serinyl-Proline|L-Coprine|Alanyl-Hydroxyproline Formula: C8H14N2O4"	203.10263	8.30	9.40	8
+Unk#576	H+	+	"By mass: Hydroxyprolyl-Alanine|Prolyl-Serine|Serinyl-Proline|L-Coprine|Alanyl-Hydroxyproline Formula: C8H14N2O4"	203.10263	7.70	7.90	8
+Unk#577	H+	+	"By mass: Hydroxyprolyl-Alanine|Prolyl-Serine|Serinyl-Proline|L-Coprine|Alanyl-Hydroxyproline Formula: C8H14N2O4"	203.10263	2.80	4.50	8
+Unk#578	H+	+	"By mass: Hydroxyprolyl-Alanine|Prolyl-Serine|Serinyl-Proline|L-Coprine|Alanyl-Hydroxyproline Formula: C8H14N2O4"	203.10263	1.20	1.60	8
+Unk#579	H+	+	"Formula: C7H14N4O3"	203.11386	10.80	11.00	7
+Unk#580	H+	+	"By mass: Alanyl-Leucine|Isoleucyl-Alanine|Alanyl-Isoleucine|Leucyl-Alanine Formula: C9H18N2O3"	203.13901	1.20	1.40	9
+Unk#581	H+	+	"By mass: Alanyl-Leucine|Isoleucyl-Alanine|Alanyl-Isoleucine|Leucyl-Alanine Formula: C9H18N2O3"	203.13901	8.40	8.70	9
+Unk#582	H+	+	"By mass: Alanyl-Leucine|Isoleucyl-Alanine|Alanyl-Isoleucine|Leucyl-Alanine Formula: C9H18N2O3"	203.13901	7.70	8.00	9
+Unk#583	H-	-	"By mass: Methyl 1-methoxy-1H-indole-3-carboxylate|3-Indolehydracrylic acid|Indolelactic acid|Cinnamoylglycine|5-Methoxyindoleacetate|Edulitine Formula: C11H11NO3"	204.06661	2.50	3.00	11
+Unk#584	H+	+	"Formula: C8H13NO3S"	204.06889	2.40	2.50	8
+Unk#585	H+	+	"Formula: C8H13NO5"	204.08665	8.90	9.40	8
+Unk#586	H+	+	"Formula: C8H13NO5"	204.08665	8.30	8.90	8
+Unk#587	H+	+	"Formula: C8H13NO5"	204.08665	2.30	4.50	8
+Unk#588	H+	+	"Formula: C8H13NO5"	204.08665	1.20	1.70	8
+Unk#589	H+	+	"Formula: C8H13NO5"	204.08665	6.70	7.70	8
+Unk#590	H+	+	"By mass: 1-Isothiocyanato-7-(methylthio)heptane Formula: C9H17NS2"	204.08751	11.80	12.40	9
+Unk#591	H-	-	"By mass: N-Methylcalystegine C1 Formula: C8H15NO5"	204.08774	8.40	8.60	8
+Unk#592	H+	+	"Formula: C9H17NO2S"	204.10527	1.90	2.40	9
+Unk#593	H+	+	"By mass: Lysyl-Glycine|Glycyl-Lysine Formula: C8H17N3O3"	204.13426	11.10	11.40	8
+Unk#594	H-	-	"By mass: 5-Sulfoxymethylfurfural|Pyrogallol-1-O-sulphate|Pyrogallol-2-O-sulphate Formula: C6H6O6S"	204.98123	1.80	2.20	6
+Unk#595	H+	+	"Formula: C7H12N2O3S"	205.06414	2.30	2.60	7
+Unk#596	H+	+	"By mass: L-beta-aspartyl-L-alanine|5-L-Glutamylglycine|Alanyl-Aspartate|Aspartyl-Alanine Formula: C7H12N2O5"	205.08189	12.40	12.80	7
+Unk#597	H-	-	"Formula: C5H8N2O5P"	206.00981	9.10	9.40	5
+Unk#598	H+	+	"By mass: Pantothenol Formula: C9H19NO4"	206.13868	1.20	2.60	9
+Unk#599	H-	-	"Formula: C5H7NO4PS"	206.97606	1.80	2.20	5
+Unk#600	H-	-	"Formula: C6H11NO3PS"	207.01245	1.00	1.20	6
+Unk#601	H-	-	"Formula: C6H11NO3PS"	207.01245	1.40	1.90	6
+Unk#602	H-	-	"By mass: L-Kynurenine|Formyl-5-hydroxykynurenamine|4-Aminobenzoyl-(beta)-alanine Formula: C10H12N2O3"	207.07751	6.60	7.30	10
+Unk#603	H+	+	"Formula: C11H14N2O2"	207.11280	4.60	6.50	11
+Unk#604	H-	-	"By mass: 2,2,6,7-Tetramethylbicyclo[4.3.0]nona-1(9),4-diene-7,8-diol|(S,E)-Lyratol propanoate|5,9:6,9-Diepoxy-4-megastigmene|5,9:6,9-Diepoxy-3-megastigmene|Eremopetasinorol|(3R,8E)-3-Hydroxy-5,8-megastigmadien-7-one|(5alpha,8beta,9beta)-5,9-Epoxy-3,6-megastigmadien-8-ol|Acetal R|2,3,5,6,8,8a-Hexahydro-2,5,5,8a-tetramethyl-7H-1-benzopyran-7-one|Carvyl propionate|3-Hydroxy-beta-ionone|(5R,6S)-5,6-Epoxy-7-megastigmen-9-one|Theaspirone A Formula: C13H20O2"	207.13905	0.90	1.10	13
+Unk#605	H-	-	"Formula: C6H11NO5S"	208.02852	7.10	7.60	6
+Unk#606	H+	+	"By mass: N-isopropylterephthalamic acid|Phenylpropionylglycine|3-Phenylpropionylglycine|N-Acetyl-L-phenylalanine|2-Acetamido-4-methylphenyl acetate Formula: C11H13NO3"	208.09682	2.30	2.50	11
+Unk#607	H+	+	"Formula: C12H21N3"	208.18082	2.90	3.10	12
+Unk#608	H-	-	"Formula: C5H7O7P"	208.98566	9.10	9.50	5
+Unk#609	H-	-	"Formula: C8H8N3S2"	209.00869	1.50	1.90	8
+Unk#610	H-	-	"Formula: C8H8N3S2"	209.00869	1.00	1.20	8
+Unk#611	H-	-	"Formula: C6H15N2O4P"	209.06966	11.60	11.80	6
+Unk#612	H-	-	"Formula: C8H19O4P"	209.09481	1.00	1.10	8
+Unk#613	H+	+	"By mass: 1-Methoxyphenanthrene|Chalcone Formula: C15H12O"	209.09609	1.00	1.10	15
+Unk#614	H-	-	"By mass: 2-Propenyl cyclohexanebutanoate|Propyl 2,4-decadienoate|Citral propylene glycol acetal|Tsibulin 1|Linalyl propionate|alpha-Terpineol propanoate|Neryl propionate|Methyl (2E,6Z)-dodecadienoate|Cepanone|Octahydro-2,5,5,8a-tetramethyl-7H-1-benzopyran-7-one|Isobornyl propionate|Artemisyl propionate Formula: C13H22O2"	209.15469	0.90	1.10	13
+Unk#615	H+	+	"Formula: C6H11NO5S"	210.04307	9.60	9.90	6
+Unk#616	H+	+	"Formula: C6H13N2O2S2"	210.04912	5.80	6.50	9
+Unk#617	H+	+	"Formula: C6H14N2O4S"	211.07470	1.00	1.20	6
+Unk#618	H-	-	"By mass: 3,4-Methyleneazelaic acid Formula: C11H16O4"	211.09758	2.10	2.40	11
+Unk#619	H-	-	"By mass: Vulgarole|Dihydrojasmonic acid|Cucurbic acid|Traumatin|3-Ethenyl-4-hydroxy-2,5-dimethylhex-5-en-2-yl acetate Formula: C12H20O3"	211.13396	1.00	1.20	12
+Unk#620	H+	+	"By mass: Butabarbital|Butethal|L-prolyl-L-proline Formula: C10H16N2O3"	213.12336	9.90	10.40	10
+Unk#621	H-	-	"By mass: 3-Oxododecanoic acid|4-Acetoxy-2-hexyltetrahydrofuran Formula: C12H22O3"	213.14961	1.00	1.20	12
+Unk#622	H+	+	"Formula: C5H10O5PS"	214.00593	10.80	11.00	4
+Unk#623	H-	-	"By mass: Glycerylphosphorylethanolamine|sn-glycero-3-Phosphoethanolamine Formula: C5H14NO6P"	214.04859	11.10	11.40	5
+Unk#624	H-	-	"Formula: C8H9O5P"	215.01148	8.60	9.00	8
+Unk#625	H+	+	"By mass: Sulfacetamide Formula: C8H10N2O3S"	215.04849	2.40	4.00	8
+Unk#626	H+	+	"Formula: C11H18S2"	215.09226	5.50	8.20	11
+Unk#627	H+	+	"By mass: Valyl-Proline|Dethiobiotin|Prolyl-Valine Formula: C10H18N2O3"	215.13901	1.10	1.50	10
+Unk#628	H+	+	"By mass: Valyl-Proline|Dethiobiotin|Prolyl-Valine Formula: C10H18N2O3"	215.13901	2.60	3.70	10
+Unk#629	H+	+	"Formula: C8H9NO2S2"	216.01475	11.90	12.20	4
+Unk#630	H+	+	"Formula: C7H11N4O4"	216.08530	5.50	8.70	7
+Unk#631	H-	-	"By mass: N-a-Acetylcitrulline|Alanyl-Glutamine|Alanyl-Gamma-glutamate|Glutaminyl-Alanine|Gamma-glutamyl-Alanine Formula: C8H15N3O4"	216.09897	8.30	8.70	8
+Unk#632	H-	-	"Formula: C7H10N2O4S"	217.02885	7.80	8.40	7
+Unk#633	H-	-	"Formula: C7H10N2O4S"	217.02885	8.90	9.40	7
+Unk#634	H-	-	"By mass: Triacetin Formula: C9H14O6"	217.07176	2.30	2.40	9
+Unk#635	H-	-	"By mass: Glutamylalanine|5-L-Glutamyl-L-alanine|Hydroxyprolyl-Serine|N-gamma-L-Glutamyl-D-alanine|Serinyl-Hydroxyproline Formula: C8H14N2O5"	217.08299	7.30	7.90	8
+Unk#636	H-	-	"By mass: 4-Nitrophenyl sulfate|Stays on isotope 3 of [6561] Formula: C6H5NO6S"	217.97648	0.80	1.00	6
+Unk#637	H-	-	"Formula: C6H10N3O4P"	218.03361	9.40	9.70	6
+Unk#638	H-	-	"By mass: Pantothenic acid|(R)-pantothenic Acid Formula: C9H17NO5"	218.10339	1.20	1.60	9
+Unk#639	H-	-	"By mass: Pantothenic acid|(R)-pantothenic Acid Formula: C9H17NO5"	218.10339	3.10	6.40	9
+Unk#640	H+	+	"By mass: O-propanoyl-carnitine|Propionylcarnitine Formula: C10H19NO4"	218.13868	5.20	6.80	10
+Unk#641	H+	+	"By mass: Gamma-glutamyl-L-putrescine|beta-Alanyl-L-lysine|Lysyl-Alanine|Alanyl-Lysine Formula: C9H19N3O3"	218.14991	11.50	11.70	9
+Unk#642	H+	+	"Formula: C11H23NO3"	218.17506	2.40	2.70	11
+Unk#643	H+	+	"Formula: C11H23NO3"	218.17506	1.20	1.40	11
+Unk#644	H-	-	"By mass: p-Hydroxyl-ethotoin|5-Hydroxy-L-tryptophan|Oxitriptan Formula: C11H12N2O3"	219.07751	7.00	7.40	11
+Unk#645	H+	+	"By mass: Glutamylalanine|5-L-Glutamyl-L-alanine|Hydroxyprolyl-Serine|N-gamma-L-Glutamyl-D-alanine|Serinyl-Hydroxyproline Formula: C8H14N2O5"	219.09754	7.20	7.70	8
+Unk#646	H+	+	"By mass: Mephenytoin|N-Acetylserotonin|Primidone Formula: C12H14N2O2"	219.11280	1.20	1.60	12
+Unk#647	H+	+	"By mass: Pantothenamide|L-Lysopine|Serinyl-Leucine|Threoninyl-Valine|Valyl-Threonine|Meprobamate|Isoleucyl-Serine|Leucyl-Serine|Serinyl-Isoleucine Formula: C9H18N2O4"	219.13393	9.00	9.30	9
+Unk#648	H+	+	"By mass: Vulgarone B|alpha-Santalal|Calamusenone|Furanoeremophilane|Bisacumol|Zerumbone|Patchoulenone|beta-Atlantone|Curlone|Dendrolasin|4,7(11)-Guaiadien-8-one|Mustakone|Valerenal|1,3,5-Bisabolatrien-10-one|beta-Elemenone|alpha-Sinensal|Xanthorrhizol|(+)-4,11-Eudesmadien-3-one|Solavetivone|Isohumbertiol|(5beta,7beta,10beta)-3,11-Eudesmadien-2-one|Sinensal|(5alpha,10alpha)-3,7(11)-Eudesmadien-2-one|beta-Sinensal|beta-Santalal|(E)-10,11-Dihydro-alpha-atlantone|alpha-Turmerone|Nookatone|Rotundone|Vulgarone A Formula: C15H22O"	219.17433	0.90	1.10	15
+Unk#649	H+	+	"By mass: 1-Isothiocyanato-7-(methylsulfinyl)heptane Formula: C9H17NOS2"	220.08243	10.60	11.00	8
+Unk#650	H+	+	"By mass: Serinyl-Aspartate|L-beta-aspartyl-L-serine|Aspartyl-Serine Formula: C7H12N2O6"	221.07681	12.10	12.40	7
+Unk#651	H-	-	"By mass: Dihydrodeoxy-8-epiaustdiol|2,3-Dihydro-3-hydroxy-6-methoxy-2,2-dimethyl-4H-1-benzopyran-4-one|Monoisobutyl phthalic acid|Dillapiol|(Z)-3-(2,4,5-Trimethoxyphenyl)-2-propenal|Vanillin isobutyrate|Monobutylphthalate|Apiole|5-(3,4-Methylenedioxyphenyl)pentanoic acid|5'-(3'-Methoxy-4'-hydroxyphenyl)-gamma-valerolactone|Isodillapiole|Piperonyl isobutyrate Formula: C12H14O4"	221.08193	1.80	2.20	12
+Unk#652	H+	+	"By mass: p-Hydroxyl-ethotoin|5-Hydroxy-L-tryptophan|Oxitriptan Formula: C11H12N2O3"	221.09206	6.90	7.40	11
+Unk#653	H+	+	"Formula: C7H10O6P"	222.02878	11.50	11.70	5
+Unk#654	H+	+	"By mass: Aldehydo-N-acetyl-D-mannosamine|Avenic acid B|N-Acetyl-b-D-galactosamine|N-Acetylmannosamine|Aldehydo-N-acetyl-D-glucosamine|N-Acetyl-D-glucosamine|N-Acetylmannosamine-6P|Beta-N-Acetylglucosamine|N-Acetylgalactosamine Formula: C8H15NO6"	222.09721	6.70	7.50	8
+Unk#655	H+	+	"By mass: Hydrocotarnine|Carbofuran|Metaxalone Formula: C12H15NO3"	222.11246	7.10	7.50	12
+Unk#656	H+	+	"By mass: Dihydrozeatin Formula: C10H15N5O"	222.13493	2.90	3.30	10
+Unk#657	H+	+	"Formula: C6H9O7P"	225.01587	13.00	13.30	6
+Unk#658	H-	-	"By mass: 2-Methoxyxanthone|Oroselone Formula: C14H10O3"	225.05571	2.00	2.40	14
+Unk#659	H-	-	"By mass: 2-Methoxyxanthone|Oroselone Formula: C14H10O3"	225.05571	1.10	1.20	14
+Unk#660	H+	+	"By mass: 4-Hydroxychalcone Formula: C15H12O2"	225.09100	1.00	1.20	15
+Unk#661	H+	+	"By mass: 4-Hydroxychalcone Formula: C15H12O2"	225.09100	0.90	1.00	15
+Unk#662	H-	-	"By mass: Riesling acetal|Methyl dihydrojasmonate|4,5-Dihydrovomifoliol Formula: C13H22O3"	225.14961	1.00	1.20	13
+Unk#663	H-	-	"By mass: Riesling acetal|Methyl dihydrojasmonate|4,5-Dihydrovomifoliol Formula: C13H22O3"	225.14961	2.30	2.40	13
+Unk#664	H-	-	"By mass: delta-Tetradecalactone|1,1-Diethoxy-3,7-dimethyl-2,6-octadiene|2-Hexenyl octanoate|Rhodinyl isobutyrate|9E-tetradecenoic acid|Tsuzuic acid|Ethyl (E)-2-dodecenoate|Rhodinyl butyrate|Houttuynin|7Z-tetradecenoic acid|5-Tetradecenoic acid|(R)-14-Methyloxacyclotetradecan-2-one|12-Methyl-13-tridecanolide|Citronellyl isobutyrate|Myristoleic acid|5Z-Tetradecenoic acid|Butyl 2-decenoate|Acetaldehyde di-cis-3-hexenyl acetal|xi-Tetrahydro-3-nonyl-2H-pyran-2-one|Citronellyl butyrate|trans-Tetra-dec-2-enoic acid Formula: C14H26O2"	225.18599	0.90	1.60	14
+Unk#665	H+	+	"Formula: C9H10N2O5"	227.06625	12.50	12.70	9
+Unk#666	H-	-	"By mass: Deoxyuridine Formula: C9H12N2O5"	227.06734	2.90	3.10	9
+Unk#667	H-	-	"By mass: Propyl propane thiosulfonate Formula: C11H16O5"	227.09249	1.10	1.30	11
+Unk#668	H+	+	"By mass: (6R)-6-(L-Erythro-1,2-Dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin|Alanyl-Histidine|Carnosine|Histidinyl-Alanine Formula: C9H14N4O3"	227.11386	11.00	11.40	9
+Unk#669	H+	+	"Formula: C12H26N4"	227.22301	10.50	15.70	12
+Unk#670	H-	-	"By mass: Clonidine Formula: C9H9Cl2N3"	228.01007	7.40	7.80	9
+Unk#671	H+	+	"By mass: L-Glutamic acid 5-phosphate Formula: C5H10NO7P"	228.02676	10.80	11.20	7
+Unk#672	H+	+	"Formula: C6H13NO4S2"	228.03587	11.50	11.70	14
+Unk#673	H+	+	"By mass: Deoxycytidine Formula: C9H13N3O4"	228.09788	7.10	7.60	9
+Unk#674	H+	+	"Formula: C14H17N3"	228.14952	1.00	1.20	14
+Unk#675	H+	+	"Formula: C12H25N3O"	228.20703	4.50	5.20	12
+Unk#676	H+	+	"Formula: C14H29NO"	228.23218	1.10	1.20	14
+Unk#677	H+	+	"Formula: C15H33N"	228.26856	1.70	2.90	15
+Unk#678	H+	+	"Formula: C15H33N"	228.26856	5.00	5.60	15
+Unk#679	H-	-	"By mass: Xylulose 5-phosphate|D-Arabinose 5-phosphate|D-Ribose 5-phosphate|Ribose 1-phosphate|Beta-L-arabinose 1-phosphate|D-Ribulose 5-phosphate|D-Xylulose 1-phosphate Formula: C5H11O8P"	229.01188	11.90	12.50	5
+Unk#680	H-	-	"By mass: Xylulose 5-phosphate|D-Arabinose 5-phosphate|D-Ribose 5-phosphate|Ribose 1-phosphate|Beta-L-arabinose 1-phosphate|D-Ribulose 5-phosphate|D-Xylulose 1-phosphate Formula: C5H11O8P"	229.01188	11.70	11.90	5
+Unk#681	H+	+	"By mass: Hydroxyprolyl-Proline|Prolyl-Hydroxyproline|Prolylhydroxyproline|Tetraacetylethylenediamine Formula: C10H16N2O4"	229.11828	10.50	11.10	10
+Unk#682	H-	-	"By mass: Ibudilast Formula: C14H18N2O"	229.13463	6.90	7.40	14
+Unk#683	H-	-	"By mass: Dipropyl hexanedioate|Dodecanedioic acid|Bis(1-methylethyl) hexanedioate|Talaromycin A Formula: C12H22O4"	229.14452	6.50	6.90	12
+Unk#684	H+	+	"By mass: Isoleucyl-Proline|L-isoleucyl-L-proline|Leucyl-Proline|L-leucyl-L-proline Formula: C11H20N2O3"	229.15466	8.70	9.20	11
+Unk#685	H+	+	"By mass: Isoleucyl-Proline|L-isoleucyl-L-proline|Leucyl-Proline|L-leucyl-L-proline Formula: C11H20N2O3"	229.15466	1.20	2.30	11
+Unk#686	H-	-	"Formula: C6H16O5PS"	230.03833	10.10	10.90	6
+Unk#687	H+	+	"Formula: C11H23N3O2"	230.18629	9.20	10.10	11
+Unk#688	H+	+	"Formula: C11H23N3O2"	230.18629	10.70	11.10	11
+Unk#689	H+	+	"By mass: Xylulose 5-phosphate|D-Arabinose 5-phosphate|D-Ribose 5-phosphate|Ribose 1-phosphate|Beta-L-arabinose 1-phosphate|D-Ribulose 5-phosphate|D-Xylulose 1-phosphate Formula: C5H11O8P"	231.02643	12.00	12.30	5
+Unk#690	H-	-	"By mass: 3-Chloro-1-(4-hydroxy-3-methoxyphenyl)-1,2-propanediol Formula: C10H13ClO4"	231.04296	2.90	3.70	10
+Unk#691	H+	+	"Formula: C6H17NO4PS"	231.06886	15.30	15.60	6
+Unk#692	H+	+	"By mass: (2S,3'S)-alpha-Amino-2-carboxy-5-oxo-1-pyrrolidinebutanoic acid|1-(gamma-Glutamylamino)cyclopropanecarboxylic acid|(1R,2S,3R)-2-Acetyl-4(5)-(1,2,3,4-tetrahydroxybutyl)imidazole|Aspartyl-Proline|Aspartyl-L-proline|Prolyl-Aspartate Formula: C9H14N2O5"	231.09754	11.80	12.20	9
+Unk#693	H+	+	"Formula: C9H18N4O3"	231.14516	9.90	10.10	9
+Unk#694	H+	+	"By mass: Isoleucyl-Valine|Leucyl-Valine|Valyl-Leucine|Valyl-Isoleucine Formula: C11H22N2O3"	231.17031	2.20	2.50	11
+Unk#695	H-	-	"By mass: 1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-1,6-heptadien-3-one Formula: C16H24O"	231.17543	0.90	1.10	16
+Unk#696	H-	-	"Formula: C8H11NO3S2"	232.01076	11.90	12.10	8
+Unk#697	H+	+	"Formula: C8H12N2O4S"	233.05905	2.30	4.30	8
+Unk#698	H+	+	"By mass: (2E,11Z)-5-[5-(Methylthio)-4-penten-2-ynyl]-2-furanacrolein|Has [1844] on isotope 2 Formula: C13H12O2S"	233.06307	9.40	9.70	13
+Unk#699	H-	-	"By mass: Aspartyl-Threonine|L-beta-aspartyl-L-threonine|Threoninyl-Aspartate Formula: C8H14N2O6"	233.07791	7.80	8.20	8
+Unk#700	H-	-	"By mass: 2,6-Di-tert-butyl-4-ethylphenol Formula: C16H26O"	233.19108	1.00	1.20	16
+Unk#701	H-	-	"By mass: L-Formylkynurenine|N'-Formylkynurenine Formula: C11H12N2O4"	235.07243	6.00	6.70	11
+Unk#702	H+	+	"By mass: 2-Isopropyl citrate|1-Isopropyl citrate Formula: C9H14O7"	235.08123	13.20	14.70	9
+Unk#703	H-	-	"By mass: Apotrichothecene|Davanone|Aubergenone|Humulene diepoxide A|Isolubimin|beta-Ionyl acetate|Cyperolone|2,6-Di-tert-butyl-4-hydroxymethylphenol|Petasitolone|10alpha-4,5-Seco-11-eudesmene-4,5-dione|4alpha,5alpha-Epoxy-11-eudesmen-3a-ol|2-Hydroxyacorenone|(3xi,7(11)Z)-7(11)-Copaene-4,12-diol|Hernandulcin|Epiacorone|Rishitinone|Curcumol|Geranyl tiglate|(-)-Myrtenyl isovalerate|7-Hydroxycostol|Acorusnol|Capsidiol|Calamensesquiterpinenol|beta-Kessyl ketone|Epilubimin|3-Hydroxy-1,10-bisaboladien-9-one|(4S)-Dihydrocurcumenone|Tanavulgarol|Tuberonone|Curdione|Humulene-8-hydroperoxide|(2E,6E)-1-Hydroxy-2,6,10-farnesatrien-9-one|Dihydro-alpha-santalic acid Formula: C15H24O2"	235.17034	0.90	1.30	15
+Unk#704	H+	+	"Formula: C7H9O5PS"	236.99811	13.70	14.10	7
+Unk#705	H-	-	"By mass: 1,2,3,4-Tetramethoxy-5-(2-propenyl)benzene|2,2,4,4,-Tetramethyl-6-(1-oxopropyl)-1,3,5-cyclohexanetrione Formula: C13H18O4"	237.11323	1.90	2.30	13
+Unk#706	H-	-	"By mass: Geranyl acetoacetate Formula: C14H22O3"	237.14961	1.00	1.20	14
+Unk#707	H-	-	"By mass: Propyl 1-(propylsulfinyl)propyl disulfide Formula: C9H20OS3"	239.06035	7.40	7.90	9
+Unk#708	H-	-	"By mass: D-glycero-L-galacto-Octulose Formula: C8H16O8"	239.07724	10.30	10.40	8
+Unk#709	H-	-	"By mass: Ethyl 3,4,5-trimethoxybenzoate|3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid|Isopropyl 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate|3-(3,4,5-Trimethoxyphenyl)propanoic acid Formula: C12H16O5"	239.09249	0.90	1.10	12
+Unk#710	H+	+	"By mass: 15(R)-hydroperoxy-EPE Formula: C8H18N2O4S"	239.10600	7.10	7.70	8
+Unk#711	H-	-	"By mass: L-Menthyl acetoacetate Formula: C14H24O3"	239.16526	1.00	1.20	14
+Unk#712	H-	-	"By mass: Citronellyl isovalerate|Auberganol|Butyl undecylenate|9-Pentadecenoic acid|Rhodinyl isovalerate|Isobutyl 10-undecenoate|Citronellyl pentanoate|15,5-Farnesanolide|Menthyl isovalerate|Exaltolide Formula: C15H28O2"	239.20164	0.90	1.00	15
+Unk#713	H-	-	"By mass: Methocarbamol Formula: C11H15NO5"	240.08774	3.90	5.50	11
+Unk#714	H-	-	"By mass: Inositol cyclic phosphate Formula: C6H11O8P"	241.01188	12.40	12.50	6
+Unk#715	H-	-	"By mass: 6-Ketomyristic acid|3-Oxotetradecanoic acid|L-Menthyl (R,S)-3-hydroxybutyrate Formula: C14H26O3"	241.18091	1.00	1.20	14
+Unk#716	H-	-	"Formula: C6H13NO9"	242.05175	8.00	8.40	6
+Unk#717	H+	+	"Formula: C13H23NOS"	242.15730	6.00	6.40	13
+Unk#718	H+	+	"Formula: C16H35N"	242.28421	2.00	3.10	16
+Unk#719	H+	+	"By mass: Inositol cyclic phosphate Formula: C6H11O8P"	243.02643	13.00	13.30	6
+Unk#720	H+	+	"By mass: Inositol cyclic phosphate Formula: C6H11O8P"	243.02643	12.50	12.90	6
+Unk#721	H-	-	"By mass: Fucose 1-phosphate Formula: C6H13O8P"	243.02753	10.70	10.90	6
+Unk#722	H-	-	"By mass: Uridine|Pseudouridine Formula: C9H12N2O6"	243.06226	7.00	7.40	9
+Unk#723	H+	+	"By mass: 5-phosphonooxy-L-lysine Formula: C6H15N2O6P"	243.07405	13.20	13.60	6
+Unk#724	H-	-	"By mass: Carbidopa|Hydroxyprolyl-Hydroxyproline|(2S,4S)-Pinnatanine Formula: C10H16N2O5"	243.09864	11.70	12.00	10
+Unk#725	H+	+	"By mass: Biotin amide Formula: C10H17N3O2S"	244.11142	8.70	9.20	10
+Unk#726	H+	+	"By mass: Prolyl-Gamma-glutamate|Gamma-glutamyl-Proline|Prolyl-Glutamine|Glutaminyl-Proline Formula: C10H17N3O4"	244.12918	8.30	9.30	10
+Unk#727	H+	+	"By mass: Uridine|Pseudouridine Formula: C9H12N2O6"	245.07681	7.10	7.40	9
+Unk#728	H+	+	"By mass: Carbidopa|Hydroxyprolyl-Hydroxyproline|(2S,4S)-Pinnatanine Formula: C10H16N2O5"	245.11319	11.60	12.10	10
+Unk#729	H+	+	"By mass: Carbidopa|Hydroxyprolyl-Hydroxyproline|(2S,4S)-Pinnatanine Formula: C10H16N2O5"	245.11319	2.90	3.50	10
+Unk#730	H+	+	"By mass: S-3-oxodecanoyl cysteamine Formula: C12H23NO2S"	246.15222	0.90	1.10	12
+Unk#731	H+	+	"By mass: S-3-oxodecanoyl cysteamine Formula: C12H23NO2S"	246.15222	1.40	2.30	12
+Unk#732	H+	+	"By mass: Arginyl-Alanine|beta-Alanyl-L-arginine|Alanyl-Arginine Formula: C9H19N5O3"	246.15606	11.30	11.60	9
+Unk#733	H+	+	"By mass: Pivaloylcarnitine|Isovalerylcarnitine|Valerylcarnitine|2-Methylbutyroylcarnitine Formula: C12H23NO4"	246.16998	4.10	5.10	12
+Unk#734	H+	+	"By mass: Valyl-Lysine|Lysyl-Valine Formula: C11H23N3O3"	246.18121	15.00	15.70	11
+Unk#735	H+	+	"Formula: C9H14N2O4S"	247.07470	2.40	3.00	9
+Unk#736	H+	+	"By mass: 5,6-Dihydrouridine|Aspartyl-Hydroxyproline|L-alpha-Aspartyl-L-hydroxyproline Formula: C9H14N2O6"	247.09246	11.00	11.70	9
+Unk#737	H-	-	"By mass: Octyl phenylacetate|[2-(Dimethoxymethyl)-1-heptenyl]benzene|Dimethylbenzyl carbinyl hexanoate|Furanofukinin|2-Phenylethyl octanoate Formula: C16H24O2"	247.17034	0.90	1.00	16
+Unk#738	H+	+	"By mass: Asparaginyl-Aspartate|Aspartyl-Asparagine Formula: C8H13N3O6"	248.08771	12.10	12.50	8
+Unk#739	H+	+	"By mass: O-malonyl-L-carnitine|Linamarin|Malonylcarnitine Formula: C10H17NO6"	248.11286	2.40	2.60	10
+Unk#740	H+	+	"By mass: Hydroxybutyrylcarnitine|(R)-3-hydroxybutyrylcarnitine Formula: C11H21NO5"	248.14924	7.40	7.90	11
+Unk#741	H-	-	"By mass: 2-[(5-Methylsulfinyl)-4-penten-2-ynylidene]-1,6-dioxaspiro[4.4]non-3-ene Formula: C13H14O3S"	249.05908	0.90	1.00	13
+Unk#742	H+	+	"By mass: L-beta-aspartyl-L-aspartic acid|Aspartyl-Aspartate Formula: C8H12N2O7"	249.07172	13.60	13.90	8
+Unk#743	H-	-	"By mass: Samin|Citrinin Formula: C13H14O5"	249.07684	1.00	1.20	13
+Unk#744	H+	+	"Formula: C9H13O6S"	250.05056	13.90	14.40	9
+Unk#745	H+	+	"Formula: C8H13NO4PS"	251.03757	9.10	9.40	8
+Unk#746	H+	+	"Formula: C8H12NO6S"	251.04581	1.00	1.10	8
+Unk#747	H+	+	"Formula: C8H12NO6S"	251.04581	0.80	0.90	8
+Unk#748	H+	+	"By mass: Gamma-Glutamylcysteine Formula: C8H14N2O5S"	251.06962	10.60	11.10	8
+Unk#749	H-	-	"By mass: QH(2)|3alpha-Hydroxyoreadone|2,2,4,4-Tetramethyl-6-(1-oxobutyl)-1,3,5-cyclohexanetrione Formula: C14H20O4"	251.12888	0.80	1.00	14
+Unk#750	H+	+	"By mass: Muramic acid|N-(1-Deoxy-1-fructosyl)alanine Formula: C9H17NO7"	252.10777	11.10	11.40	9
+Unk#751	H+	+	"Formula: C6H8NO6P2"	252.98996	1.40	1.80	6
+Unk#752	Na+	+	"Formula: C5H11O8P"	253.00837	12.10	12.40	5
+Unk#753	H+	+	"Formula: C6H9N2O7P"	253.02201	9.80	10.40	6
+Unk#754	H+	+	"By mass: 7-Hydroxy-2-methylisoflavone|Anisindione Formula: C16H12O3"	253.08592	0.90	1.00	16
+Unk#755	H-	-	"By mass: Dexketoprofen|Ketoprofen|2,6-Dimethoxy-4-phenanthrenol|3,6-Dimethoxy-4-phenanthrenol Formula: C16H14O3"	253.08701	1.00	1.20	16
+Unk#756	H-	-	"By mass: Dexketoprofen|Ketoprofen|2,6-Dimethoxy-4-phenanthrenol|3,6-Dimethoxy-4-phenanthrenol Formula: C16H14O3"	253.08701	0.00	0.90	16
+Unk#757	H-	-	"By mass: Isoeugenol benzyl ether|Isoeugenyl benzyl ether Formula: C17H18O2"	253.12340	1.00	1.10	17
+Unk#758	H-	-	"By mass: Hypogeic acid|Citronellyl hexanoate|15-Hexadecanolide|(Z)-14-Methyl-6-pentadecenoic acid|(Z)-5-Hexadecenoic acid|(E)-6-Hexadecenoic acid|(E)-11-Hexadecenoic acid|Palmitelaidic acid|Trans-Hexa-dec-2-enoic acid|(E)-3-Hexadecenoic acid|(Z)-13-Hexadecenoic acid|Palmitoleic acid|5-Dodecyldihydro-2(3H)-furanone Formula: C16H30O2"	253.21729	0.90	1.10	16
+Unk#759	H+	+	"Formula: C16H31NO"	254.24783	1.00	1.20	16
+Unk#760	H-	-	"By mass: Nabam Formula: C4H6N2Na2S4"	254.91365	12.10	12.50	4
+Unk#761	H+	+	"By mass: 2-Hydroxyfelbamate|p-Hydroxyfelbamate|L-Agaridoxin Formula: C11H14N2O5"	255.09754	13.20	13.80	11
+Unk#762	H+	+	"By mass: Dexketoprofen|Ketoprofen|2,6-Dimethoxy-4-phenanthrenol|3,6-Dimethoxy-4-phenanthrenol Formula: C16H14O3"	255.10157	1.00	1.10	16
+Unk#763	H+	+	"By mass: (2R)-1-O-beta-D-Galactopyranosylglycerol|Galactosylglycerol Formula: C9H18O8"	255.10744	9.00	9.40	9
+Unk#764	H+	+	"By mass: Palmitic amide Formula: C16H33NO"	256.26348	0.00	1.20	16
+Unk#765	H+	+	"Formula: C17H37N"	256.29986	4.60	5.30	17
+Unk#766	H+	+	"Formula: C5H8NO7PS"	257.98319	2.70	3.70	5
+Unk#767	H-	-	"By mass: Glucosamine 6-sulfate|N-Sulfo-D-glucosamine Formula: C6H13NO8S"	258.02891	0.90	1.10	6
+Unk#768	H+	+	"By mass: 5-Methylcytidine|Pyro-L-glutaminyl-L-glutamine Formula: C10H15N3O5"	258.10844	4.10	4.90	8
+Unk#769	H-	-	"By mass: 5-Methylthioribose 1-phosphate|5-Methylthioribulose 1-phosphate Formula: C6H13O7PS"	259.00468	9.10	9.30	6
+Unk#770	H-	-	"By mass: Glucose 6-phosphate|Beta-D-Glucose 6-phosphate|Beta-D-Fructose 2-phosphate|D-Mannose 1-phosphate|D-fructose 1-phosphate|1D-myo-Inositol 3-phosphate|Fructose 6-phosphate|Galactose 1-phosphate|Mannose 6-phosphate|D-Myo-inositol 4-phosphate|Sorbose 1-phosphate|Myo-inositol 1-phosphate|Glucose 1-phosphate|Inositol phosphate|Fructose 1-phosphate|Dolichyl phosphate D-mannose|D-Tagatose 1-phosphate|D-galactopyranose 1-phosphate|D-Tagatose 6-phosphate|Beta-D-Fructose 6-phosphate Formula: C6H13O9P"	259.02244	12.40	12.90	6
+Unk#771	H+	+	"By mass: Imidazoleacetic acid riboside|3-Methyluridine|Ribothymidine Formula: C10H14N2O6"	259.09246	9.00	9.40	10
+Unk#772	H+	+	"By mass: AICA-riboside Formula: C9H14N4O5"	259.10369	6.10	6.40	9
+Unk#773	H+	+	"Formula: C13H26N2O3"	259.20161	2.20	2.40	13
+Unk#774	H+	+	"Formula: C13H25NO2S"	260.16787	0.90	1.00	13
+Unk#775	H+	+	"By mass: Hexanoylcarnitine|L-Hexanoylcarnitine Formula: C13H25NO4"	260.18563	2.30	4.40	13
+Unk#776	H+	+	"By mass: Lysyl-Isoleucine|Isoleucyl-Lysine|Lysyl-Leucine|Leucyl-Lysine Formula: C12H25N3O3"	260.19686	9.20	9.70	12
+Unk#777	H+	+	"By mass: Glucose 6-phosphate|Beta-D-Glucose 6-phosphate|Beta-D-Fructose 2-phosphate|D-Mannose 1-phosphate|D-fructose 1-phosphate|1D-myo-Inositol 3-phosphate|Fructose 6-phosphate|Galactose 1-phosphate|Mannose 6-phosphate|D-Myo-inositol 4-phosphate|Sorbose 1-phosphate|Myo-inositol 1-phosphate|Glucose 1-phosphate|Inositol phosphate|Fructose 1-phosphate|Dolichyl phosphate D-mannose|D-Tagatose 1-phosphate|D-galactopyranose 1-phosphate|D-Tagatose 6-phosphate|Beta-D-Fructose 6-phosphate Formula: C6H13O9P"	261.03699	12.50	12.90	6
+Unk#778	H-	-	"By mass: Ng-L-Glutamyl-L-aspartic acid|Na-L-Glutamyl-L-aspartic acid|L-beta-aspartyl-L-glutamic acid Formula: C9H14N2O7"	261.07282	13.70	13.90	9
+Unk#779	H+	+	"Formula: C11H20N2O3S"	261.12673	2.40	4.80	11
+Unk#780	H+	+	"By mass: Carisoprodol Formula: C12H24N2O4"	261.18087	4.90	5.40	12
+Unk#781	H+	+	"By mass: Aspartyl-Gamma-glutamate|Gamma-glutamyl-Aspartate|Glutaminyl-Aspartate|Aspartyl-Glutamine Formula: C9H15N3O6"	262.10336	11.90	12.20	9
+Unk#782	H+	+	"By mass: O-methylmalonyl-L-carnitine|Epidermin|Succinylcarnitine|Methylmalonylcarnitine|Lotaustralin Formula: C11H19NO6"	262.12851	1.20	1.50	12
+Unk#783	H+	+	"By mass: hydroxyisovaleroyl carnitine Formula: C12H23NO5"	262.16489	6.90	7.20	12
+Unk#784	H+	+	"By mass: Methohexital|L-prolyl-L-phenylalanine|L-phenylalanyl-L-proline Formula: C14H18N2O3"	263.13901	2.30	2.90	14
+Unk#785	H-	-	"By mass: 12-Oxo-2,3-dinor-10,15-phytodienoic acid|3,5-Bis(1,1-dimethylethyl)-4-hydroxy-benzoic acid ethyl ester Formula: C16H24O3"	263.16526	0.80	1.20	16
+Unk#786	H+	+	"By mass: 2-(5,8-Tetradecadienyl)cyclobutanone|6,10,14-Trimethyl-5,9,13-pentadecatrien-2-one Formula: C18H30O"	263.23693	1.00	1.20	18
+Unk#787	H+	+	"Formula: C9H12O7P"	264.03934	12.40	12.70	9
+Unk#788	H+	+	"By mass: N-(Heptan-4-yl)benzo[d][1,3]dioxole-5-carboxamide Formula: C15H21NO3"	264.15941	4.30	4.70	15
+Unk#789	H+	+	"By mass: Hydroxyvalerylcarnitine Formula: C12H25NO5"	264.18054	1.00	1.20	12
+Unk#790	H+	+	"By mass: Hexyl glucoside Formula: C12H24O6"	265.16456	1.10	1.30	13
+Unk#791	H+	+	"By mass: 12-Oxo-2,3-dinor-10,15-phytodienoic acid|3,5-Bis(1,1-dimethylethyl)-4-hydroxy-benzoic acid ethyl ester Formula: C16H24O3"	265.17981	0.80	1.00	16
+Unk#792	H-	-	"By mass: Tetranor 12-HETE|4-Hydroxy-3-methoxy-2,10-bisaboladien-9-one Formula: C16H26O3"	265.18091	0.90	1.10	16
+Unk#793	H+	+	"By mass: (�\[PlusMinus])-(Z)-2-(5-Tetradecenyl)cyclobutanone Formula: C18H32O"	265.25258	1.00	1.10	18
+Unk#794	H+	+	"By mass: Desacetyl-nitazoxanide Formula: C10H7N3O4S"	266.02300	6.40	7.10	10
+Unk#795	H-	-	"Formula: C6H6NO9S"	266.96905	12.20	12.80	6
+Unk#796	H-	-	"By mass: (-)-Dioxibrassinin Formula: C11H12N2O2S2"	267.02674	8.90	9.20	11
+Unk#797	H-	-	"By mass: Allopurinol riboside|Inosine|Arabinosylhypoxanthine Formula: C10H12N4O5"	267.07349	6.50	6.80	10
+Unk#798	H-	-	"By mass: 2,4-Heptadecanedione|Cyclohexaneundecanoic acid|7-Hexadecenoic acid, methyl ester|(Z)-9-Heptadecenoic acid|9Z-heptadecenoic acid|10Z-Heptadecenoic acid Formula: C17H32O2"	267.23294	0.90	1.00	17
+Unk#799	H+	+	"Formula: C10H13N5O4"	268.10403	3.20	3.60	10
+Unk#800	H+	+	"Formula: C17H33NO"	268.26348	1.00	1.20	17
+Unk#801	H-	-	"By mass: A771726|Leflunomide Formula: C12H9F3N2O2"	269.05433	7.30	7.70	12
+Unk#802	H-	-	"By mass: A771726|Leflunomide Formula: C12H9F3N2O2"	269.05433	6.30	6.70	12
+Unk#803	H+	+	"By mass: Allopurinol riboside|Inosine|Arabinosylhypoxanthine Formula: C10H12N4O5"	269.08804	6.40	6.90	10
+Unk#804	H-	-	"By mass: Ethylene brassylate Formula: C15H26O4"	269.17582	0.90	1.10	15
+Unk#805	H-	-	"By mass: 9-Oxohexadecanoic acid|3-Oxohexadecanoic acid|8-Oxohexadecanoic acid|11-Oxohexadecanoic acid Formula: C16H30O3"	269.21221	0.90	1.10	16
+Unk#806	H-	-	"Formula: C6H8O8PS"	269.96048	4.20	4.90	6
+Unk#807	H+	+	"Formula: C16H31NO2"	270.24274	1.00	1.20	16
+Unk#808	H+	+	"By mass: Capsiamide Formula: C17H35NO"	270.27913	5.10	5.70	17
+Unk#809	H+	+	"By mass: Capsiamide Formula: C17H35NO"	270.27913	1.00	1.20	17
+Unk#810	H-	-	"Formula: C7H13O7PS"	271.00468	9.10	9.40	7
+Unk#811	H-	-	"By mass: 3-hydroxyhexadecanoic acid|(R)-3-Hydroxy-hexadecanoic acid|(R)-2-Hydroxyhexadecanoic acid Formula: C16H32O3"	271.22786	1.00	1.10	16
+Unk#812	H+	+	"By mass: 2-(3-Carboxy-3-(methylammonio)propyl)-L-histidine Formula: C11H19N4O4"	272.14790	2.30	2.50	11
+Unk#813	H+	+	"By mass: Prolyl-Arginine|Arginyl-Proline Formula: C11H21N5O3"	272.17171	10.90	11.30	11
+Unk#814	H+	+	"By mass: (S)-Verimol F Formula: C17H20O3"	273.14851	0.80	1.00	17
+Unk#815	H+	+	"By mass: Valyl-Arginine|Arginyl-Valine Formula: C11H23N5O3"	274.18736	9.50	9.80	11
+Unk#816	H+	+	"By mass: 2-Polyprenyl-6-methoxy-1,4-benzoquinone|Panaquinquecol 4|2-Butyl-5-[2-(4-hydroxy-3-methoxyphenyl)ethyl]furan|1b-Furanoeudesm-4(15)-en-1-ol acetate|4-Hydroxy-3-polyprenylbenzoate|[6]-Dehydroshogaol Formula: C17H22O3"	275.16416	0.90	1.00	17
+Unk#817	H+	+	"By mass: Gamma-Glutamyl Glutamine|Norophthalmic acid Formula: C10H17N3O6"	276.11901	11.80	12.20	10
+Unk#818	H+	+	"By mass: Gamma-Glutamyl Glutamine|Norophthalmic acid Formula: C10H17N3O6"	276.11901	11.10	11.50	10
+Unk#819	H+	+	"By mass: O-glutaroyl-L-carnitine|Glutarylcarnitine Formula: C12H21NO6"	276.14416	7.10	7.40	12
+Unk#820	H+	+	"By mass: Gamma Glutamylglutamic acid|Thymidine glycol Formula: C10H16N2O7"	277.10302	13.20	13.50	10
+Unk#821	H+	+	"By mass: Gamma Glutamylglutamic acid|Thymidine glycol Formula: C10H16N2O7"	277.10302	13.60	13.90	10
+Unk#822	H+	+	"By mass: 10-Acetoxytoxol|Lactucin|Ascochitine|Dihydromethysticin|5-De-O-methyltoddanol Formula: C15H16O5"	277.10705	1.00	1.20	15
+Unk#823	H-	-	"By mass: Alpha-CEHC|Monoethylhexyl phthalic acid|Diisobutyl phthalate|Dibutyl phthalate Formula: C16H22O4"	277.14452	0.80	0.90	16
+Unk#824	H-	-	"By mass: 1-(4-Hydroxy-3-methoxyphenyl)-3-decanone|8-Acetoxy-4-acoren-3-one|Panaxacol|Panaxytriol Formula: C17H26O3"	277.18091	0.90	1.10	17
+Unk#825	H+	+	"By mass: Phenethyl decanoate|19-Noretiocholanolone|17beta-hydroxy-5beta-estran-3-one|4,8,12,15-Octadecatetraenoic acid|(E,E)-11,13-Octadecadien-9-ynoic acid|Stearidonic acid|19-Norandrosterone|19-Nor-5-androstenediol Formula: C18H28O2"	277.21620	0.90	1.10	18
+Unk#826	H+	+	"By mass: (x)-2-Heptanol glucoside Formula: C13H26O6"	279.18021	1.00	1.20	13
+Unk#827	H+	+	"By mass: Linolenelaidic acid|Gamma-Linolenic acid|Calendic acid|Punicic acid|Alpha-Linolenic acid Formula: C18H30O2"	279.23184	0.80	1.20	18
+Unk#828	H-	-	"By mass: Octadecadienoate|Linalyl caprylate|Bovinic acid|Mangiferic acid|Linoelaidic acid|Ethyl 2E,4Z-hexadecadienoate|6Z,9Z-octadecadienoic acid|10E,12Z-Octadecadienoic acid|5-Octadecynoic acid|9E,11E-Octadecadienoic acid|Linoleic acid Formula: C18H32O2"	279.23294	0.90	1.00	18
+Unk#829	H+	+	"By mass: N-[(4-Hydroxy-3-methoxyphenyl)methyl]octanamide Formula: C16H25NO3"	280.19071	0.90	1.10	16
+Unk#830	H+	+	"By mass: Linoleamide Formula: C18H33NO"	280.26348	1.00	1.20	18
+Unk#831	H-	-	"By mass: Oleamide Formula: C18H35NO"	280.26457	1.00	1.20	18
+Unk#832	H+	+	"By mass: Phenprocoumon|Asparenyol|Ipriflavone Formula: C18H16O3"	281.11722	0.90	1.00	18
+Unk#833	H-	-	"By mass: 7Z-octadecenoic acid|Ethyl 9-hexadecenoate|Octadec-9-enoic Acid|Vaccenic acid|(Z)-13-Octadecenoic acid|13Z-octadecenoic acid|Elaidic acid|Oleic acid Formula: C18H34O2"	281.24859	0.80	1.90	18
+Unk#834	H-	-	"By mass: 7Z-octadecenoic acid|Ethyl 9-hexadecenoate|Octadec-9-enoic Acid|Vaccenic acid|(Z)-13-Octadecenoic acid|13Z-octadecenoic acid|Elaidic acid|Oleic acid Formula: C18H34O2"	281.24859	0.10	0.80	18
+Unk#835	H+	+	"Formula: C18H36N2"	281.29511	5.10	5.60	18
+Unk#836	H+	+	"By mass: Oleamide Formula: C18H35NO"	282.27913	1.00	1.20	18
+Unk#837	Na+	+	"Formula: C6H13O9P"	283.01894	12.40	12.80	6
+Unk#838	H-	-	"By mass: arabinofuranosylguanine Formula: C10H14N5O5"	283.09221	9.70	10.00	10
+Unk#839	H-	-	"Formula: C18H36O2"	283.26424	0.70	1.30	18
+Unk#840	H-	-	"Formula: C6H7O9PS"	284.94757	13.20	13.30	6
+Unk#841	H-	-	"By mass: Cycrimine|Procyclidine Formula: C19H29NO"	286.21763	0.90	1.00	19
+Unk#842	H-	-	"By mass: Ophthalmic acid Formula: C11H19N3O6"	288.12010	6.90	7.30	11
+Unk#843	H+	+	"By mass: Arginyl-Isoleucine|Leucyl-Arginine|Arginyl-Leucine|Isoleucyl-Arginine Formula: C12H25N5O3"	288.20301	8.60	9.10	12
+Unk#844	H-	-	"By mass: D-Sedoheptulose 7-phosphate|Sedoheptulose 1-phosphate Formula: C7H15O10P"	289.03301	12.60	12.90	7
+Unk#845	H+	+	"By mass: Ophthalmic acid Formula: C11H19N3O6"	290.13466	6.80	7.30	11
+Unk#846	H+	+	"By mass: Chloropyramine Formula: C16H20ClN3"	290.14184	6.50	6.90	16
+Unk#847	H+	+	"By mass: Chloropyramine Formula: C16H20ClN3"	290.14184	0.90	1.10	16
+Unk#848	H-	-	"By mass: [6]-Gingerdione|Isotrichodermin|(3beta,6beta)-Furanoeremophilane-3,6-diol 6-acetate|6-Hydroxyshogaol|Acetylbalchanolide|9-Acetoxyfukinanolide|Acetylvalerenolic acid Formula: C17H24O4"	291.16017	0.80	1.10	17
+Unk#849	H-	-	"By mass: N-(1-Deoxy-1-fructosyl)isoleucine|N-(1-Deoxy-1-fructosyl)leucine Formula: C12H23NO7"	292.14017	7.00	7.50	12
+Unk#850	H+	+	"By mass: Penbutolol Formula: C18H29NO2"	292.22709	1.00	1.20	18
+Unk#851	H-	-	"By mass: Distichonic acid B|Distichonic acid A Formula: C10H18N2O8"	293.09903	10.80	11.10	10
+Unk#852	H+	+	"By mass: [6]-Gingerdione|Isotrichodermin|(3beta,6beta)-Furanoeremophilane-3,6-diol 6-acetate|6-Hydroxyshogaol|Acetylbalchanolide|9-Acetoxyfukinanolide|Acetylvalerenolic acid Formula: C17H24O4"	293.17473	0.90	1.10	17
+Unk#853	H+	+	"By mass: N-(1-Deoxy-1-fructosyl)isoleucine|N-(1-Deoxy-1-fructosyl)leucine Formula: C12H23NO7"	294.15472	6.80	7.60	12
+Unk#854	H-	-	"Formula: C18H33NO2"	294.24384	1.00	1.20	18
+Unk#855	H+	+	"By mass: Distichonic acid B|Distichonic acid A Formula: C10H18N2O8"	295.11359	10.80	11.10	10
+Unk#856	H+	+	"By mass: 13-HOTE|(9Z,12Z,14E)-16-Hydroxy-9,12,14-octadecatrienoic acid|2-Hydroxylinolenic acid|Squamostanal A|A-12(13)-EpODE|15,16-Epoxy-9,12-octadecadienoic acid|17-Hydroxylinolenic acid|10-Oxo-11-octadecen-13-olide|15(16)-EpODE|9-OxoODE|12,13-Epoxy-9,15-octadecadienoic acid|9(10)-EpODE|10,13-epoxy-11-methylhexadeca-10,12-dienoic acid|(9S,10E,12Z,15Z)-9-Hydroxy-10,12,15-octadecatrienoic acid|9-HOTE|(2'E,4'Z,8E)-Colneleic acid|12(13)-epoxy-6Z,9Z-octadecadienoic acid|3,4-Dimethyl-5-pentyl-2-furanheptanoic acid|13-OxoODE|Sterebin D Formula: C18H30O3"	295.22676	0.90	1.10	18
+Unk#857	H-	-	"By mass: Avenoleic acid|12,13-EpOME|9-HODE|13S-hydroxyoctadecadienoic acid|(Z)-13-Oxo-9-octadecenoic acid|13-HODE|(10E,12Z)-9-HODE|12-Hydroxy-8,10-octadecadienoic acid|Alpha-dimorphecolic acid|9,10-Epoxyoctadecenoic acid Formula: C18H32O3"	295.22786	0.90	1.10	18
+Unk#858	H-	-	"By mass: Palmitoleoyl Ethanolamide Formula: C18H35NO2"	296.25949	1.00	1.20	18
+Unk#859	H+	+	"By mass: Ovalicin|Methyl dihydrophaseate|3,8-Dihydroxy-6-methoxy-7(11)-eremophilen-12,8-olide Formula: C16H24O5"	297.16964	0.90	1.10	16
+Unk#860	H-	-	"By mass: 10-Oxooctadecanoic acid|5-Hexyltetrahydro-2-furanoctanoic acid|Ricinoleic acid|9,10-epoxyoctadecanoic acid|3-Oxooctadecanoic acid|9-Oxooctadecanoic acid|11-Oxooctadecanoic acid|5-Oxooctadecanoic acid Formula: C18H34O3"	297.24350	0.90	1.00	18
+Unk#861	H-	-	"By mass: Pristanic acid|xi-16-Methyloctadecanoic acid|4-Hydroxy-6-nonadecanone|Isopropyl hexadecanoate|xi-17-Methyloctadecanoic acid|6-Hydroxy-4-nonadecanone|Methyl stearate|Tuberculostearic acid|Nonadecanoic acid Formula: C19H38O2"	297.27989	0.90	1.00	19
+Unk#862	H-	-	"By mass: Chlordiazepoxide Formula: C16H14ClN3O"	298.07526	6.90	7.40	16
+Unk#863	H-	-	"By mass: Chlordiazepoxide Formula: C16H14ClN3O"	298.07526	4.90	5.60	16
+Unk#864	H+	+	"By mass: 5'-Methylthioadenosine Formula: C11H15N5O3S"	298.09683	11.80	13.30	11
+Unk#865	H+	+	"By mass: 2-Methylguanosine|Nelarabine|1-Methylguanosine|3'-O-Methylguanosine Formula: C11H15N5O5"	298.11459	5.30	6.00	11
+Unk#866	H+	+	"By mass: Palmitoleoyl Ethanolamide Formula: C18H35NO2"	298.27404	1.00	1.20	18
+Unk#867	H+	+	"By mass: Palmitoleoyl Ethanolamide Formula: C18H35NO2"	298.27404	2.20	2.40	18
+Unk#868	H-	-	"Formula: C6H8NO7P2S"	298.94240	0.80	0.90	6
+Unk#869	H-	-	"By mass: 9-cis-Retinoic acid|All-trans-retinoic acid|9,13-cis-Retinoate|Dehydroabietic acid|ent-6,16-Kauradien-19-oic acid|13-cis-Retinoic acid|Metandienone|Yucalexin B7|Sugiol|Trilobinol|4-Oxoretinol|4-OH-Retinal|Yucalexin B16 Formula: C20H28O2"	299.20164	0.90	1.10	20
+Unk#870	H+	+	"By mass: 10-Oxooctadecanoic acid|5-Hexyltetrahydro-2-furanoctanoic acid|Ricinoleic acid|9,10-epoxyoctadecanoic acid|3-Oxooctadecanoic acid|9-Oxooctadecanoic acid|11-Oxooctadecanoic acid|5-Oxooctadecanoic acid Formula: C18H34O3"	299.25806	0.80	1.00	18
+Unk#871	H-	-	"By mass: 13-hydroxyoctadecanoic acid|9-hydroxyoctadecanoic acid|xi-10-Hydroxyoctadecanoic acid|12-Hydroxystearic acid|(R)-3-Hydroxy-Octadecanoic acid|2-hydroxystearate Formula: C18H36O3"	299.25915	0.90	1.10	18
+Unk#872	H+	+	"By mass: Marshdine|(Z)-N-Coumaroyl-5-hydroxyanthranilic acid|Avenanthramide G|Avenanthramide 1c Formula: C16H13NO5"	300.08665	6.80	7.40	16
+Unk#873	H-	-	"By mass: Citpressine I|Citrusinine I Formula: C16H15NO5"	300.08774	1.20	1.30	16
+Unk#874	H+	+	"By mass: Chlordiazepoxide Formula: C16H14ClN3O"	300.08981	2.40	2.60	16
+Unk#875	H+	+	"By mass: Palmitoylethanolamide|Sphingosine|3-Dehydrosphinganine Formula: C18H37NO2"	300.28969	1.00	1.20	18
+Unk#876	H+	+	"By mass: Palmitoylethanolamide|Sphingosine|3-Dehydrosphinganine Formula: C18H37NO2"	300.28969	1.20	3.70	18
+Unk#877	H-	-	"By mass: Glycerol tributanoate Formula: C15H26O6"	301.16565	1.00	1.20	15
+Unk#878	H-	-	"By mass: Chlorambucil Formula: C14H19Cl2NO2"	302.07200	10.20	10.40	14
+Unk#879	H+	+	"By mass: Sphinganine Formula: C18H39NO2"	302.30534	2.20	3.10	18
+Unk#880	H-	-	"By mass: Pratenol B Formula: C15H12O7"	303.05102	6.50	6.80	10
+Unk#881	H-	-	"By mass: ent-17-Hydroxy-16beta-kauran-19-al|Mesterolone|Drostanolone|Arachidonate|Arachidonic acid|Sideridiol|7,13-Eperudien-15-oic acid|Cis-8,11,14,17-Eicosatetraenoic acid|Yucalexin P21|Oryzalexin E|Copalic acid|Oryzalexin S|Junicedral Formula: C20H32O2"	303.23294	0.90	1.10	20
+Unk#882	H-	-	"By mass: Cepharadione A Formula: C18H11NO4"	304.06153	10.90	11.50	18
+Unk#883	H-	-	"By mass: Glutathionate(1-) Formula: C10H16N3O6S"	305.06870	14.00	14.30	10
+Unk#884	H-	-	"By mass: dCMP Formula: C9H14N3O7P"	306.04966	11.70	11.90	9
+Unk#885	H-	-	"Formula: C10H17N3O6S"	306.07653	5.60	8.00	10
+Unk#886	H+	+	"By mass: Glutathionate(1-) Formula: C10H16N3O6S"	307.08325	14.00	14.40	10
+Unk#887	H+	+	"By mass: Fluconazole Formula: C13H12F2N6O"	307.11134	6.90	7.30	13
+Unk#888	H-	-	"By mass: ACRL Toxin II|Dihydrocumambrin A|15-Deacetylcalonectrin Formula: C17H24O5"	307.15509	0.90	1.00	17
+Unk#889	H-	-	"By mass: Glycodiazine Formula: C13H15N3O4S"	308.07105	10.90	11.50	13
+Unk#890	H-	-	"By mass: N-Acetyl-a-neuraminic acid|N-Acetylneuraminic acid Formula: C11H19NO9"	308.09870	9.40	9.90	11
+Unk#891	H+	+	"Formula: C20H37NO"	308.29478	1.00	1.20	20
+Unk#892	H+	+	"By mass: ACRL Toxin II|Dihydrocumambrin A|15-Deacetylcalonectrin Formula: C17H24O5"	309.16964	0.80	1.00	17
+Unk#893	H-	-	"By mass: Paullinic acid|5,7-Icosanedione|9Z-eicosenoic acid|Oleyl acetate|Eicosenoic acid|11-Eicosenoic acid|Ethyl oleate|6,8-Icosanedione|4,6-Icosanedione Formula: C20H38O2"	309.27989	0.90	1.00	20
+Unk#894	H+	+	"Formula: C20H40N2"	309.32641	4.60	5.30	20
+Unk#895	H+	+	"By mass: Glycodiazine Formula: C13H15N3O4S"	310.08560	11.90	12.30	13
+Unk#896	H+	+	"By mass: Glycodiazine Formula: C13H15N3O4S"	310.08560	11.00	11.40	13
+Unk#897	H+	+	"By mass: N-Hexadecanoylpyrrolidine Formula: C20H39NO"	310.31042	1.00	1.20	20
+Unk#898	H-	-	"By mass: N-Undecylbenzenesulfonic acid Formula: C17H28O3S"	311.16863	0.70	1.10	17
+Unk#899	H+	+	"By mass: Valdiate|3-Hydroxy-6,8-dimethoxy-7(11)-eremophilen-12,8-olide Formula: C17H26O5"	311.18529	0.90	1.10	17
+Unk#900	H+	+	"By mass: (R)-2-Hydroxysterculic acid Formula: C19H34O3"	311.25806	0.80	0.90	19
+Unk#901	H-	-	"By mass: Ethyl stearate|5-Hydroxy-7-eicosanone|4-Hydroxy-6-eicosanone|3,7R,11R,15-tetramethyl-hexadecanoic acid|Phytanic acid|2,2,6,10,14-Pentamethylpentadecanoic acid|3D,7D,11D-Phytanic acid|3L,7D,11D-Phytanic acid|Arachidic acid Formula: C20H40O2"	311.29554	0.90	1.00	20
+Unk#902	H+	+	"Formula: C18H33NO3"	312.25331	1.00	1.20	18
+Unk#903	H-	-	"By mass: Palmitoylglycine Formula: C18H35NO3"	312.25440	1.10	1.20	18
+Unk#904	H+	+	"Formula: C20H41NO"	312.32607	1.00	1.10	20
+Unk#905	Na+	+	"Formula: C7H15O10P"	313.02950	12.60	12.90	7
+Unk#906	H-	-	"By mass: 5'-Phosphoribosyl-N-formylglycinamide Formula: C8H15N2O9P"	313.04424	11.90	12.20	8
+Unk#907	H+	+	"By mass: Serotinose|2-O-b-D-Galactopyranosyl-D-xylose|4-O-beta-D-Galactopyranosyl-D-xylose|Galactose-beta-1,4-xylose|Sambubiose|3-O-beta-D-Galactopyranosyl-L-arabinose Formula: C11H20O10"	313.11292	13.00	13.20	10
+Unk#908	H+	+	"By mass: 15,16-DiHODE|(�\[PlusMinus])-(E)-13-Hydroxy-10-oxo-11-octadecenoic acid|(10E,12Z)-(9S)-9-Hydroperoxyoctadeca-10,12-dienoic acid|13-L-Hydroperoxylinoleic acid|9,10-DiHODE|11-HpODE|9(S)-HPODE|8(R)-Hydroperoxylinoleic acid|12,13-DiHODE Formula: C18H32O4"	313.23732	0.90	1.10	18
+Unk#909	H-	-	"By mass: Octadecanedioic acid|12,13-DHOME|9,10-DHOME|(9xi,10xi,12xi)-9,10-Dihydroxy-12-octadecenoic acid|Dibutyl decanedioate Formula: C18H34O4"	313.23842	1.00	1.20	18
+Unk#910	H+	+	"By mass: Palmitoylglycine Formula: C18H35NO3"	314.26896	1.00	1.20	18
+Unk#911	H+	+	"By mass: Gibberellin A120|7-[(6-Hydroxy-3,7-dimethyl-2,7-octadienyl)oxy]-2H-1-benzopyran-2-one|Menadiol dibutyrate Formula: C19H22O4"	315.15908	8.80	9.40	19
+Unk#912	H-	-	"By mass: MG(15:0/0:0/0:0)|MG(a-15:0/0:0/0:0)[rac]|MG(i-15:0/0:0/0:0)|MG(0:0/i-15:0/0:0)|(+)-15,16-Dihydroxyoctadecanoic acid|MG(0:0/15:0/0:0)|(9S,10S)-9,10-dihydroxyoctadecanoate|MG(0:0/a-15:0/0:0)[rac] Formula: C18H36O4"	315.25407	1.00	1.20	18
+Unk#913	H+	+	"By mass: Dehydrophytosphingosine Formula: C18H37NO3"	316.28461	2.30	3.00	18
+Unk#914	H+	+	"By mass: Phytosphingosine Formula: C18H39NO3"	318.30025	2.80	3.10	18
+Unk#915	H+	+	"By mass: Flazine methyl ether Formula: C18H14N2O4"	323.10263	11.10	11.40	18
+Unk#916	H+	+	"By mass: 15(S)-Hydroxyeicosatrienoic acid|8-HETrE|12(S)-HETrE|12R-hydroxy-5Z,8Z,12Z-eicosatrienoic acid|12,15-epoxy-13,14-dimethyleicosa-12,14-dienoic acid|10,13-epoxy-11,12-dimethyloctadeca-10,12-dienoic acid|Austroinulin Formula: C20H34O3"	323.25806	0.80	1.00	20
+Unk#917	H+	+	"By mass: Cytidine monophosphate|Cytidine 2'-phosphate Formula: C9H14N3O8P"	324.05913	12.10	12.40	9
+Unk#918	H+	+	"By mass: 6-Chlorocatechin Formula: C15H13ClO6"	325.04734	15.50	16.10	15
+Unk#919	H+	+	"By mass: Dolasetron Formula: C19H20N2O3"	325.15466	4.10	4.70	19
+Unk#920	H+	+	"By mass: Galactosylhydroxylysine Formula: C12H24N2O8"	325.16053	1.00	1.20	12
+Unk#921	H-	-	"By mass: 4-Dodecylbenzenesulfonic Acid|2-Dodecylbenzenesulfonic acid Formula: C18H30O3S"	325.18428	1.60	2.80	18
+Unk#922	H-	-	"By mass: 4-Dodecylbenzenesulfonic Acid|2-Dodecylbenzenesulfonic acid Formula: C18H30O3S"	325.18428	0.70	1.10	18
+Unk#923	H+	+	"By mass: N-Oleoylethanolamine Formula: C20H39NO2"	326.30534	1.00	1.10	20
+Unk#924	H-	-	"Formula: C7H8NO6P2S2"	326.91955	16.30	17.00	7
+Unk#925	H-	-	"By mass: Avocadene 4-acetate|MG(0:0/16:1(9Z)/0:0)|Avocadene 1-acetate|MG(16:1(9Z)/0:0/0:0)|Avocadene 2-acetate Formula: C19H36O4"	327.25407	0.80	0.90	19
+Unk#926	H+	+	"By mass: Tiapride Formula: C15H24N2O4S"	329.15295	1.00	1.20	15
+Unk#927	H+	+	"By mass: Undecanoylcarnitine|4,8 Dimethylnonanoyl carnitine Formula: C18H35NO4"	330.26387	0.90	1.00	18
+Unk#928	H-	-	"By mass: 1-(sn-Glycero-3-phospho)-1D-myo-inositol Formula: C9H19O11P"	333.05922	12.10	12.40	9
+Unk#929	H-	-	"By mass: Penicillin G Formula: C16H18N2O4S"	333.09145	1.90	2.50	16
+Unk#930	H-	-	"By mass: Penicillin G Formula: C16H18N2O4S"	333.09145	1.00	1.20	16
+Unk#931	H+	+	"By mass: 2,4,12-Octadecatrienoic acid isobutylamide Formula: C22H39NO"	334.31042	1.00	1.20	20
+Unk#932	H+	+	"By mass: 1-(sn-Glycero-3-phospho)-1D-myo-inositol Formula: C9H19O11P"	335.07377	12.10	12.40	9
+Unk#933	H+	+	"By mass: Progabide Formula: C17H16ClFN2O2"	335.09570	9.70	10.00	17
+Unk#934	H+	+	"By mass: Penicillin G Formula: C16H18N2O4S"	335.10600	6.40	6.80	16
+Unk#935	H+	+	"By mass: Penicillin G Formula: C16H18N2O4S"	335.10600	1.10	1.20	16
+Unk#936	H+	+	"By mass: Penicillin G Formula: C16H18N2O4S"	335.10600	1.80	2.40	16
+Unk#937	H-	-	"By mass: 15H-11,12-EETA|9alpha-(3-Methylbutanoyloxy)-4S-hydroxy-10(14)-oplopen-3-one|Hepoxilin B3|Prostaglandin A1|8,15-DiHETE|9-Deoxy-delta12-PGD2|Prostaglandin C1|12(S)-Leukotriene B4|5(S),15(R)-DiHETE|(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoic Acid|5(S)-Hydroperoxyeicosatetraenoic acid|10,11-dihydro-12-oxo-LTB4|5,20-DiHETE|5(S),11(R)-DiHETE|Prostaglandin B1|6-trans-Leukotriene B4|ent-1(10)-Halimene-15,19-dioic acid|6-trans-12-epi-Leukotriene B4|5,15-DiHETE|15-HPETE|11(R)-HPETE|Leukotriene B4|8,20-DiHETE|12,20-DiHETE|(14S)-14,15-Dihydroxy-8(17),13(16)-labdadien-19-oic acid|8(S)-HPETE|Hepoxilin A3|5,12-dihydroxy-6,8,10,14-eicosatetraenoic acid|17,18-DiHETE|15(S)-HPETE|10-hydroxy-11S,12S-epoxy-5Z,8Z,14Z-eicosatrienoic acid|12(R)-HPETE|5-HPETE|8-iso-PGA1|11H-14,15-EETA|14,15-DiHETE|6,7-dihydro-5-oxo-12-epi-LTB4|12(S)-HPETE Formula: C20H32O4"	335.22277	1.00	1.20	20
+Unk#938	H-	-	"By mass: Nicotinic acid mononucleotide Formula: C11H16NO9P"	336.04899	16.30	17.10	11
+Unk#939	H+	+	"By mass: Pipericine Formula: C22H41NO"	336.32607	1.00	1.20	22
+Unk#940	H+	+	"By mass: Pipericine Formula: C22H41NO"	336.32607	1.20	1.90	22
+Unk#941	H+	+	"By mass: N2-Fructopyranosylarginine Formula: C12H24N4O7"	337.17177	12.70	13.10	12
+Unk#942	H+	+	"By mass: 3-Methyl-5-pentyl-2-furanundecanoic acid|Pregnanetriol|Isolinderanolide Formula: C21H36O3"	337.27371	0.80	1.00	21
+Unk#943	H-	-	"By mass: 4,6-Docosanedione|6,8-Docosanedione|7,9-Docosanedione|N-butyl Oleate|Catelaidic acid|Erucic acid|5,7-Docosanedione|Cetoleic acid|Phytyl acetate Formula: C22H42O2"	337.31119	0.80	1.00	22
+Unk#944	H-	-	"By mass: Alpha-D-Glucose 1,6-bisphosphate|1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate|1D-Myo-inositol 1,4-bisphosphate|beta-D-Fructose 1,6-bisphosphate|D-Tagatose 1,6-bisphosphate|D-Mannose 1,6-bisphosphate|D-Fructose 2,6-bisphosphate|Fructose 1,6-bisphosphate|1D-Myo-inositol 3,4-bisphosphate|1D-Myo-inositol 1,3-bisphosphate Formula: C6H14O12P2"	338.98877	11.90	12.00	6
+Unk#945	H-	-	"By mass: Alpha-D-Glucose 1,6-bisphosphate|1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate|1D-Myo-inositol 1,4-bisphosphate|beta-D-Fructose 1,6-bisphosphate|D-Tagatose 1,6-bisphosphate|D-Mannose 1,6-bisphosphate|D-Fructose 2,6-bisphosphate|Fructose 1,6-bisphosphate|1D-Myo-inositol 3,4-bisphosphate|1D-Myo-inositol 1,3-bisphosphate Formula: C6H14O12P2"	338.98877	12.60	12.80	6
+Unk#946	H+	+	"By mass: N-Methoxycarbonyl-N-nornuciferine|Litebamine|Papaverine Formula: C20H21NO4"	340.15433	9.90	10.30	20
+Unk#947	H-	-	"By mass: 2,3-dinor-6-oxoprostaglandin F1alpha|2,3-Dinor-6-keto-prostaglandin F1 a|Monic acid|2,3-Dinor-TXB2|(-)-11-Hydroxy-9,15,16-trioxooctadecanoic acid Formula: C18H30O6"	341.19695	0.80	0.90	18
+Unk#948	H+	+	"By mass: Pentamidine Formula: C19H24N4O2"	341.19719	1.00	1.20	19
+Unk#949	H+	+	"By mass: Hydroxygaleon|1,2,3,4-Tetrahydro-1-[1-hydroxy-3-(4-hydroxyphenyl)-2-propenyl]-7-methoxy-2,6-naphthalenediol|7-Hydroxyaustrobailignan 5|Austrobailignan 7 Formula: C20H22O5"	343.15399	9.60	10.00	20
+Unk#950	H+	+	"By mass: 7-(4-Hydroxy-3-methoxyphenyl)-5-methoxy-1-phenyl-3-heptanone Formula: C21H26O4"	343.19038	6.60	7.00	21
+Unk#951	H+	+	"By mass: 7-(4-Hydroxy-3-methoxyphenyl)-5-methoxy-1-phenyl-3-heptanone Formula: C21H26O4"	343.19038	7.10	7.30	21
+Unk#952	H-	-	"By mass: 2'-Deoxyguanosine 5'-monophosphate|Adenosine monophosphate|2-hydroxy-dAMP|Adenosine 2'-phosphate|3'-AMP Formula: C10H14N5O7P"	346.05581	11.00	11.30	10
+Unk#953	H+	+	"By mass: Inosine 2'-phosphate|Inosinic acid|2-O-(6-Phospho-alpha-mannosyl)-D-glycerate Formula: C10H13N4O8P"	349.05438	12.10	12.40	10
+Unk#954	H+	+	"By mass: N2-(2-Carboxymethyl-2-hydroxysuccinoyl)arginine Formula: C12H20N4O8"	349.13538	1.00	1.20	12
+Unk#955	H-	-	"By mass: Tetrahydrocorticosterone|MG(0:0/18:4(6Z,9Z,12Z,15Z)/0:0)|Pregnanetriolone|5a-Tetrahydrocorticosterone|Tetrahydrodeoxycortisol|(S)-[10]-Gingerol|MG(18:4(6Z,9Z,12Z,15Z)/0:0/0:0) Formula: C21H34O4"	349.23842	0.80	0.90	21
+Unk#956	H+	+	"By mass: S-(Formylmethyl)glutathione Formula: C12H19N3O7S"	350.10164	9.10	9.60	12
+Unk#957	H+	+	"By mass: Coutaric acid Formula: C18H27N3O4"	350.20742	0.80	1.00	18
+Unk#958	H+	+	"By mass: Penicilloic acid Formula: C16H20N2O5S"	353.11656	2.40	2.70	16
+Unk#959	H+	+	"By mass: 4-(4-Chlorophenyl)-1-[4-(4-fluorophenyl)-4-oxobutyl]-pyridinium (HPP+) Formula: C21H18ClFNO"	355.11336	6.90	7.40	21
+Unk#960	H-	-	"Formula: C20H47N5"	356.37585	16.30	16.80	20
+Unk#961	H-	-	"By mass: 5,4'-Dihydroxy-3,3'-dimethoxy-6:7-methylenedioxyflavone Formula: C18H14O8"	357.06159	5.80	6.10	18
+Unk#962	H-	-	"By mass: Cilastatin Formula: C16H26N2O5S"	357.14896	0.90	1.10	16
+Unk#963	H+	+	"By mass: Pantetheine 4'-phosphate Formula: C11H23N2O7PS"	359.10363	0.90	1.00	11
+Unk#964	H+	+	"By mass: Cilastatin Formula: C16H26N2O5S"	359.16351	0.90	1.10	16
+Unk#965	Na+	+	"Formula: C12H22O11"	365.10543	11.20	11.60	12
+Unk#966	H-	-	"By mass: 3''-Chloro-3''-deoxytriphasiol Formula: C19H23ClO5"	365.11612	1.60	2.10	19
+Unk#967	H-	-	"By mass: 3''-Chloro-3''-deoxytriphasiol Formula: C19H23ClO5"	365.11612	0.90	1.10	19
+Unk#968	H-	-	"By mass: 7-beta-D-Glucopyranosyloxybutylidenephthalide Formula: C18H22O8"	365.12418	11.60	11.90	18
+Unk#969	H-	-	"By mass: Curcumin II Formula: C22H22O5"	365.13944	0.80	1.00	22
+Unk#970	H+	+	"By mass: N-Linoleoyl GABA Formula: C22H39NO3"	366.30025	1.00	1.20	22
+Unk#971	H-	-	"By mass: N-Oleoyl GABA Formula: C22H41NO3"	366.30135	1.00	1.10	22
+Unk#972	H-	-	"By mass: 3-O-Caffeoyl-4-O-methylquinic acid|3-O-Caffeoyl-1-O-methylquinic acid|3-O-Feruloylquinic acid Formula: C17H20O9"	367.10345	9.40	9.80	17
+Unk#973	H-	-	"By mass: 3-O-Caffeoyl-4-O-methylquinic acid|3-O-Caffeoyl-1-O-methylquinic acid|3-O-Feruloylquinic acid Formula: C17H20O9"	367.10345	9.00	9.40	17
+Unk#974	H+	+	"By mass: 3''-Chloro-3''-deoxytriphasiol Formula: C19H23ClO5"	367.13067	0.90	1.10	19
+Unk#975	H+	+	"By mass: 3''-Chloro-3''-deoxytriphasiol Formula: C19H23ClO5"	367.13067	1.30	2.30	19
+Unk#976	H+	+	"By mass: 7-beta-D-Glucopyranosyloxybutylidenephthalide Formula: C18H22O8"	367.13874	11.50	12.00	18
+Unk#977	H+	+	"By mass: Curcumin II Formula: C22H22O5"	367.15399	0.80	1.00	22
+Unk#978	H+	+	"By mass: N-Oleoyl GABA Formula: C22H41NO3"	368.31590	1.00	1.20	22
+Unk#979	H-	-	"By mass: N-Stearoyl GABA Formula: C22H43NO3"	368.31700	1.00	1.20	22
+Unk#980	H+	+	"Formula: C27H44"	369.35156	0.80	1.00	27
+Unk#981	H+	+	"By mass: N-Stearoyl GABA Formula: C22H43NO3"	370.33155	1.00	1.20	22
+Unk#982	H-	-	"By mass: Hydroxyzine Formula: C21H27ClN2O2"	373.16882	0.80	0.90	21
+Unk#983	H+	+	"By mass: Nabilone|(3R, 6'Z)-3,4-Dihydro-8-hydroxy-3-(6-pentadecenyl)-1H-2-benzopyran-1-one|Cervonoyl ethanolamide Formula: C24H36O3"	373.27371	1.00	1.10	24
+Unk#984	H+	+	"By mass: N-Desmethylzopiclone Formula: C16H15ClN6O3"	375.09669	6.90	7.30	16
+Unk#985	H+	+	"By mass: Kanzonol V Formula: C24H24O4"	377.17473	5.80	6.40	24
+Unk#986	H+	+	"By mass: 6-Deoxy-gamma-mangostin|Garcinone A|(E)-4-(3,7-Dimethyl-2,6-octadienyl)-1,3,5-trihydroxyxanthone|Mangostinone|8-Desoxygartanin Formula: C23H24O5"	381.16964	0.80	1.00	23
+Unk#987	H+	+	"By mass: 5a-Cholesta-8,24-dien-3-one|Cholesta-4,6-dien-3-one|7-Dehydrodesmosterol Formula: C27H42O"	383.33082	0.80	1.80	27
+Unk#988	H+	+	"By mass: Ceftizoxime Formula: C13H13N5O5S2"	384.04309	13.50	13.70	14
+Unk#989	H+	+	"By mass: Persicachrome|Persicaxanthin Formula: C25H36O3"	385.27371	0.80	0.90	25
+Unk#990	H+	+	"By mass: Persicachrome|Persicaxanthin Formula: C25H36O3"	385.27371	0.90	1.10	25
+Unk#991	H+	+	"By mass: Pentadecanoylcarnitine Formula: C22H43NO4"	386.32647	1.00	1.20	22
+Unk#992	H+	+	"By mass: Diphemanil Methylsulfate Formula: C21H27NO4S"	390.17335	1.20	1.30	21
+Unk#993	H+	+	"By mass: Flavoxate Formula: C24H25NO4"	392.18563	0.90	1.00	24
+Unk#994	H-	-	"By mass: (3b,6b,8b,12a)-8,12-Epoxy-7(11)-eremophilene-6-angeloyloxy-8,12-dimethoxy-3-ol|3'-Methoxy-[6]-Gingerdiol 3,5-diacetate Formula: C22H34O6"	393.22825	1.10	1.20	22
+Unk#995	H+	+	"By mass: Loteprednol Formula: C21H27ClO5"	395.16197	11.40	12.10	21
+Unk#996	H+	+	"By mass: Aloesol 7-glucoside|Methyl (3x,4E,10R)-3,10-dihydroxy-4,11-dodecadiene-6,8-diynoate 10-glucoside Formula: C19H24O9"	397.14930	11.70	12.00	19
+Unk#997	H+	+	"By mass: Gartanin|4-(1,1-Dimethyl-2-propenyl)-1,3,5,6-tetrahydroxy-7-prenylxanthone|Curcumin I|BR-Xanthone A|gamma-Mangostin Formula: C23H24O6"	397.16456	12.20	12.80	23
+Unk#998	H+	+	"By mass: Calcidiol|Alfacalcidol|5-Methyl-2,4-bis(3-methyl-2-butenyl)-6-(2-methyl-1-oxopropyl)-5-(4-methyl-3-pentenyl)cyclohexanone|7a-Hydroxy-cholestene-3-one|27alpha-Hydroxy-8-dehydrocholesterol|25-Hydroxytachysterol3|3beta-Hydroxy-5-cholestenal|5,6-trans-25-Hydroxyvitamin D3|(3beta,5alpha,6a)-Cholesta-8,14-diene-3,6-diol|7-Ketocholesterol|5-(12,15-Heneicosadienyl)-1,3-benzenediol|1-Phenyl-1,3-heneicosanedione Formula: C27H44O2"	401.34139	1.00	1.20	27
+Unk#999	H-	-	"By mass: CDP Formula: C9H15N3O11P2"	402.01091	13.30	13.60	9
+Unk#1000	H-	-	"By mass: Uridine 5'-diphosphate Formula: C9H14N2O12P2"	402.99492	12.00	12.20	9
+Unk#1001	H-	-	"By mass: Uridine 5'-diphosphate Formula: C9H14N2O12P2"	402.99492	13.70	14.00	9
+Unk#1002	H-	-	"By mass: Uridine 5'-diphosphate Formula: C9H14N2O12P2"	402.99492	12.80	13.10	9
+Unk#1003	H+	+	"By mass: Uridine 5'-diphosphate Formula: C9H14N2O12P2"	405.00947	12.60	13.00	9
+Unk#1004	H+	+	"By mass: Uridine 5'-diphosphate Formula: C9H14N2O12P2"	405.00947	11.90	12.20	9
+Unk#1005	H+	+	"By mass: Tamsulosin Formula: C20H28N2O5S"	409.17916	0.90	1.00	20
+Unk#1006	H+	+	"By mass: Pteroside A|Pteroside D|Scorzoside Formula: C21H30O8"	411.20133	0.90	1.00	21
+Unk#1007	H-	-	"By mass: LysoPC(10:0) Formula: C18H39NO7P"	411.23912	1.00	1.20	18
+Unk#1008	H+	+	"By mass: O-Desmethylvenlafaxine glucuronide Formula: C20H29NO8"	412.19658	1.10	1.20	20
+Unk#1009	H+	+	"By mass: Garcinone C|1-(2H-1,3-Benzodioxol-5-yl)-2-[2,6-dimethoxy-4-(prop-2-en-1-yl)phenoxy]propyl acetate|Heteroflavanone C Formula: C23H26O7"	415.17512	15.50	15.90	24
+Unk#1010	H+	+	"By mass: Rumexoside Formula: C20H22O10"	423.12857	11.90	12.10	20
+Unk#1011	H+	+	"Formula: C12H18N4O7P2S"	425.04442	11.80	12.00	12
+Unk#1012	Na+	+	"Formula: C9H14N2O12P2"	426.99142	12.60	13.20	9
+Unk#1013	H+	+	"By mass: dGDP|ADP|Adenosine 3',5'-diphosphate Formula: C10H15N5O10P2"	428.03669	11.30	11.50	10
+Unk#1014	H+	+	"By mass: Stearoylcarnitine|O-octadecanoyl-R-carnitine Formula: C25H49NO4"	428.37342	5.00	5.60	25
+Unk#1015	H+	+	"By mass: Garcinone D|1-Isomangostin hydrate|3-Isomangostin hydrate|Edulisin V|Artoflavanone|Heteroflavanone B|3'-(1''-(3-Methylbutanoyl))-angeloyl vaginidiol Formula: C24H28O7"	429.19077	1.10	1.20	24
+Unk#1016	H+	+	"By mass: Rockogenin|7alpha,12alpha,26-trihydroxycholest-4-en-3-one|3beta,7alpha-dihydroxy-5-cholestenoate|Neochlorogenin|3alpha,7beta-dihydroxy-5beta-cholest-24-en-26-oic Acid|1alpha,23(S),25-trihydroxyvitamin D3|4-cholesten-7�\[PlusMinus],12�\[PlusMinus],24-triol-3-one|24-Hydroxycalcitriol|3 beta,7 alpha-Dihydroxy-5-cholestenoate|23S,25,26-Trihydroxyvitamin D3 Formula: C27H44O4"	433.33122	0.80	1.10	27
+Unk#1017	H-	-	"By mass: Momordicinin|Ganoderol A|Thujyl 19-trachylobanoate|alpha,gamma-Onoceradienedione Formula: C30H46O2"	437.34249	1.00	1.10	30
+Unk#1018	H+	+	"By mass: PE(P-16:0e/0:0) Formula: C21H44NO6P"	438.29789	2.30	2.80	21
+Unk#1019	H-	-	"By mass: Astilbin|Phloretin 2'-O-glucuronide|Maesopsin 6-glucoside|Neocarthamin|Miscanthoside Formula: C21H22O11"	449.10893	11.60	11.90	21
+Unk#1020	H+	+	"By mass: LysoPE(16:1(9Z)/0:0)|LysoPE(0:0/16:1(9Z)) Formula: C21H42NO7P"	452.27715	2.30	3.00	21
+Unk#1021	H+	+	"By mass: LysoPE(16:0/0:0)|LysoPE(0:0/16:0) Formula: C21H44NO7P"	454.29280	2.30	2.80	21
+Unk#1022	H+	+	"By mass: Polyporusterone E|Polyporusterone D|(3beta,5alpha,9alpha,14alpha,22E,24R)-3,5,9,14-Tetrahydroxyergosta-7,22-dien-6-one|Polyporusterone G Formula: C28H44O5"	461.32613	1.00	1.20	28
+Unk#1023	H-	-	"By mass: Cholesterol sulfate Formula: C27H46O4S"	465.30439	0.80	0.90	27
+Unk#1024	H+	+	"By mass: LysoPC(14:1(9Z)) Formula: C22H44NO7P"	466.29280	2.40	2.60	22
+Unk#1025	H-	-	"By mass: LysoPE(18:1(9Z)/0:0)|LysoPE(0:0/18:1(11Z))|LysoPE(0:0/18:1(9Z))|LysoPE(18:1(11Z)/0:0) Formula: C23H46NO7P"	478.29390	2.30	2.60	23
+Unk#1026	H+	+	"By mass: Petunidin 3-glucoside|4'-O-Methyldelphinidin 3-O-beta-D-glucoside|Petunidin 3-galactoside Formula: C22H23O12"	480.12622	9.00	9.20	22
+Unk#1027	H+	+	"By mass: LysoPE(18:1(9Z)/0:0)|LysoPE(0:0/18:1(11Z))|LysoPE(0:0/18:1(9Z))|LysoPE(18:1(11Z)/0:0) Formula: C23H46NO7P"	480.30845	2.30	3.00	23
+Unk#1028	H+	+	"By mass: LysoPE(18:1(9Z)/0:0)|LysoPE(0:0/18:1(11Z))|LysoPE(0:0/18:1(9Z))|LysoPE(18:1(11Z)/0:0) Formula: C23H46NO7P"	480.30845	1.30	1.40	23
+Unk#1029	H-	-	"By mass: Melleolide D Formula: C24H31ClO8"	481.16346	10.30	10.60	24
+Unk#1030	H-	-	"By mass: Cytidine triphosphate Formula: C9H16N3O14P3"	481.97724	14.10	14.40	9
+Unk#1031	H+	+	"By mass: LysoPE(0:0/18:0)|LysoPC(15:0)|LysoPE(18:0/0:0) Formula: C23H48NO7P"	482.32410	2.30	2.80	23
+Unk#1032	H-	-	"By mass: Uridine triphosphate Formula: C9H15N2O15P3"	482.96125	13.70	14.10	9
+Unk#1033	H+	+	"By mass: Uridine triphosphate Formula: C9H15N2O15P3"	484.97581	13.70	14.00	9
+Unk#1034	H+	+	"By mass: LysoPC(16:1(9Z)) Formula: C24H48NO7P"	494.32410	2.20	2.50	24
+Unk#1035	H+	+	"By mass: LysoPC(16:1(9Z)) Formula: C24H48NO7P"	494.32410	1.20	1.50	24
+Unk#1036	H+	+	"By mass: LysoPC(16:0) Formula: C24H50NO7P"	496.33975	1.20	1.50	24
+Unk#1037	H+	+	"By mass: LysoPC(16:0) Formula: C24H50NO7P"	496.33975	2.20	2.50	24
+Unk#1038	H+	+	"By mass: 3,5-Di-O-galloyl-1,4-galactarolactone Formula: C20H16O15"	497.05620	7.70	8.20	20
+Unk#1039	H-	-	"By mass: Methyl 4,6-di-O-galloyl-beta-D-glucopyranoside Formula: C21H22O14"	497.09367	10.90	11.20	21
+Unk#1040	H+	+	"By mass: 6beta-Hydroxyasiatic acid|Myrianthic acid|(1beta,2alpha,3alpha)-1,2,3,24-Tetrahydroxy-12-oleanen-28-oic acid|Theasapogenol E|Cyclopassifloic acid D|Protobassic acid|Isothankunic acid|(3beta,19alpha)-3,19,23,24-Tetrahydroxy-12-oleanen-28-oic acid|Tomentosic acid Formula: C30H48O6"	505.35235	1.00	1.20	30
+Unk#1041	H+	+	"By mass: Ganoderiol G Formula: C31H52O5"	505.38873	1.00	1.20	31
+Unk#1042	H+	+	"By mass: 1-octadecylglycero-3-phosphocholine|LysoPC(O-18:0) Formula: C26H56NO6P"	510.39178	2.30	2.40	26
+Unk#1043	H+	+	"By mass: LysoPC(18:2(9Z,12Z))|2-linoleoyl-sn-glycero-3-phosphocholine Formula: C26H50NO7P"	520.33975	2.30	2.60	26
+Unk#1044	H+	+	"By mass: LysoPC(18:1(9Z))|2-oleoyl-sn-glycero-3-phosphocholine|LysoPC(18:1(11Z)) Formula: C26H52NO7P"	522.35540	2.20	2.50	26
+Unk#1045	H+	+	"By mass: LysoPC(18:1(9Z))|2-oleoyl-sn-glycero-3-phosphocholine|LysoPC(18:1(11Z)) Formula: C26H52NO7P"	522.35540	1.20	1.50	26
+Unk#1046	H+	+	"By mass: 1-Stearoylglycerophosphoserine Formula: C24H46NO9P"	524.29828	2.30	2.80	24
+Unk#1047	H+	+	"By mass: LysoPC(18:0)|LysoPC(0:0/18:0)|2-acetyl-1-alkyl-sn-glycero-3-phosphocholine Formula: C26H54NO7P"	524.37105	2.30	2.60	26
+Unk#1048	H+	+	"By mass: LysoPE(22:5(7Z,10Z,13Z,16Z,19Z)/0:0)|LysoPE(22:5(4Z,7Z,10Z,13Z,16Z)/0:0)|LysoPE(0:0/22:5(7Z,10Z,13Z,16Z,19Z))|LysoPE(0:0/22:5(4Z,7Z,10Z,13Z,16Z)) Formula: C27H46NO7P"	528.30845	2.30	2.60	27
+Unk#1049	H-	-	"By mass: Ceramide (d18:1/16:0)|N-Palmitoylsphingosine Formula: C34H67NO3"	536.50479	1.00	1.10	34
+Unk#1050	H+	+	"By mass: Ceramide (d18:1/16:0)|N-Palmitoylsphingosine Formula: C34H67NO3"	538.51934	1.00	1.10	34
+Unk#1051	H-	-	"By mass: Lithocholate 3-O-glucuronide Formula: C30H48O9"	551.32254	16.60	16.80	30
+Unk#1052	H+	+	"By mass: Ceftriaxone Formula: C18H18N8O7S3"	555.05333	7.50	8.10	18
+Unk#1053	H+	+	"Formula: C11H13NO17P2S2"	557.91730	1.00	1.20	11
+Unk#1054	H-	-	"By mass: Hordatine A Formula: C28H38N8O5"	565.28923	15.60	15.80	28
+Unk#1055	H+	+	"By mass: Cohibin C|Cohibin D Formula: C37H68O4"	577.51901	0.80	1.00	37
+Unk#1056	H-	-	"By mass: Uridine diphosphate glucuronic acid|UDP-L-iduronate|UDP-D-galacturonate Formula: C15H22N2O18P2"	579.02701	14.60	14.90	15
+Unk#1057	H-	-	"By mass: 1-Oleoylglycerophosphoinositol Formula: C27H51O12P"	597.30452	2.30	2.50	27
+Unk#1058	H-	-	"By mass: 1-Stearoylglycerophosphoinositol|1-stearoyl-sn-glycero-3-phospho-1D-myo-inositol|2-Stearoylglycerophosphoinositol Formula: C27H53O12P"	599.32017	2.30	2.50	27
+Unk#1059	H+	+	"Formula: C44H88"	617.69584	14.60	15.10	44
+Unk#1060	H-	-	"By mass: 26-Glucosyl-1,3,11,22-tetrahydroxyergosta-5,24-dien-26-oate Formula: C34H54O11"	637.35932	0.80	0.90	34
+Unk#1061	H+	+	"By mass: 9-Oxoasimicinone Formula: C37H64O8"	637.46737	1.00	1.20	37
+Unk#1062	H+	+	"Formula: C41H91N6"	668.73776	16.30	16.70	45
+Unk#1063	H+	+	"By mass: PE(P-16:0/16:1(9Z))|PE(14:1(9Z)/P-18:0)|PE(P-18:1(11Z)/14:0)|PE(14:0/P-18:1(11Z))|PE(16:1(9Z)/P-16:0)|PE(P-18:1(9Z)/14:0)|PE(P-18:0/14:1(9Z))|PE(14:0/P-18:1(9Z)) Formula: C37H72NO7P"	674.51189	2.30	2.60	37
+Unk#1064	H+	+	"By mass: PE(P-16:0/16:1(9Z))|PE(14:1(9Z)/P-18:0)|PE(P-18:1(11Z)/14:0)|PE(14:0/P-18:1(11Z))|PE(16:1(9Z)/P-16:0)|PE(P-18:1(9Z)/14:0)|PE(P-18:0/14:1(9Z))|PE(14:0/P-18:1(9Z)) Formula: C37H72NO7P"	674.51189	1.00	1.20	37
+Unk#1065	H+	+	"By mass: SM(d18:1/14:0) Formula: C37H75N2O6P"	675.54352	2.30	2.80	37
+Unk#1066	H+	+	"By mass: SM(d18:1/14:0) Formula: C37H75N2O6P"	675.54352	1.20	1.50	37
+Unk#1067	H+	+	"By mass: PE(16:0/15:0)|PE(15:0/16:0)|PC(14:0/14:0) Formula: C36H72NO8P"	678.50680	1.20	1.30	36
+Unk#1068	H-	-	"Formula: C44H95N4"	678.74836	16.40	16.60	44
+Unk#1069	H-	-	"Formula: C48H95N"	684.73913	16.30	16.70	48
+Unk#1070	H+	+	"By mass: PE(14:1(9Z)/18:0)|PC(15:0/14:1(9Z))|PE(18:1(9Z)/14:0)|PE(16:1(9Z)/16:0)|PE(14:0/18:1(9Z))|PE(16:0/16:1(9Z))|PE(14:0/18:1(11Z))|PC(14:1(9Z)/15:0)|PE(18:0/14:1(9Z))|PE(18:1(11Z)/14:0) Formula: C37H72NO8P"	690.50680	2.10	2.50	37
+Unk#1071	H+	+	"By mass: PC(o-14:0/16:0) Formula: C38H78NO7P"	692.55884	1.10	1.80	38
+Unk#1072	H-	-	"Formula: C49H94O"	697.72315	16.40	16.60	49
+Unk#1073	H+	+	"By mass: SM(d18:0/16:1(9Z))|Palmitoyl sphingomyelin Formula: C39H79N2O6P"	703.57482	2.30	6.00	39
+Unk#1074	H+	+	"By mass: SM(d18:0/16:1(9Z))|Palmitoyl sphingomyelin Formula: C39H79N2O6P"	703.57482	1.20	2.30	39
+Unk#1075	H+	+	"By mass: PE(15:0/18:1(9Z))|PC(16:1(9Z)/14:0)|PE(15:0/18:1(11Z))|PC(16:0/14:1(9Z))|PE(18:1(9Z)/15:0)|PC(14:0/16:1(9Z))|PE(18:1(11Z)/15:0)|PC(14:1(9Z)/16:0) Formula: C38H74NO8P"	704.52245	2.30	3.00	38
+Unk#1076	H+	+	"By mass: PE(15:0/18:1(9Z))|PC(16:1(9Z)/14:0)|PE(15:0/18:1(11Z))|PC(16:0/14:1(9Z))|PE(18:1(9Z)/15:0)|PC(14:0/16:1(9Z))|PE(18:1(11Z)/15:0)|PC(14:1(9Z)/16:0) Formula: C38H74NO8P"	704.52245	1.10	1.80	38
+Unk#1077	H+	+	"By mass: PE-NMe(16:0/16:0)|PE(18:0/15:0)|PC(14:0/16:0)|PC(15:0/15:0)|PC(16:0/14:0)|PE(15:0/18:0) Formula: C38H76NO8P"	706.53810	1.10	1.40	38
+Unk#1078	H-	-	"Formula: C49H94N2"	709.73438	16.30	16.70	49
+Unk#1079	H+	+	"Formula: C45H98N5"	709.78946	15.20	15.50	45
+Unk#1080	H+	+	"Formula: C49H97N2"	714.77241	16.30	16.80	48
+Unk#1081	H+	+	"Formula: C50H100N"	715.79281	16.40	16.70	50
+Unk#1082	H-	-	"By mass: PE(18:1(11Z)/16:0)|PE(16:1(9Z)/18:0)|PC(15:0/16:1(9Z))|PE(20:0/14:1(9Z))|PE(16:0/18:1(9Z))|PE(16:0/18:1(11Z))|PE(20:1(11Z)/14:0)|PE(18:1(9Z)/16:0)|PE(14:1(9Z)/20:0)|PE(18:0/16:1(9Z))|PE(14:0/20:1(11Z))|PC(16:1(9Z)/15:0) Formula: C39H76NO8P"	716.52355	1.00	1.20	39
+Unk#1083	H-	-	"By mass: PG(16:1(9Z)/16:1(9Z)) Formula: C38H71O10P"	717.47118	0.80	0.90	38
+Unk#1084	H+	+	"By mass: PC(P-18:0/14:0)|PC(P-16:0/16:0)|PC(16:0/P-16:0)|PC(14:0/P-18:0)|PC(o-16:0/16:1(9Z)) Formula: C40H80NO7P"	718.57449	1.10	2.80	40
+Unk#1085	H+	+	"Formula: C49H101N2"	718.80371	16.50	16.90	49
+Unk#1086	H+	+	"By mass: PG(16:0/16:1(9Z))|PG(16:1(9Z)/16:0) Formula: C38H73O10P"	721.50139	0.80	1.00	38
+Unk#1087	H-	-	"By mass: PE(20:4(8Z,11Z,14Z,17Z)/P-16:0)|PE(P-16:0/20:4(8Z,11Z,14Z,17Z))|PE(P-18:1(9Z)/18:3(9Z,12Z,15Z))|PE(P-16:0/20:4(5Z,8Z,11Z,14Z))|PE(18:4(6Z,9Z,12Z,15Z)/P-18:0)|PE(20:4(5Z,8Z,11Z,14Z)/P-16:0)|PE(P-18:1(11Z)/18:3(6Z,9Z,12Z))|PE(P-18:1(9Z)/18:3(6Z,9Z,12Z))|PE(P-18:0/18:4(6Z,9Z,12Z,15Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(11Z))|PE(P-18:1(11Z)/18:3(9Z,12Z,15Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(11Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(9Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(9Z)) Formula: C41H74NO7P"	722.51299	1.00	1.20	41
+Unk#1088	H-	-	"By mass: PE(20:4(8Z,11Z,14Z,17Z)/P-16:0)|PE(P-16:0/20:4(8Z,11Z,14Z,17Z))|PE(P-18:1(9Z)/18:3(9Z,12Z,15Z))|PE(P-16:0/20:4(5Z,8Z,11Z,14Z))|PE(18:4(6Z,9Z,12Z,15Z)/P-18:0)|PE(20:4(5Z,8Z,11Z,14Z)/P-16:0)|PE(P-18:1(11Z)/18:3(6Z,9Z,12Z))|PE(P-18:1(9Z)/18:3(6Z,9Z,12Z))|PE(P-18:0/18:4(6Z,9Z,12Z,15Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(11Z))|PE(P-18:1(11Z)/18:3(9Z,12Z,15Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(11Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(9Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(9Z)) Formula: C41H74NO7P"	722.51299	2.10	2.30	41
+Unk#1089	H+	+	"By mass: PE(20:4(8Z,11Z,14Z,17Z)/P-16:0)|PE(P-16:0/20:4(8Z,11Z,14Z,17Z))|PE(P-18:1(9Z)/18:3(9Z,12Z,15Z))|PE(P-16:0/20:4(5Z,8Z,11Z,14Z))|PE(18:4(6Z,9Z,12Z,15Z)/P-18:0)|PE(20:4(5Z,8Z,11Z,14Z)/P-16:0)|PE(P-18:1(11Z)/18:3(6Z,9Z,12Z))|PE(P-18:1(9Z)/18:3(6Z,9Z,12Z))|PE(P-18:0/18:4(6Z,9Z,12Z,15Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(11Z))|PE(P-18:1(11Z)/18:3(9Z,12Z,15Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(11Z))|PE(18:3(6Z,9Z,12Z)/P-18:1(9Z))|PE(18:3(9Z,12Z,15Z)/P-18:1(9Z)) Formula: C41H74NO7P"	724.52754	1.90	2.60	41
+Unk#1090	H+	+	"Formula: C51H99N"	726.78499	16.50	16.70	51
+Unk#1091	H+	+	"By mass: Spirolide F Formula: C43H69NO8"	728.50957	1.00	1.10	43
+Unk#1092	H+	+	"By mass: PE(15:0/20:2(11Z,14Z))|PC(14:0/18:2(9Z,12Z))|PC(18:2(9Z,12Z)/14:0)|PC(14:1(9Z)/18:1(9Z))|PC(14:1(9Z)/18:1(11Z))|PC(16:1(9Z)/16:1(9Z))|PC(18:1(11Z)/14:1(9Z))|PE(20:2(11Z,14Z)/15:0)|PC(18:1(9Z)/14:1(9Z)) Formula: C40H76NO8P"	730.53810	1.00	1.40	40
+Unk#1093	H+	+	"By mass: PE(15:0/20:2(11Z,14Z))|PC(14:0/18:2(9Z,12Z))|PC(18:2(9Z,12Z)/14:0)|PC(14:1(9Z)/18:1(9Z))|PC(14:1(9Z)/18:1(11Z))|PC(16:1(9Z)/16:1(9Z))|PC(18:1(11Z)/14:1(9Z))|PE(20:2(11Z,14Z)/15:0)|PC(18:1(9Z)/14:1(9Z)) Formula: C40H76NO8P"	730.53810	2.00	2.50	40
+Unk#1094	H+	+	"By mass: PE(15:0/20:1(11Z))|PC(16:0/16:1(9Z))|PE-NMe(16:0/18:1(9Z))|PC(16:1(9Z)/16:0)|PC(14:1(9Z)/18:0)|PC(14:0/18:1(11Z))|PC(18:1(9Z)/14:0)|PE(20:1(11Z)/15:0)|PC(18:0/14:1(9Z))|PC(18:1(11Z)/14:0)|PC(14:0/18:1(9Z)) Formula: C40H78NO8P"	732.55375	2.00	2.60	40
+Unk#1095	H+	+	"By mass: PE(15:0/20:1(11Z))|PC(16:0/16:1(9Z))|PE-NMe(16:0/18:1(9Z))|PC(16:1(9Z)/16:0)|PC(14:1(9Z)/18:0)|PC(14:0/18:1(11Z))|PC(18:1(9Z)/14:0)|PE(20:1(11Z)/15:0)|PC(18:0/14:1(9Z))|PC(18:1(11Z)/14:0)|PC(14:0/18:1(9Z)) Formula: C40H78NO8P"	732.55375	1.00	1.40	40
+Unk#1096	H+	+	"By mass: PS(16:1(9Z)/16:0)|PS(14:1(9Z)/18:0)|PS(18:0/14:1(9Z))|PS(18:1(9Z)/14:0)|PS(16:0/16:1(9Z))|PS(14:0/18:1(9Z)) Formula: C38H72NO10P"	734.49663	2.30	3.10	38
+Unk#1097	H+	+	"By mass: PE(18:1(9Z)/18:3(9Z,12Z,15Z))|PE(20:4(8Z,11Z,14Z,17Z)/16:0)|PE(20:4(5Z,8Z,11Z,14Z)/16:0)|PE(18:4(6Z,9Z,12Z,15Z)/18:0)|PE(14:0/22:4(7Z,10Z,13Z,16Z))|PE(22:4(7Z,10Z,13Z,16Z)/14:0)|PE(18:1(11Z)/18:3(9Z,12Z,15Z))|PE(18:3(9Z,12Z,15Z)/18:1(11Z))|PE(16:0/20:4(8Z,11Z,14Z,17Z))|PE(18:3(6Z,9Z,12Z)/18:1(11Z))|PE(16:1(9Z)/20:3(5Z,8Z,11Z))|PE(18:3(6Z,9Z,12Z)/18:1(9Z))|PE(18:3(9Z,12Z,15Z)/18:1(9Z))|PE(20:3(5Z,8Z,11Z)/16:1(9Z))|PC(18:4(6Z,9Z,12Z,15Z)/15:0)|PC(15:0/18:4(6Z,9Z,12Z,15Z))|PE(18:1(11Z)/18:3(6Z,9Z,12Z))|PE(20:3(8Z,11Z,14Z)/16:1(9Z))|PE(16:0/20:4(5Z,8Z,11Z,14Z))|PE(18:1(9Z)/18:3(6Z,9Z,12Z))|PE(18:0/18:4(6Z,9Z,12Z,15Z))|PE(18:2(9Z,12Z)/18:2(9Z,12Z)) Formula: C41H74NO8P"	740.52245	1.00	1.20	41
+Unk#1098	H-	-	"Formula: C21H28N7O17P3"	742.06817	13.60	13.80	21
+Unk#1099	H+	+	"By mass: PE(18:1(9Z)/18:1(9Z))|PE(18:1(11Z)/18:1(9Z))|PE(18:1(9Z)/18:1(11Z))|PE(16:0/20:2(11Z,14Z))|PE(18:1(11Z)/18:1(11Z))|PE(14:0/22:2(13Z,16Z))|PE(18:0/18:2(9Z,12Z))|PE(18:2(9Z,12Z)/18:0)|PE(20:2(11Z,14Z)/16:0)|PE(22:1(13Z)/14:1(9Z))|PE(16:1(9Z)/20:1(11Z))|PE(14:1(9Z)/22:1(13Z))|PC(15:0/18:2(9Z,12Z))|PE(20:1(11Z)/16:1(9Z))|PE(22:2(13Z,16Z)/14:0)|PC(18:2(9Z,12Z)/15:0) Formula: C41H78NO8P"	744.55375	1.00	1.20	41
+Unk#1100	H-	-	"By mass: PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(11Z))|PE(O-16:1(1Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(9Z))|PE(P-18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))|PE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/P-16:0)|PE(P-18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)) Formula: C43H74NO7P"	746.51299	1.00	1.20	43
+Unk#1101	H+	+	"By mass: PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(11Z))|PE(O-16:1(1Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(9Z))|PE(P-18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))|PE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/P-16:0)|PE(P-18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)) Formula: C43H74NO7P"	748.52754	1.00	1.20	43
+Unk#1102	H+	+	"By mass: PG(16:0/18:1(9Z))|PG(18:0/16:1(9Z))|PG(18:1(11Z)/16:0)|PG(16:0/18:1(11Z))|PG(18:1(9Z)/16:0)|PG(16:1(9Z)/18:0) Formula: C40H77O10P"	749.53268	0.80	1.00	40
+Unk#1103	H+	+	"By mass: PE(P-18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PE(P-18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:0)|PE(P-18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PE(P-18:0/20:5(5Z,8Z,11Z,14Z,17Z))|PE(22:5(4Z,7Z,10Z,13Z,16Z)/P-16:0)|PE(20:4(8Z,11Z,14Z,17Z)/P-18:1(11Z))|PE(P-18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PE(20:4(5Z,8Z,11Z,14Z)/P-18:1(9Z))|PE(P-16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PE(20:4(5Z,8Z,11Z,14Z)/P-18:1(11Z))|PE(22:5(7Z,10Z,13Z,16Z,19Z)/P-16:0)|PE(P-16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PE(20:4(8Z,11Z,14Z,17Z)/P-18:1(9Z)) Formula: C43H76NO7P"	750.54319	1.00	1.20	43
+Unk#1104	H+	+	"By mass: PE(P-18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PE(P-18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PE(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:0)|PE(P-18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PE(P-18:0/20:5(5Z,8Z,11Z,14Z,17Z))|PE(22:5(4Z,7Z,10Z,13Z,16Z)/P-16:0)|PE(20:4(8Z,11Z,14Z,17Z)/P-18:1(11Z))|PE(P-18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PE(20:4(5Z,8Z,11Z,14Z)/P-18:1(9Z))|PE(P-16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PE(20:4(5Z,8Z,11Z,14Z)/P-18:1(11Z))|PE(22:5(7Z,10Z,13Z,16Z,19Z)/P-16:0)|PE(P-16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PE(20:4(8Z,11Z,14Z,17Z)/P-18:1(9Z)) Formula: C43H76NO7P"	750.54319	1.80	2.60	43
+Unk#1105	H+	+	"By mass: PE(20:3(8Z,11Z,14Z)/P-18:1(11Z))|PE(P-18:1(11Z)/20:3(5Z,8Z,11Z))|PE(P-18:0/20:4(8Z,11Z,14Z,17Z))|PE(20:4(8Z,11Z,14Z,17Z)/P-18:0)|PE(20:3(8Z,11Z,14Z)/P-18:1(9Z))|PE(O-18:1(1Z)/20:4(5Z,8Z,11Z,14Z))|PE(P-16:0/22:4(7Z,10Z,13Z,16Z))|PE(P-18:1(11Z)/20:3(8Z,11Z,14Z))|PE(20:3(5Z,8Z,11Z)/P-18:1(9Z))|PE(22:4(7Z,10Z,13Z,16Z)/P-16:0)|PE(20:3(5Z,8Z,11Z)/P-18:1(11Z))|PE(P-18:1(9Z)/20:3(5Z,8Z,11Z))|PE(20:4(5Z,8Z,11Z,14Z)/P-18:0) Formula: C43H78NO7P"	752.55884	1.00	1.20	43
+Unk#1106	H-	-	"By mass: Labadoside Formula: C38H42O16"	753.24000	11.70	11.80	38
+Unk#1107	H+	+	"By mass: PC(20:4(5Z,8Z,11Z,14Z)/14:0)|PC(16:1(9Z)/18:3(9Z,12Z,15Z))|PC(14:0/20:4(5Z,8Z,11Z,14Z))|PC(16:0/18:4(6Z,9Z,12Z,15Z))|PC(16:1(9Z)/18:3(6Z,9Z,12Z))|PE(15:0/22:4(7Z,10Z,13Z,16Z))|PC(20:3(8Z,11Z,14Z)/14:1(9Z))|PC(14:0/20:4(8Z,11Z,14Z,17Z))|PC(18:4(6Z,9Z,12Z,15Z)/16:0)|PC(18:3(9Z,12Z,15Z)/16:1(9Z))|PC(20:4(8Z,11Z,14Z,17Z)/14:0)|PE(22:4(7Z,10Z,13Z,16Z)/15:0)|PC(20:3(5Z,8Z,11Z)/14:1(9Z))|PC(14:1(9Z)/20:3(5Z,8Z,11Z))|PC(14:1(9Z)/20:3(8Z,11Z,14Z))|PC(18:3(6Z,9Z,12Z)/16:1(9Z)) Formula: C42H76NO8P"	754.53810	1.10	1.30	40
+Unk#1108	H+	+	"By mass: PC(18:3(6Z,9Z,12Z)/16:0)|PC(20:3(5Z,8Z,11Z)/14:0)|PC(20:3(8Z,11Z,14Z)/14:0)|PC(18:2(9Z,12Z)/16:1(9Z))|PC(16:0/18:3(9Z,12Z,15Z))|PC(18:3(9Z,12Z,15Z)/16:0)|PC(16:1(9Z)/18:2(9Z,12Z))|PC(16:0/18:3(6Z,9Z,12Z))|PC(14:1(9Z)/20:2(11Z,14Z))|PC(20:2(11Z,14Z)/14:1(9Z))|PC(14:0/20:3(8Z,11Z,14Z))|PC(14:0/20:3(5Z,8Z,11Z)) Formula: C42H78NO8P"	756.55375	2.00	2.50	42
+Unk#1109	H+	+	"By mass: PC(18:3(6Z,9Z,12Z)/16:0)|PC(20:3(5Z,8Z,11Z)/14:0)|PC(20:3(8Z,11Z,14Z)/14:0)|PC(18:2(9Z,12Z)/16:1(9Z))|PC(16:0/18:3(9Z,12Z,15Z))|PC(18:3(9Z,12Z,15Z)/16:0)|PC(16:1(9Z)/18:2(9Z,12Z))|PC(16:0/18:3(6Z,9Z,12Z))|PC(14:1(9Z)/20:2(11Z,14Z))|PC(20:2(11Z,14Z)/14:1(9Z))|PC(14:0/20:3(8Z,11Z,14Z))|PC(14:0/20:3(5Z,8Z,11Z)) Formula: C42H78NO8P"	756.55375	1.10	1.30	42
+Unk#1110	H-	-	"By mass: PS(16:0/18:2(9Z,12Z))|PS(18:1(9Z)/16:1(9Z))|PS(16:1(9Z)/18:1(9Z))|PS(18:2(9Z,12Z)/16:0) Formula: C40H74NO10P"	758.49773	1.00	1.20	40
+Unk#1111	H-	-	"By mass: PS(16:0/18:2(9Z,12Z))|PS(18:1(9Z)/16:1(9Z))|PS(16:1(9Z)/18:1(9Z))|PS(18:2(9Z,12Z)/16:0) Formula: C40H74NO10P"	758.49773	2.30	2.60	40
+Unk#1112	H+	+	"By mass: PE(15:0/22:2(13Z,16Z))|PC(18:1(11Z)/16:1(9Z))|PC(14:1(9Z)/20:1(11Z))|PC(20:2(11Z,14Z)/14:0)|PE-NMe(18:1(9Z)/18:1(9Z))|PC(18:2(9Z,12Z)/16:0)|PC(18:1(9Z)/16:1(9Z))|PC(14:0/20:2(11Z,14Z))|PC(16:0/18:2(9Z,12Z))|PC(16:1(9Z)/18:1(11Z))|PC(16:1(9Z)/18:1(9Z))|PE(22:2(13Z,16Z)/15:0)|PC(20:1(11Z)/14:1(9Z)) Formula: C42H80NO8P"	758.56940	1.10	6.30	42
+Unk#1113	H+	+	"Formula: C51H103N3"	758.82243	16.50	16.90	51
+Unk#1114	H+	+	"By mass: PS(16:0/18:2(9Z,12Z))|PS(18:1(9Z)/16:1(9Z))|PS(16:1(9Z)/18:1(9Z))|PS(18:2(9Z,12Z)/16:0) Formula: C40H74NO10P"	760.51228	2.30	2.70	40
+Unk#1115	H+	+	"By mass: PC(16:0/18:1(11Z))|PC(18:0/16:1(9Z))|PC(20:1(11Z)/14:0)|PE(15:0/22:1(13Z))|PC(16:1(9Z)/18:0)|PC(18:1(11Z)/16:0)|PC(14:1(9Z)/20:0)|PC(18:1(9Z)/16:0)|PC(14:0/20:1(11Z))|PC(20:0/14:1(9Z))|PC(16:0/18:1(9Z))|PE(22:1(13Z)/15:0) Formula: C42H82NO8P"	760.58505	1.00	7.10	42
+Unk#1116	H+	+	"By mass: PS(18:0/16:1(9Z))|PS(16:1(9Z)/18:0)|PS(16:0/18:1(9Z))|PS(18:1(9Z)/16:0) Formula: C40H76NO10P"	762.52793	1.00	1.10	40
+Unk#1117	H+	+	"By mass: PS(18:0/16:1(9Z))|PS(16:1(9Z)/18:0)|PS(16:0/18:1(9Z))|PS(18:1(9Z)/16:0) Formula: C40H76NO10P"	762.52793	0.80	0.90	40
+Unk#1118	H+	+	"By mass: PS(18:0/16:1(9Z))|PS(16:1(9Z)/18:0)|PS(16:0/18:1(9Z))|PS(18:1(9Z)/16:0) Formula: C40H76NO10P"	762.52793	1.20	1.70	40
+Unk#1119	H+	+	"By mass: PS(18:0/16:1(9Z))|PS(16:1(9Z)/18:0)|PS(16:0/18:1(9Z))|PS(18:1(9Z)/16:0) Formula: C40H76NO10P"	762.52793	2.30	4.40	40
+Unk#1120	H+	+	"By mass: PS(16:0/18:0)|PS(18:0/16:0) Formula: C40H78NO10P"	764.54358	0.80	1.00	40
+Unk#1121	H+	+	"By mass: PE(20:4(8Z,11Z,14Z,17Z)/18:1(9Z))|PE(16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(15:0/20:5(5Z,8Z,11Z,14Z,17Z))|PE(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))|PE(20:1(11Z)/18:4(6Z,9Z,12Z,15Z))|PE(18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PE(20:4(8Z,11Z,14Z,17Z)/18:1(11Z))|PE(20:3(8Z,11Z,14Z)/18:2(9Z,12Z))|PE(20:2(11Z,14Z)/18:3(9Z,12Z,15Z))|PE(22:5(4Z,7Z,10Z,13Z,16Z)/16:0)|PE(20:3(5Z,8Z,11Z)/18:2(9Z,12Z))|PE(22:5(7Z,10Z,13Z,16Z,19Z)/16:0)|PC(20:5(5Z,8Z,11Z,14Z,17Z)/15:0)|PE(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))|PE(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))|PE(20:2(11Z,14Z)/18:3(6Z,9Z,12Z))|PE(20:4(5Z,8Z,11Z,14Z)/18:1(9Z))|PE(18:3(6Z,9Z,12Z)/20:2(11Z,14Z))|PE(20:5(5Z,8Z,11Z,14Z,17Z)/18:0)|PE(18:4(6Z,9Z,12Z,15Z)/20:1(11Z))|PE(18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PE(16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PE(18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PE(22:4(7Z,10Z,13Z,16Z)/16:1(9Z))|PE(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))|PE(18:3(9Z,12Z,15Z)/20:2(11Z,14Z))|PE(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PE(18:0/20:5(5Z,8Z,11Z,14Z,17Z)) Formula: C43H76NO8P"	766.53810	1.00	1.20	41
+Unk#1122	H+	+	"Formula: C48H105N6"	766.84730	14.80	15.20	48
+Unk#1123	H+	+	"Formula: C47H102N5O2"	769.81059	16.50	16.90	47
+Unk#1124	H-	-	"By mass: PG(18:3(9Z,12Z,15Z)/18:0)|PG(16:0/20:3(5Z,8Z,11Z))|PG(18:0/18:3(6Z,9Z,12Z))|PG(18:1(11Z)/18:2(9Z,12Z))|PG(16:0/20:3(8Z,11Z,14Z))|PG(18:1(9Z)/18:2(9Z,12Z))|PG(18:3(6Z,9Z,12Z)/18:0)|PG(18:2(9Z,12Z)/18:1(9Z))|PG(18:0/18:3(9Z,12Z,15Z))|PG(18:2(9Z,12Z)/18:1(11Z)) Formula: C42H77O10P"	771.51813	0.80	0.90	42
+Unk#1125	H+	+	"By mass: PC(16:0/20:4(8Z,11Z,14Z,17Z))|PC(18:1(9Z)/18:3(9Z,12Z,15Z))|PC(18:3(9Z,12Z,15Z)/18:1(11Z))|PC(18:1(9Z)/18:3(6Z,9Z,12Z))|PC(18:3(6Z,9Z,12Z)/18:1(11Z))|PC(20:3(8Z,11Z,14Z)/16:1(9Z))|PC(16:0/20:4(5Z,8Z,11Z,14Z))|PC(18:2(9Z,12Z)/18:2(9Z,12Z))|PC(16:1(9Z)/20:3(8Z,11Z,14Z))|PC(14:0/22:4(7Z,10Z,13Z,16Z))|PC(18:1(11Z)/18:3(9Z,12Z,15Z))|PC(16:1(9Z)/20:3(5Z,8Z,11Z))|PC(20:3(5Z,8Z,11Z)/16:1(9Z))|PC(22:4(7Z,10Z,13Z,16Z)/14:0)|PC(18:0/18:4(6Z,9Z,12Z,15Z))|PC(18:4(6Z,9Z,12Z,15Z)/18:0)|PC(20:4(5Z,8Z,11Z,14Z)/16:0)|PC(20:4(8Z,11Z,14Z,17Z)/16:0)|PC(18:3(6Z,9Z,12Z)/18:1(9Z))|PC(18:3(9Z,12Z,15Z)/18:1(9Z))|PC(18:1(11Z)/18:3(6Z,9Z,12Z)) Formula: C44H80NO8P"	782.56940	1.10	1.80	42
+Unk#1126	H+	+	"By mass: PC(16:0/20:4(8Z,11Z,14Z,17Z))|PC(18:1(9Z)/18:3(9Z,12Z,15Z))|PC(18:3(9Z,12Z,15Z)/18:1(11Z))|PC(18:1(9Z)/18:3(6Z,9Z,12Z))|PC(18:3(6Z,9Z,12Z)/18:1(11Z))|PC(20:3(8Z,11Z,14Z)/16:1(9Z))|PC(16:0/20:4(5Z,8Z,11Z,14Z))|PC(18:2(9Z,12Z)/18:2(9Z,12Z))|PC(16:1(9Z)/20:3(8Z,11Z,14Z))|PC(14:0/22:4(7Z,10Z,13Z,16Z))|PC(18:1(11Z)/18:3(9Z,12Z,15Z))|PC(16:1(9Z)/20:3(5Z,8Z,11Z))|PC(20:3(5Z,8Z,11Z)/16:1(9Z))|PC(22:4(7Z,10Z,13Z,16Z)/14:0)|PC(18:0/18:4(6Z,9Z,12Z,15Z))|PC(18:4(6Z,9Z,12Z,15Z)/18:0)|PC(20:4(5Z,8Z,11Z,14Z)/16:0)|PC(20:4(8Z,11Z,14Z,17Z)/16:0)|PC(18:3(6Z,9Z,12Z)/18:1(9Z))|PC(18:3(9Z,12Z,15Z)/18:1(9Z))|PC(18:1(11Z)/18:3(6Z,9Z,12Z)) Formula: C44H80NO8P"	782.56940	1.90	2.50	42
+Unk#1127	H+	+	"By mass: PC(18:1(11Z)/18:2(9Z,12Z))|PC(16:0/20:3(5Z,8Z,11Z))|PC(18:3(6Z,9Z,12Z)/18:0)|PC(20:3(5Z,8Z,11Z)/16:0)|PC(20:3(8Z,11Z,14Z)/16:0)|PC(18:3(9Z,12Z,15Z)/18:0)|PC(14:1(9Z)/22:2(13Z,16Z))|PC(18:2(9Z,12Z)/18:1(9Z))|PC(18:2(9Z,12Z)/18:1(11Z))|PC(16:0/20:3(8Z,11Z,14Z))|PC(22:2(13Z,16Z)/14:1(9Z))|PC(18:0/18:3(6Z,9Z,12Z))|PC(18:0/18:3(9Z,12Z,15Z))|PC(18:1(9Z)/18:2(9Z,12Z))|PC(20:2(11Z,14Z)/16:1(9Z))|PC(16:1(9Z)/20:2(11Z,14Z)) Formula: C44H82NO8P"	784.58505	1.10	1.30	44
+Unk#1128	H+	+	"By mass: PC(18:1(11Z)/18:2(9Z,12Z))|PC(16:0/20:3(5Z,8Z,11Z))|PC(18:3(6Z,9Z,12Z)/18:0)|PC(20:3(5Z,8Z,11Z)/16:0)|PC(20:3(8Z,11Z,14Z)/16:0)|PC(18:3(9Z,12Z,15Z)/18:0)|PC(14:1(9Z)/22:2(13Z,16Z))|PC(18:2(9Z,12Z)/18:1(9Z))|PC(18:2(9Z,12Z)/18:1(11Z))|PC(16:0/20:3(8Z,11Z,14Z))|PC(22:2(13Z,16Z)/14:1(9Z))|PC(18:0/18:3(6Z,9Z,12Z))|PC(18:0/18:3(9Z,12Z,15Z))|PC(18:1(9Z)/18:2(9Z,12Z))|PC(20:2(11Z,14Z)/16:1(9Z))|PC(16:1(9Z)/20:2(11Z,14Z)) Formula: C44H82NO8P"	784.58505	1.90	2.70	44
+Unk#1129	H+	+	"By mass: SM(d18:1/22:1(13Z)) Formula: C45H89N2O6P"	785.65307	2.30	2.60	45
+Unk#1130	H+	+	"By mass: SM(d18:1/22:1(13Z)) Formula: C45H89N2O6P"	785.65307	1.20	1.60	45
+Unk#1131	H-	-	"By mass: PS(18:1(9Z)/18:1(9Z))|PS(18:0/18:2(9Z,12Z))|PS(18:2(9Z,12Z)/18:0) Formula: C42H78NO10P"	786.52903	2.30	2.50	42
+Unk#1132	H-	-	"By mass: PS(18:1(9Z)/18:1(9Z))|PS(18:0/18:2(9Z,12Z))|PS(18:2(9Z,12Z)/18:0) Formula: C42H78NO10P"	786.52903	1.00	1.10	42
+Unk#1133	H+	+	"By mass: PC(18:2(9Z,12Z)/18:0)|PC(18:0/18:2(9Z,12Z))|PC(18:1(9Z)/18:1(9Z))|PC(14:0/22:2(13Z,16Z))|PC(18:1(11Z)/18:1(11Z))|PC(18:1(9Z)/18:1(11Z))|PC(18:1(11Z)/18:1(9Z))|PC(20:1(11Z)/16:1(9Z))|PC(16:0/20:2(11Z,14Z))|PC(22:2(13Z,16Z)/14:0)|PC(14:1(9Z)/22:1(13Z))|PC(20:2(11Z,14Z)/16:0)|PC(22:1(13Z)/14:1(9Z))|1,2-dioleoyl-sn-glycero-3-phosphocholine|PC(16:1(9Z)/20:1(11Z)) Formula: C44H84NO8P"	786.60070	1.10	6.40	44
+Unk#1134	H+	+	"By mass: SM(d18:0/22:1(13Z))|SM(d18:1/22:0) Formula: C45H91N2O6P"	787.66872	2.30	2.40	45
+Unk#1135	H+	+	"By mass: SM(d18:0/22:1(13Z))|SM(d18:1/22:0) Formula: C45H91N2O6P"	787.66872	1.20	1.70	45
+Unk#1136	H-	-	"By mass: TG(14:1(9Z)/16:1(9Z)/o-18:0)|TG(14:1(9Z)/o-18:0/16:1(9Z))|DG(24:1(15Z)/24:1(15Z)/0:0)|DG(24:1n9/0:0/24:1n9)|TG(16:1(9Z)/14:1(9Z)/o-18:0) Formula: C51H96O5"	787.71846	16.30	16.70	51
+Unk#1137	H+	+	"By mass: PS(18:1(9Z)/18:1(9Z))|PS(18:0/18:2(9Z,12Z))|PS(18:2(9Z,12Z)/18:0) Formula: C42H78NO10P"	788.54358	1.20	1.60	42
+Unk#1138	H+	+	"By mass: PS(18:0/18:0) Formula: C42H82NO10P"	792.57488	0.80	1.00	42
+Unk#1139	H+	+	"By mass: PC(22:5(7Z,10Z,13Z,16Z,19Z)/P-16:0)|PC(P-18:0/20:5(5Z,8Z,11Z,14Z,17Z))|PC(20:4(5Z,8Z,11Z,14Z)/P-18:1(9Z))|PC(P-16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(20:4(8Z,11Z,14Z,17Z)/P-18:1(9Z))|PC(20:4(5Z,8Z,11Z,14Z)/P-18:1(11Z))|PC(o-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/P-16:0)|PC(P-16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PC(P-18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PC(dm18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:4(8Z,11Z,14Z,17Z)/P-18:1(11Z))|PC(P-18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:0)|2-O-(4,7,10,13,16,19-Docosahexaenoyl)-1-O-hexadecylglycero-3-phosphocholine|PC(P-18:1(11Z)/20:4(5Z,8Z,11Z,14Z)) Formula: C46H82NO7P"	792.59014	1.10	1.30	46
+Unk#1140	H+	+	"By mass: Lactosylceramide (d18:1/12:0) Formula: C42H79NO13"	806.56239	1.10	1.30	44
+Unk#1141	H+	+	"By mass: Lactosylceramide (d18:1/12:0) Formula: C42H79NO13"	806.56239	1.90	2.40	44
+Unk#1142	H+	+	"By mass: PC(18:3(9Z,12Z,15Z)/20:2(11Z,14Z))|PC(16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:1(11Z)/18:4(6Z,9Z,12Z,15Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:1(9Z))|PC(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))|PC(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PC(18:4(6Z,9Z,12Z,15Z)/20:1(11Z))|PC(20:2(11Z,14Z)/18:3(6Z,9Z,12Z))|PC(22:4(7Z,10Z,13Z,16Z)/16:1(9Z))|PC(20:2(11Z,14Z)/18:3(9Z,12Z,15Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/18:0)|PC(18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PC(18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:1(9Z))|PC(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))|PC(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))|PC(18:0/20:5(5Z,8Z,11Z,14Z,17Z))|PC(16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/16:0)|PC(18:3(6Z,9Z,12Z)/20:2(11Z,14Z))|PC(18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:1(11Z))|PC(20:3(5Z,8Z,11Z)/18:2(9Z,12Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/16:0)|PC(20:3(8Z,11Z,14Z)/18:2(9Z,12Z)) Formula: C46H82NO8P"	808.58505	1.10	1.70	44
+Unk#1143	H+	+	"By mass: PC(18:3(9Z,12Z,15Z)/20:2(11Z,14Z))|PC(16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:1(11Z)/18:4(6Z,9Z,12Z,15Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:1(9Z))|PC(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))|PC(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PC(18:4(6Z,9Z,12Z,15Z)/20:1(11Z))|PC(20:2(11Z,14Z)/18:3(6Z,9Z,12Z))|PC(22:4(7Z,10Z,13Z,16Z)/16:1(9Z))|PC(20:2(11Z,14Z)/18:3(9Z,12Z,15Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/18:0)|PC(18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PC(18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:1(9Z))|PC(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))|PC(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))|PC(18:0/20:5(5Z,8Z,11Z,14Z,17Z))|PC(16:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/16:0)|PC(18:3(6Z,9Z,12Z)/20:2(11Z,14Z))|PC(18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:1(11Z))|PC(20:3(5Z,8Z,11Z)/18:2(9Z,12Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/16:0)|PC(20:3(8Z,11Z,14Z)/18:2(9Z,12Z)) Formula: C46H82NO8P"	808.58505	1.90	2.30	44
+Unk#1144	H+	+	"By mass: PC(18:3(6Z,9Z,12Z)/20:1(11Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:0)|PC(18:4(6Z,9Z,12Z,15Z)/20:0)|PC(18:2(9Z,12Z)/20:2(11Z,14Z))|PC(20:1(11Z)/18:3(6Z,9Z,12Z))|PC(18:3(9Z,12Z,15Z)/20:1(11Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:0)|PC(20:2(11Z,14Z)/18:2(9Z,12Z))|PC(22:4(7Z,10Z,13Z,16Z)/16:0)|PC(18:1(9Z)/20:3(5Z,8Z,11Z))|PC(20:3(5Z,8Z,11Z)/18:1(11Z))|PC(16:0/22:4(7Z,10Z,13Z,16Z))|PC(18:1(9Z)/20:3(8Z,11Z,14Z))|PC(18:1(11Z)/20:3(8Z,11Z,14Z))|PC(20:0/18:4(6Z,9Z,12Z,15Z))|PC(20:1(11Z)/18:3(9Z,12Z,15Z))|PC(18:1(11Z)/20:3(5Z,8Z,11Z))|PC(20:3(8Z,11Z,14Z)/18:1(9Z))|PC(20:3(8Z,11Z,14Z)/18:1(11Z))|PC(18:0/20:4(5Z,8Z,11Z,14Z))|PC(18:0/20:4(8Z,11Z,14Z,17Z))|PC(20:3(5Z,8Z,11Z)/18:1(9Z)) Formula: C46H84NO8P"	810.60070	1.10	1.30	46
+Unk#1145	H+	+	"By mass: PC(18:3(6Z,9Z,12Z)/20:1(11Z))|PC(20:4(8Z,11Z,14Z,17Z)/18:0)|PC(18:4(6Z,9Z,12Z,15Z)/20:0)|PC(18:2(9Z,12Z)/20:2(11Z,14Z))|PC(20:1(11Z)/18:3(6Z,9Z,12Z))|PC(18:3(9Z,12Z,15Z)/20:1(11Z))|PC(20:4(5Z,8Z,11Z,14Z)/18:0)|PC(20:2(11Z,14Z)/18:2(9Z,12Z))|PC(22:4(7Z,10Z,13Z,16Z)/16:0)|PC(18:1(9Z)/20:3(5Z,8Z,11Z))|PC(20:3(5Z,8Z,11Z)/18:1(11Z))|PC(16:0/22:4(7Z,10Z,13Z,16Z))|PC(18:1(9Z)/20:3(8Z,11Z,14Z))|PC(18:1(11Z)/20:3(8Z,11Z,14Z))|PC(20:0/18:4(6Z,9Z,12Z,15Z))|PC(20:1(11Z)/18:3(9Z,12Z,15Z))|PC(18:1(11Z)/20:3(5Z,8Z,11Z))|PC(20:3(8Z,11Z,14Z)/18:1(9Z))|PC(20:3(8Z,11Z,14Z)/18:1(11Z))|PC(18:0/20:4(5Z,8Z,11Z,14Z))|PC(18:0/20:4(8Z,11Z,14Z,17Z))|PC(20:3(5Z,8Z,11Z)/18:1(9Z)) Formula: C46H84NO8P"	810.60070	1.90	2.40	46
+Unk#1146	H+	+	"By mass: PS(18:0/20:4(8Z,11Z,14Z,17Z))|PS(18:0/20:4(5Z,8Z,11Z,14Z))|PS(18:1(9Z)/20:3(8Z,11Z,14Z))|PS(20:3(8Z,11Z,14Z)/18:1(9Z))|PS(20:4(5Z,8Z,11Z,14Z)/18:0) Formula: C44H78NO10P"	812.54358	2.30	2.60	42
+Unk#1147	H+	+	"By mass: PC(20:0/18:3(6Z,9Z,12Z))|PC(20:2(11Z,14Z)/18:1(9Z))|PC(18:3(9Z,12Z,15Z)/20:0)|PC(20:0/18:3(9Z,12Z,15Z))|PC(18:0/20:3(8Z,11Z,14Z))|PC(20:3(5Z,8Z,11Z)/18:0)|PC(18:2(9Z,12Z)/20:1(11Z))|PC(20:3(8Z,11Z,14Z)/18:0)|PC(16:1(9Z)/22:2(13Z,16Z))|PC(22:2(13Z,16Z)/16:1(9Z))|PC(20:2(11Z,14Z)/18:1(11Z))|PC(18:0/20:3(5Z,8Z,11Z))|PC(18:3(6Z,9Z,12Z)/20:0)|PC(18:1(9Z)/20:2(11Z,14Z))|PC(18:1(11Z)/20:2(11Z,14Z))|PC(20:1(11Z)/18:2(9Z,12Z)) Formula: C46H86NO8P"	812.61635	1.10	1.30	46
+Unk#1148	H+	+	"By mass: PC(20:0/18:3(6Z,9Z,12Z))|PC(20:2(11Z,14Z)/18:1(9Z))|PC(18:3(9Z,12Z,15Z)/20:0)|PC(20:0/18:3(9Z,12Z,15Z))|PC(18:0/20:3(8Z,11Z,14Z))|PC(20:3(5Z,8Z,11Z)/18:0)|PC(18:2(9Z,12Z)/20:1(11Z))|PC(20:3(8Z,11Z,14Z)/18:0)|PC(16:1(9Z)/22:2(13Z,16Z))|PC(22:2(13Z,16Z)/16:1(9Z))|PC(20:2(11Z,14Z)/18:1(11Z))|PC(18:0/20:3(5Z,8Z,11Z))|PC(18:3(6Z,9Z,12Z)/20:0)|PC(18:1(9Z)/20:2(11Z,14Z))|PC(18:1(11Z)/20:2(11Z,14Z))|PC(20:1(11Z)/18:2(9Z,12Z)) Formula: C46H86NO8P"	812.61635	1.90	2.40	46
+Unk#1149	H+	+	"By mass: SM(d18:1/24:1(15Z)) Formula: C47H93N2O6P"	813.68437	1.20	2.00	47
+Unk#1150	H+	+	"By mass: SM(d18:1/24:1(15Z)) Formula: C47H93N2O6P"	813.68437	2.30	4.30	47
+Unk#1151	H+	+	"By mass: PC(18:1(9Z)/20:1(11Z))|PC(18:2(9Z,12Z)/20:0)|PC(20:0/18:2(9Z,12Z))|PC(20:1(11Z)/18:1(9Z))|PC(20:1(11Z)/18:1(11Z))|PC(20:2(11Z,14Z)/18:0)|PC(22:2(13Z,16Z)/16:0)|PC(16:0/22:2(13Z,16Z))|PC(14:1(9Z)/24:1(15Z))|PC(24:1(15Z)/14:1(9Z))|PC(18:0/20:2(11Z,14Z))|PC(18:1(11Z)/20:1(11Z))|PC(16:1(9Z)/22:1(13Z))|PC(22:1(13Z)/16:1(9Z)) Formula: C46H88NO8P"	814.63200	1.30	3.10	46
+Unk#1152	H-	-	"By mass: SM(d18:0/24:0) Formula: C47H97N2O6P"	815.70111	16.40	16.70	47
+Unk#1153	H-	-	"By mass: PG(18:3(9Z,12Z,15Z)/22:4(7Z,10Z,13Z,16Z))|PG(18:2(9Z,12Z)/22:5(7Z,10Z,13Z,16Z,19Z))|PG(18:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PG(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))|PG(18:2(9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z))|PG(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)) Formula: C46H77O10P"	819.51813	0.80	0.90	46
+Unk#1154	H+	+	"By mass: PS(18:0/20:0) Formula: C44H86NO10P"	820.60618	0.80	0.90	44
+Unk#1155	H+	+	"By mass: PC(18:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:2(9Z,12Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:3(6Z,9Z,12Z))|PC(18:2(9Z,12Z)/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:3(5Z,8Z,11Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))|PC(20:4(5Z,8Z,11Z,14Z)/20:3(8Z,11Z,14Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:3(9Z,12Z,15Z))|PC(20:4(5Z,8Z,11Z,14Z)/20:3(5Z,8Z,11Z))|PC(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:1(11Z))|PC(20:4(8Z,11Z,14Z,17Z)/20:3(8Z,11Z,14Z))|PC(20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:2(11Z,14Z))|PC(20:3(5Z,8Z,11Z)/20:4(5Z,8Z,11Z,14Z))|PC(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))|PC(18:2(9Z,12Z)/22:5(4Z,7Z,10Z,13Z,16Z))|PC(20:2(11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z))|PC(18:3(9Z,12Z,15Z)/22:4(7Z,10Z,13Z,16Z))|PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:1(9Z))|PC(20:3(8Z,11Z,14Z)/20:4(8Z,11Z,14Z,17Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:2(9Z,12Z)) Formula: C48H82NO8P"	832.58505	1.90	2.40	46
+Unk#1156	H-	-	"By mass: PI(16:1(9Z)/18:1(9Z))|PI(16:0/18:2(9Z,12Z))|1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-D-myo-inositol|PI(18:0/16:2(9Z,12Z))|PI(18:2(9Z,12Z)/16:0)|PI(16:2(9Z,12Z)/18:0)|PI(16:1(9Z)/18:1(11Z))|PI(18:1(11Z)/16:1(9Z))|PI(18:1(9Z)/16:1(9Z)) Formula: C43H79O13P"	833.51852	1.00	1.10	43
+Unk#1157	H+	+	"By mass: PC(18:1(11Z)/22:5(7Z,10Z,13Z,16Z,19Z))|PC(18:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))|PC(18:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:1(11Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:1(9Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:1(11Z))|PC(20:2(11Z,14Z)/20:4(8Z,11Z,14Z,17Z))|PC(20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z))|PC(20:3(5Z,8Z,11Z)/20:3(8Z,11Z,14Z))|PC(20:3(5Z,8Z,11Z)/20:3(5Z,8Z,11Z))|PC(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|PC(20:4(5Z,8Z,11Z,14Z)/20:2(11Z,14Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:2(9Z,12Z))|PC(20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z))|PC(18:4(6Z,9Z,12Z,15Z)/22:2(13Z,16Z))|PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:0)|PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:1(9Z))|PC(18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z))|PC(20:4(8Z,11Z,14Z,17Z)/20:2(11Z,14Z))|PC(22:2(13Z,16Z)/18:4(6Z,9Z,12Z,15Z))|PC(18:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))|PC(20:3(8Z,11Z,14Z)/20:3(5Z,8Z,11Z)) Formula: C48H84NO8P"	834.60070	1.10	1.30	46
+Unk#1158	H-	-	"By mass: PI(18:1(9Z)/16:0)|PI(18:1(11Z)/16:0)|PI(16:0/18:1(11Z))|PI(16:1(9Z)/18:0)|PI(16:0/18:1(9Z))|PI(18:0/16:1(9Z)) Formula: C43H81O13P"	835.53417	1.00	1.10	43
+Unk#1159	H+	+	"By mass: PC(18:0/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:3(5Z,8Z,11Z)/20:2(11Z,14Z))|PC(20:4(8Z,11Z,14Z,17Z)/20:1(11Z))|PC(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))|PC(18:4(6Z,9Z,12Z,15Z)/22:1(13Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:1(9Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:1(11Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:0)|PC(20:3(8Z,11Z,14Z)/20:2(11Z,14Z))|PC(18:3(6Z,9Z,12Z)/22:2(13Z,16Z))|PC(20:0/20:5(5Z,8Z,11Z,14Z,17Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:0)|PC(18:3(9Z,12Z,15Z)/22:2(13Z,16Z))|PC(18:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(22:2(13Z,16Z)/18:3(6Z,9Z,12Z))|PC(20:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PC(22:2(13Z,16Z)/18:3(9Z,12Z,15Z))|PC(22:1(13Z)/18:4(6Z,9Z,12Z,15Z))|PC(20:2(11Z,14Z)/20:3(5Z,8Z,11Z))|PC(20:2(11Z,14Z)/20:3(8Z,11Z,14Z))|PC(20:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:0)|PC(18:1(11Z)/22:4(7Z,10Z,13Z,16Z))|PC(20:4(5Z,8Z,11Z,14Z)/20:1(11Z)) Formula: C48H86NO8P"	836.61635	1.10	1.30	46
+Unk#1160	H+	+	"By mass: PC(18:0/22:5(7Z,10Z,13Z,16Z,19Z))|PC(20:3(5Z,8Z,11Z)/20:2(11Z,14Z))|PC(20:4(8Z,11Z,14Z,17Z)/20:1(11Z))|PC(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))|PC(18:4(6Z,9Z,12Z,15Z)/22:1(13Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:1(9Z))|PC(22:4(7Z,10Z,13Z,16Z)/18:1(11Z))|PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:0)|PC(20:3(8Z,11Z,14Z)/20:2(11Z,14Z))|PC(18:3(6Z,9Z,12Z)/22:2(13Z,16Z))|PC(20:0/20:5(5Z,8Z,11Z,14Z,17Z))|PC(22:5(4Z,7Z,10Z,13Z,16Z)/18:0)|PC(18:3(9Z,12Z,15Z)/22:2(13Z,16Z))|PC(18:0/22:5(4Z,7Z,10Z,13Z,16Z))|PC(22:2(13Z,16Z)/18:3(6Z,9Z,12Z))|PC(20:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PC(22:2(13Z,16Z)/18:3(9Z,12Z,15Z))|PC(22:1(13Z)/18:4(6Z,9Z,12Z,15Z))|PC(20:2(11Z,14Z)/20:3(5Z,8Z,11Z))|PC(20:2(11Z,14Z)/20:3(8Z,11Z,14Z))|PC(20:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PC(22:5(7Z,10Z,13Z,16Z,19Z)/18:0)|PC(18:1(11Z)/22:4(7Z,10Z,13Z,16Z))|PC(20:4(5Z,8Z,11Z,14Z)/20:1(11Z)) Formula: C48H86NO8P"	836.61635	1.90	2.40	46
+Unk#1161	H+	+	"By mass: PE(DiMe(9,3)/MonoMe(13,5))|PE(MonoMe(11,5)/DiMe(11,3))|PE(MonoMe(11,3)/DiMe(11,5))|PE(DiMe(11,3)/MonoMe(11,5))|PE(MonoMe(13,5)/DiMe(9,3))|PE(DiMe(11,5)/MonoMe(9,5))|PE(MonoMe(9,5)/DiMe(11,5))|PS(18:0/22:5(7Z,10Z,13Z,16Z,19Z))|PE(MonoMe(11,5)/DiMe(9,5))|PE(DiMe(11,5)/MonoMe(11,3))|PE(DiMe(9,5)/MonoMe(11,5)) Formula: C46H80NO10P"	838.55923	0.80	0.90	58
+Unk#1162	H+	+	"By mass: TG(16:1(9Z)/18:3(6Z,9Z,12Z)/o-18:0)|TG(16:0/18:4(6Z,9Z,12Z,15Z)/o-18:0)|TG(14:0/20:4(5Z,8Z,11Z,14Z)/o-18:0)|TG(14:1(9Z)/o-18:0/20:3n6)|TG(14:1(9Z)/20:3n6/o-18:0)|TG(18:4(6Z,9Z,12Z,15Z)/16:0/o-18:0)|TG(20:4(5Z,8Z,11Z,14Z)/14:0/o-18:0)|TG(18:3(6Z,9Z,12Z)/16:1(9Z)/o-18:0)|TG(18:3(9Z,12Z,15Z)/16:1(9Z)/o-18:0)|TG(14:0/o-18:0/20:4(8Z,11Z,14Z,17Z))|TG(20:3n6/14:1(9Z)/o-18:0)|TG(14:0/o-18:0/20:4(5Z,8Z,11Z,14Z))|TG(20:3(5Z,8Z,11Z)/14:1(9Z)/o-18:0)|TG(14:1(9Z)/o-18:0/20:3(5Z,8Z,11Z))|TG(16:1(9Z)/o-18:0/18:3(9Z,12Z,15Z))|TG(20:4(8Z,11Z,14Z,17Z)/14:0/o-18:0)|TG(14:0/20:4(8Z,11Z,14Z,17Z)/o-18:0)|TG(16:1(9Z)/o-18:0/18:3(6Z,9Z,12Z))|TG(16:1(9Z)/18:3(9Z,12Z,15Z)/o-18:0)|TG(14:1(9Z)/20:3(5Z,8Z,11Z)/o-18:0)|TG(16:0/o-18:0/18:4(6Z,9Z,12Z,15Z)) Formula: C55H100O5"	841.76431	16.40	16.80	56
+Unk#1163	H-	-	"By mass: PI(18:1(9Z)/18:3(9Z,12Z,15Z))|PI(18:3(6Z,9Z,12Z)/18:1(11Z))|PI(16:0/20:4(8Z,11Z,14Z,17Z))|PI(18:1(11Z)/18:3(9Z,12Z,15Z))|PI(18:2(9Z,12Z)/18:2(9Z,12Z))|1,2-dilinoleoyl-sn-glycero-3-phospho-1D-myo-inositol|PI(20:4(5Z,8Z,11Z,14Z)/16:0)|PI(18:3(9Z,12Z,15Z)/18:1(9Z))|PI(16:0/20:4(5Z,8Z,11Z,14Z))|PI(20:4(8Z,11Z,14Z,17Z)/16:0)|PI(18:3(6Z,9Z,12Z)/18:1(9Z))|PI(18:1(9Z)/18:3(6Z,9Z,12Z))|PI(18:1(11Z)/18:3(6Z,9Z,12Z))|PI(18:3(9Z,12Z,15Z)/18:1(11Z)) Formula: C45H79O13P"	857.51852	1.00	1.10	45
+Unk#1164	H+	+	"By mass: PC(o-20:0/22:0)|PC(o-18:0/24:0) Formula: C50H102NO7P"	860.74663	16.30	16.70	50
+Unk#1165	H-	-	"By mass: PI(16:0/20:2(11Z,14Z))|PI(18:1(11Z)/18:1(11Z))|PI(18:1(9Z)/18:1(11Z))|PI(18:1(9Z)/18:1(9Z))|PI(18:2(9Z,12Z)/18:0)|PI(18:1(11Z)/18:1(9Z))|PI(20:2(11Z,14Z)/16:0)|PI(18:0/18:2(9Z,12Z)) Formula: C45H83O13P"	861.54982	1.00	1.10	45
+Unk#1166	H-	-	"By mass: PC(22:1(13Z)/20:1(11Z))|PC(20:1(11Z)/22:1(13Z))|PC(20:0/22:2(13Z,16Z))|PC(18:1(11Z)/24:1(15Z))|PC(24:1(15Z)/18:1(9Z))|PC(18:2(9Z,12Z)/24:0)|PC(24:0/18:2(9Z,12Z))|PC(22:2(13Z,16Z)/20:0)|PC(18:1(9Z)/24:1(15Z))|PC(22:0/20:2(11Z,14Z))|PC(24:1(15Z)/18:1(11Z))|PC(20:2(11Z,14Z)/22:0) Formula: C50H96NO8P"	868.68004	16.40	16.70	50
+Unk#1167	H-	-	"By mass: PI(20:4(8Z,11Z,14Z,17Z)/18:1(9Z))|PI(18:2(9Z,12Z)/20:3(5Z,8Z,11Z))|PI(20:4(8Z,11Z,14Z,17Z)/18:1(11Z))|PI(22:3(10Z,13Z,16Z)/16:2(9Z,12Z))|PI(18:1(11Z)/20:4(8Z,11Z,14Z,17Z))|PI(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))|1-oleoyl-2-arachidonoyl-sn-glycero-3-phospho-1D-myo-inositol|PI(18:1(11Z)/20:4(5Z,8Z,11Z,14Z))|PI(18:1(9Z)/20:4(5Z,8Z,11Z,14Z))|PI(16:2(9Z,12Z)/22:3(10Z,13Z,16Z))|PI(18:1(9Z)/20:4(8Z,11Z,14Z,17Z))|PI(16:0/22:5(7Z,10Z,13Z,16Z,19Z))|PI(20:4(5Z,8Z,11Z,14Z)/18:1(9Z))|PI(22:5(4Z,7Z,10Z,13Z,16Z)/16:0)|PI(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))|PI(22:5(7Z,10Z,13Z,16Z,19Z)/16:0)|PI(20:3(8Z,11Z,14Z)/18:2(9Z,12Z))|PI(20:3(5Z,8Z,11Z)/18:2(9Z,12Z))|PI(16:0/22:5(4Z,7Z,10Z,13Z,16Z)) Formula: C47H81O13P"	883.53417	0.90	1.10	47
+Unk#1168	H-	-	"By mass: PI(20:3(5Z,8Z,11Z)/18:1(11Z))|PI(20:4(5Z,8Z,11Z,14Z)/18:0)|PI(16:0/22:4(7Z,10Z,13Z,16Z))|PI(18:1(9Z)/20:3(8Z,11Z,14Z))|PI(18:1(11Z)/20:3(5Z,8Z,11Z))|PI(18:0/20:4(5Z,8Z,11Z,14Z))|PI(16:0/22:4(10Z,13Z,16Z,19Z))|PI(20:3(8Z,11Z,14Z)/18:1(9Z))|PI(20:3(5Z,8Z,11Z)/18:1(9Z))|PI(18:1(11Z)/20:3(8Z,11Z,14Z))|PI(22:4(10Z,13Z,16Z,19Z)/16:0)|PI(22:4(7Z,10Z,13Z,16Z)/16:0)|PI(18:1(9Z)/20:3(5Z,8Z,11Z))|PI(20:4(8Z,11Z,14Z,17Z)/18:0)|PI(20:2(11Z,14Z)/18:2(9Z,12Z))|PI(20:3(8Z,11Z,14Z)/18:1(11Z))|PI(18:2(9Z,12Z)/20:2(11Z,14Z))|PI(18:0/20:4(8Z,11Z,14Z,17Z)) Formula: C47H83O13P"	885.54982	0.90	1.10	47
+Unk#1169	H-	-	"By mass: TG(22:5(4Z,7Z,10Z,13Z,16Z)/15:0/18:4(6Z,9Z,12Z,15Z))|TG(15:0/18:3(9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(15:0/22:5(7Z,10Z,13Z,16Z,19Z)/18:4(6Z,9Z,12Z,15Z))|TG(15:0/18:4(6Z,9Z,12Z,15Z)/22:5(7Z,10Z,13Z,16Z,19Z))|TG(15:0/18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(15:0/22:5(4Z,7Z,10Z,13Z,16Z)/18:4(6Z,9Z,12Z,15Z))|TG(15:0/20:4(8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))|TG(15:0/18:4(6Z,9Z,12Z,15Z)/22:5(4Z,7Z,10Z,13Z,16Z))|TG(15:0/20:4(5Z,8Z,11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z))|TG(18:3(6Z,9Z,12Z)/15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(18:4(6Z,9Z,12Z,15Z)/15:0/22:5(7Z,10Z,13Z,16Z,19Z))|TG(15:0/20:5(5Z,8Z,11Z,14Z,17Z)/20:4(8Z,11Z,14Z,17Z))|TG(18:3(9Z,12Z,15Z)/15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(20:4(5Z,8Z,11Z,14Z)/15:0/20:5(5Z,8Z,11Z,14Z,17Z))|TG(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(6Z,9Z,12Z))|TG(15:0/20:5(5Z,8Z,11Z,14Z,17Z)/20:4(5Z,8Z,11Z,14Z))|TG(20:4(8Z,11Z,14Z,17Z)/15:0/20:5(5Z,8Z,11Z,14Z,17Z))|TG(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/18:3(9Z,12Z,15Z)) Formula: C58H94O6"	885.69773	16.40	16.70	58
+Unk#1170	H+	+	"By mass: PE(24:1(15Z)/24:0)|PE(24:0/24:1(15Z)) Formula: C53H104NO8P"	914.75719	16.50	16.80	53
+Unk#1171	H+	+	"By mass: TG(15:0/22:5(7Z,10Z,13Z,16Z,19Z)/20:3n6)|TG(15:0/22:4(7Z,10Z,13Z,16Z)/20:4(8Z,11Z,14Z,17Z))|TG(15:0/20:3n6/22:5(4Z,7Z,10Z,13Z,16Z))|TG(15:0/22:5(7Z,10Z,13Z,16Z,19Z)/20:3(5Z,8Z,11Z))|TG(15:0/20:3(5Z,8Z,11Z)/22:5(7Z,10Z,13Z,16Z,19Z))|TG(22:4(7Z,10Z,13Z,16Z)/15:0/20:4(8Z,11Z,14Z,17Z))|TG(20:3(5Z,8Z,11Z)/15:0/22:5(7Z,10Z,13Z,16Z,19Z))|TG(20:3n6/15:0/22:5(4Z,7Z,10Z,13Z,16Z))|TG(15:0/20:3n6/22:5(7Z,10Z,13Z,16Z,19Z))|TG(15:0/22:5(4Z,7Z,10Z,13Z,16Z)/20:3(5Z,8Z,11Z))|TG(15:0/20:4(8Z,11Z,14Z,17Z)/22:4(7Z,10Z,13Z,16Z))|TG(20:3(5Z,8Z,11Z)/15:0/22:5(4Z,7Z,10Z,13Z,16Z))|TG(15:0/20:3(5Z,8Z,11Z)/22:5(4Z,7Z,10Z,13Z,16Z))|TG(20:3n6/15:0/22:5(7Z,10Z,13Z,16Z,19Z))|TG(15:0/22:5(4Z,7Z,10Z,13Z,16Z)/20:3n6)|TG(15:0/22:4(7Z,10Z,13Z,16Z)/20:4(5Z,8Z,11Z,14Z))|TG(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/20:2n6)|TG(20:2n6/15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(15:0/20:2n6/22:6(4Z,7Z,10Z,13Z,16Z,19Z))|TG(20:4(5Z,8Z,11Z,14Z)/15:0/22:4(7Z,10Z,13Z,16Z))|TG(15:0/20:4(5Z,8Z,11Z,14Z)/22:4(7Z,10Z,13Z,16Z)) Formula: C60H100O6"	917.75923	16.50	16.80	64
